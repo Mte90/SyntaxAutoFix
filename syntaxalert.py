@@ -117,7 +117,6 @@ process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.P
 for line in unbuffered(process):
     letter = getKey(line)
     if str(letter) != 'None' or letter != None:
-        print(letter)
         if letter == 'space' or letter == 'KP_Enter' or letter == 'Return':
             alert(word)
             word = ''
