@@ -1,7 +1,21 @@
 #!/usr/bin/env python3
-
 import contextlib, random
 import subprocess, json
+import argparse, os.path
+
+parser = argparse.ArgumentParser(description='Scan your gitied letter for wrong word and alert you!')
+parser.add_argument('-words', action="store", dest='words_file', required=True)
+parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
+
+args = parser.parse_args()
+
+if os.path.isfile(args.words_file) == False:
+    print('ERR: Words file not exist!')
+    exit()
+
+if os.path.isfile(args.alerts_file) == False:
+    print('ERR: Alerts file not exist!')
+    exit()
 
 newlines = ['\n', '\r\n', '\r']
 def unbuffered(proc, stream='stdout'):
@@ -44,7 +58,7 @@ def alert(word):
         for (wrongs, correct) in words.items():
             for wrong in words[wrongs]:
                 if wrong == word:
-                    message = alert % ('<font color="red">' + word + '</font>', '<font color="blue">' + str(correct[0]) + '</font>')
+                    message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(correct[0]) + '</b></font>')
                     subprocess.call(['kdialog','--sorry', message ])
 
 def loadWord(filename):
@@ -53,10 +67,10 @@ def loadWord(filename):
         return words
 
 keys = keyMap()
-f = open("alert.txt")
+f = open(args.alerts_file)
 alerts = f.readlines()
 
-words = loadWord("word.json")
+words = loadWord(args.words_file)
 
 word = ''
 process = subprocess.Popen( ['xinput', 'test', '10'], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
