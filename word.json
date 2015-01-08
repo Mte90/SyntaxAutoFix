@@ -1,6 +1,7 @@
 {
-    'words': [
-        'ciao': 'ciao',
-        'boilerplate': ['boilerpalte'. 'bolerplate']
+    "ciao": ["ciao"],
+    "boilerplate": [
+        "boilerpalte",
+        "bolerplate"
     ]
 }

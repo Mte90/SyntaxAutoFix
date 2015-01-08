@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import contextlib, random
-import subprocess
+import subprocess, json
 
 newlines = ['\n', '\r\n', '\r']
 def unbuffered(proc, stream='stdout'):
@@ -40,11 +40,23 @@ def getKey(char):
 def alert(word):
     if word != '':
         alert = random.choice(alerts)
-        print(alert + ' ' + word)
+        alert = alert.rstrip('\n')
+        for (wrongs, correct) in words.items():
+            for wrong in words[wrongs]:
+                if wrong == word:
+                    message = alert % ('<font color="red">' + word + '</font>', '<font color="blue">' + str(correct[0]) + '</font>')
+                    subprocess.call(['kdialog','--sorry', message ])
+
+def loadWord(filename):
+    with open(filename) as json_file:
+        words = json.load(json_file)
+        return words
 
 keys = keyMap()
 f = open("alert.txt")
 alerts = f.readlines()
+
+words = loadWord("word.json")
 
 word = ''
 process = subprocess.Popen( ['xinput', 'test', '10'], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
@@ -57,4 +69,3 @@ for line in unbuffered(process):
             word = ''
         elif letter != 'F12':
             word += str(letter)
-
