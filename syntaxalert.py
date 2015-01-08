@@ -3,14 +3,15 @@ import contextlib, random
 import subprocess, json
 import argparse, os.path
 
-parser = argparse.ArgumentParser(description='Scan your gitied letter for wrong word and alert you!')
+# Parse argument
+parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
 parser.add_argument('-words', action="store", dest='words_file', required=True)
 parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
 parser.add_argument('-words2', action="store", dest='words_file2')
 parser.add_argument('-alerts2', action="store", dest='alerts_file2')
-
 args = parser.parse_args()
 
+# Clean output from the shell
 newlines = ['\n', '\r\n', '\r']
 def unbuffered(proc, stream='stdout'):
     stream = getattr(proc, stream)
@@ -30,6 +31,7 @@ def unbuffered(proc, stream='stdout'):
             out = ''.join(out)
             yield out
 
+# Load the keycode from the keyboard
 def keyMap():
     p = subprocess.Popen(["xmodmap","-pke"], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
     key = {}
@@ -39,12 +41,14 @@ def keyMap():
             key[line[0]] = line[2]
     return key
 
+# Check the last key
 def getKey(char):
     if char.startswith("key release"):
         char = char.replace('key release','').strip()
         if str(keys[char]) != 'None':
             return keys[char]
 
+# Alert the user about the wrong word
 def alert(word):
     if word != '':
         alert = random.choice(alerts)
@@ -55,6 +59,7 @@ def alert(word):
                     message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(correct[0]) + '</b></font>')
                     subprocess.call(['kdialog','--sorry', message ])
 
+# Load words
 def loadWord(filename):
     with open(filename) as json_file:
         words = json.load(json_file)
@@ -62,6 +67,7 @@ def loadWord(filename):
 
 keys = keyMap()
 
+# Check the file and load it
 if os.path.isfile(args.words_file) == False:
     print('ERR: Words file not exist!')
     exit()
@@ -96,11 +102,13 @@ else:
 word = ''
 process = subprocess.Popen( ['xinput', 'test', '10'], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
 
+# Check if space or enter for split the word
 for line in unbuffered(process):
     letter = getKey(line)
     if str(letter) != 'None' or letter != None:
         if letter == 'space' or letter == 'KP_Enter':
             alert(word)
             word = ''
+        # Ignore these keys
         elif letter != 'F12':
             word += str(letter)
