@@ -7,6 +7,7 @@ import argparse, os.path
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
 parser.add_argument('-words', action="store", dest='words_file', required=True)
 parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
+parser.add_argument('-xinput', action="store", dest='xinput', required=True)
 parser.add_argument('-words2', action="store", dest='words_file2')
 parser.add_argument('-alerts2', action="store", dest='alerts_file2')
 args = parser.parse_args()
@@ -100,7 +101,7 @@ else:
     words = loadWord(args.words_file)
 
 word = ''
-process = subprocess.Popen( ['xinput', 'test', '10'], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
+process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
 
 # Check if space or enter for split the word
 for line in unbuffered(process):
