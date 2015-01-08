@@ -6,16 +6,10 @@ import argparse, os.path
 parser = argparse.ArgumentParser(description='Scan your gitied letter for wrong word and alert you!')
 parser.add_argument('-words', action="store", dest='words_file', required=True)
 parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
+parser.add_argument('-words2', action="store", dest='words_file2')
+parser.add_argument('-alerts2', action="store", dest='alerts_file2')
 
 args = parser.parse_args()
-
-if os.path.isfile(args.words_file) == False:
-    print('ERR: Words file not exist!')
-    exit()
-
-if os.path.isfile(args.alerts_file) == False:
-    print('ERR: Alerts file not exist!')
-    exit()
 
 newlines = ['\n', '\r\n', '\r']
 def unbuffered(proc, stream='stdout'):
@@ -67,10 +61,37 @@ def loadWord(filename):
         return words
 
 keys = keyMap()
-f = open(args.alerts_file)
-alerts = f.readlines()
 
-words = loadWord(args.words_file)
+if os.path.isfile(args.words_file) == False:
+    print('ERR: Words file not exist!')
+    exit()
+
+if os.path.isfile(args.alerts_file) == False:
+    print('ERR: Alerts file not exist!')
+    exit()
+
+if args.alerts_file2 != None:
+    if os.path.isfile(args.alerts_file2) != False:
+        f = open(args.alerts_file)
+        alerts = f.readlines()
+        f = open(args.alerts_file2)
+        alerts2 = f.readlines()
+        alerts = alerts + alerts2
+    else:
+        print('ERR: Alerts 2 file not exist!')
+else:
+    f = open(args.alerts_file)
+    alerts = f.readlines()
+
+if args.words_file2 != None:
+    if os.path.isfile(args.words_file2) != False:
+        words = loadWord(args.words_file)
+        words2 = loadWord(args.words_file2)
+        words.update(words2)
+    else:
+        print('ERR: Alerts 2 file not exist!')
+else:
+    words = loadWord(args.words_file)
 
 word = ''
 process = subprocess.Popen( ['xinput', 'test', '10'], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
