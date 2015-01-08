@@ -47,6 +47,16 @@ def getKey(char):
     if char.startswith("key release"):
         char = char.replace('key release','').strip()
         if str(keys[char]) != 'None':
+            if str(keys[char]) == 'apostrophe':
+                keys[char] = "'"
+            elif str(keys[char]) == 'ograve':
+                keys[char] = "ò"
+            elif str(keys[char]) == 'egrave':
+                keys[char] = "è"
+            elif str(keys[char]) == 'agrave':
+                keys[char] = "à"
+            elif str(keys[char]) == 'igrave':
+                keys[char] = "ì"
             return keys[char]
 
 # Alert the user about the wrong word
@@ -107,9 +117,9 @@ process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.P
 for line in unbuffered(process):
     letter = getKey(line)
     if str(letter) != 'None' or letter != None:
-        if letter == 'space' or letter == 'KP_Enter':
+        if letter == 'space' or letter == 'KP_Enter' or letter == 'Return':
             alert(word)
             word = ''
-        # Ignore these keys
-        elif letter != 'F12':
+        # Ignore the functional key and append the letter
+        elif len(letter) == 1:
             word += str(letter)
