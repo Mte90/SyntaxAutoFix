@@ -67,7 +67,7 @@ def alert(word):
         for (wrongs, correct) in words.items():
             for wrong in words[wrongs]:
                 if wrong == word:
-                    message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(correct[0]) + '</b></font>')
+                    message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(wrongs) + '</b></font>')
                     subprocess.call(['kdialog','--sorry', message ])
 
 # Load words
