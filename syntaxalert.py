@@ -8,6 +8,7 @@ parser = argparse.ArgumentParser(description='Scan your digited letter for wrong
 parser.add_argument('-words', action="store", dest='words_file', required=True)
 parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
 parser.add_argument('-xinput', action="store", dest='xinput', required=True)
+parser.add_argument('-warning', action="store", dest='warnings_file')
 parser.add_argument('-words2', action="store", dest='words_file2')
 parser.add_argument('-alerts2', action="store", dest='alerts_file2')
 args = parser.parse_args()
@@ -76,6 +77,13 @@ def loadWord(filename):
         words = json.load(json_file)
         return words
 
+# Open a notify about a warning
+def checkWarning(word):
+    for (wrong, alert) in warning.items():
+        if word == wrong:
+            message = alert % (wrong)
+            subprocess.call(['notify-send', message ])
+
 keys = keyMap()
 
 # Check the file and load it
@@ -110,6 +118,19 @@ if args.words_file2 != None:
 else:
     words = loadWord(args.words_file)
 
+# Load warning word
+warnings = []
+warning = {}
+if args.warnings_file != None:
+    if os.path.isfile(args.warnings_file) != False:
+        f = open(args.warnings_file)
+        warnings = f.readlines()
+        for warningsplit in warnings:
+            warningsplit = warningsplit.split('|\|')
+            warning[warningsplit[0]] = warningsplit[1]
+    else:
+        print('ERR: Warning file not exist!')
+
 word = ''
 process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
 
@@ -129,3 +150,4 @@ for line in unbuffered(process):
         # Ignore the functional key and append the letter
         elif len(letter) == 1:
             word += str(letter)
+            checkWarning(word)
