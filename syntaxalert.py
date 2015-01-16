@@ -69,7 +69,8 @@ def alert(word):
             for wrong in words[wrongs]:
                 if wrong == word:
                     message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(wrongs) + '</b></font>')
-                    subprocess.call(['kdialog','--sorry', message ])
+                    subprocess.Popen(['kdialog','--sorry', message ])
+                    subprocess.Popen(['play', '/usr/share/sounds/KDE-Sys-File-Open-Foes.ogg'])
 
 # Load words
 def loadWord(filename):
@@ -82,7 +83,8 @@ def checkWarning(word):
     for (wrong, alert) in warning.items():
         if word == wrong:
             message = alert % (wrong)
-            subprocess.call(['notify-send', message ])
+            subprocess.Popen(['notify-send', message ])
+            subprocess.Popen(['play', '/usr/share/sounds/KDE-Sys-Warning.ogg'])
 
 keys = keyMap()
 

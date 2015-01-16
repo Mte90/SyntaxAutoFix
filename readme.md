@@ -14,6 +14,7 @@ Is a nice keylogger that not save data!
 * xinput
 * kdialog
 * notify-send
+* play (inline code for execute KDE sound)
 
 #How to use
 
