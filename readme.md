@@ -26,4 +26,6 @@ Only En words:
 
 En and It words:  
 
-```syntaxalert.py -words ./words/en.json -alerts ./alerts/en.txt -words2 ./words/it.json -alerts2 ./alerts/it.txt -warning ./warnings/it.txt -xinput 10```
+```syntaxalert.py -words ./words/en.json -alerts ./alerts/en.txt -words2 ./words/it.json -alerts2 ./alerts/it.txt -warning ./warnings/it.txt -xinput auto```
+
+xinput flag support the id number or `auto` value for autodetect searching by a keyboard

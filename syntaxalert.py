@@ -78,6 +78,10 @@ def loadWord(filename):
         words = json.load(json_file)
         return words
 
+# Autodetect xinput device
+def idAutoDetect():
+    return int(os.popen("xinput list | grep 'Keyboard' | head -n 1 | cut -d '=' -f 2 | cut -b 1-3").read())
+
 # Open a notify about a warning
 def checkWarning(word):
     for (wrong, alert) in warning.items():
@@ -96,6 +100,9 @@ if os.path.isfile(args.words_file) == False:
 if os.path.isfile(args.alerts_file) == False:
     print('ERR: Alerts file not exist!')
     exit()
+
+if args.xinput == 'auto':
+    args.xinput = str(idAutoDetect())
 
 if args.alerts_file2 != None:
     if os.path.isfile(args.alerts_file2) != False:
