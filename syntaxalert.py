@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import contextlib, random
 import subprocess, json
-import argparse, os.path
+import argparse, os.path,re
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
@@ -80,7 +80,7 @@ def loadWord(filename):
 
 # Autodetect xinput device
 def idAutoDetect():
-    return int(os.popen("xinput list | grep 'Keyboard' | head -n 1 | cut -d '=' -f 2 | cut -b 1-3").read())
+    return int(re.sub("[^0-9]", "",os.popen("xinput list | grep 'Keyboard' | head -n 1 | cut -d '=' -f 2 | cut -b 1-3").read()))
 
 # Open a notify about a warning
 def checkWarning(word):
