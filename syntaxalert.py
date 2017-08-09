@@ -3,14 +3,16 @@ import contextlib, random
 import subprocess, json
 import argparse, os.path, re
 
+script_path = os.path.dirname(os.path.realpath(__file__))
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-parser.add_argument('-words', action="store", dest='words_file', required=True)
-parser.add_argument('-alerts', action="store", dest='alerts_file', required=True)
-parser.add_argument('-xinput', action="store", dest='xinput', required=True)
-parser.add_argument('-warning', action="store", dest='warnings_file')
-parser.add_argument('-words2', action="store", dest='words_file2')
-parser.add_argument('-alerts2', action="store", dest='alerts_file2')
+
+parser.add_argument('-words', action="store", dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
+parser.add_argument('-alerts', action="store", dest='alerts_file', nargs='?', default=script_path + '/alerts/en.txt', type=str)
+parser.add_argument('-xinput', action="store", dest='xinput', nargs='?', default='auto', type=str)
+parser.add_argument('-warning', action="store", dest='warnings_file', nargs='?', default=script_path + '/warnings/it.txt', type=str)
+parser.add_argument('-words2', action="store", dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
+parser.add_argument('-alerts2', action="store", dest='alerts_file2', nargs='?', default=script_path + '/alerts/en.txt', type=str)
 args = parser.parse_args()
 
 # Clean output from the shell
@@ -35,6 +37,7 @@ def unbuffered(proc, stream='stdout'):
             out = ''.join(out)
             yield out
 
+
 # Load the keycode from the keyboard
 def keyMap():
     p = subprocess.Popen(["xmodmap","-pke"], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
@@ -49,7 +52,8 @@ def keyMap():
 # Check the last key
 def getKey(char):
     if char.startswith("key release"):
-        char = char.replace('key release', '').strip()
+        char = char.replace('key release', '').strip()      
+        print(keys[char])
         if str(keys[char]) != 'None':
             if str(keys[char]) == 'apostrophe':
                 keys[char] = "'"
@@ -61,6 +65,8 @@ def getKey(char):
                 keys[char] = "à"
             elif str(keys[char]) == 'igrave':
                 keys[char] = "ì"
+            elif str(keys[char]) == 'üy':
+                keys[char] = "ü"  
             return keys[char]
 
 
@@ -73,7 +79,7 @@ def alert(word):
             for wrong in words[wrongs]:
                 if wrong == word:
                     message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(wrongs) + '</b></font>')
-                    subprocess.Popen(['kdialog', '--sorry', message ])
+                    subprocess.Popen(['kdialog', '--sorry', message])
                     subprocess.Popen(['play', '/usr/share/sounds/KDE-Sys-File-Open-Foes.ogg'])
 
 # Load words
@@ -81,6 +87,7 @@ def loadWord(filename):
     with open(filename) as json_file:
         words = json.load(json_file)
         return words
+
 
 # Autodetect xinput device
 def idAutoDetect():
@@ -92,8 +99,9 @@ def checkWarning(word):
     for (wrong, alert) in warning.items():
         if word == wrong:
             message = alert % (wrong)
-            subprocess.Popen(['notify-send', message ])
+            subprocess.Popen(['notify-send', message])
             subprocess.Popen(['play', '/usr/share/sounds/KDE-Sys-Warning.ogg'])
+
 
 keys = keyMap()
 
@@ -146,7 +154,7 @@ if args.warnings_file is not None:
         print('ERR: Warning file not exist!')
 
 word = ''
-process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
+process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
 
 # Check if space or enter for split the word
 for line in unbuffered(process):
