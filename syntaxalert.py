@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import contextlib, random
 import subprocess, json
-import argparse, os.path,re
+import argparse, os.path, re
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
@@ -15,6 +15,8 @@ args = parser.parse_args()
 
 # Clean output from the shell
 newlines = ['\n', '\r\n', '\r']
+
+
 def unbuffered(proc, stream='stdout'):
     stream = getattr(proc, stream)
     with contextlib.closing(stream):
@@ -38,15 +40,16 @@ def keyMap():
     p = subprocess.Popen(["xmodmap","-pke"], stdout=subprocess.PIPE, stderr=subprocess.PIPE,universal_newlines=True)
     key = {}
     for line in unbuffered(p):
-        line = line.replace('keycode','').strip().split()
-        if len(line) > 2 and line[2] != None:
+        line = line.replace('keycode', '').strip().split()
+        if len(line) > 2 and line[2] is not None:
             key[line[0]] = line[2]
     return key
+
 
 # Check the last key
 def getKey(char):
     if char.startswith("key release"):
-        char = char.replace('key release','').strip()
+        char = char.replace('key release', '').strip()
         if str(keys[char]) != 'None':
             if str(keys[char]) == 'apostrophe':
                 keys[char] = "'"
@@ -60,6 +63,7 @@ def getKey(char):
                 keys[char] = "ì"
             return keys[char]
 
+
 # Alert the user about the wrong word
 def alert(word):
     if word != '':
@@ -69,7 +73,7 @@ def alert(word):
             for wrong in words[wrongs]:
                 if wrong == word:
                     message = alert % ('<font color="red"><b>' + word + '</b></font>', '<font color="blue"><b>' + str(wrongs) + '</b></font>')
-                    subprocess.Popen(['kdialog','--sorry', message ])
+                    subprocess.Popen(['kdialog', '--sorry', message ])
                     subprocess.Popen(['play', '/usr/share/sounds/KDE-Sys-File-Open-Foes.ogg'])
 
 # Load words
@@ -82,6 +86,7 @@ def loadWord(filename):
 def idAutoDetect():
     return int(re.sub("[^0-9]", "",os.popen("xinput list | grep 'Keyboard' | head -n 1 | cut -d '=' -f 2 | cut -b 1-3").read()))
 
+
 # Open a notify about a warning
 def checkWarning(word):
     for (wrong, alert) in warning.items():
@@ -93,19 +98,19 @@ def checkWarning(word):
 keys = keyMap()
 
 # Check the file and load it
-if os.path.isfile(args.words_file) == False:
+if os.path.isfile(args.words_file) is False:
     print('ERR: Words file not exist!')
     exit()
 
-if os.path.isfile(args.alerts_file) == False:
+if os.path.isfile(args.alerts_file) is False:
     print('ERR: Alerts file not exist!')
     exit()
 
 if args.xinput == 'auto':
     args.xinput = str(idAutoDetect())
 
-if args.alerts_file2 != None:
-    if os.path.isfile(args.alerts_file2) != False:
+if args.alerts_file2 is not None:
+    if os.path.isfile(args.alerts_file2) is not False:
         f = open(args.alerts_file)
         alerts = f.readlines()
         f = open(args.alerts_file2)
@@ -117,8 +122,8 @@ else:
     f = open(args.alerts_file)
     alerts = f.readlines()
 
-if args.words_file2 != None:
-    if os.path.isfile(args.words_file2) != False:
+if args.words_file2 is not None:
+    if os.path.isfile(args.words_file2) is not False:
         words = loadWord(args.words_file)
         words2 = loadWord(args.words_file2)
         words.update(words2)
@@ -130,8 +135,8 @@ else:
 # Load warning word
 warnings = []
 warning = {}
-if args.warnings_file != None:
-    if os.path.isfile(args.warnings_file) != False:
+if args.warnings_file is not None:
+    if os.path.isfile(args.warnings_file) is not False:
         f = open(args.warnings_file)
         warnings = f.readlines()
         for warningsplit in warnings:
@@ -146,7 +151,7 @@ process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.P
 # Check if space or enter for split the word
 for line in unbuffered(process):
     letter = getKey(line)
-    if str(letter) != 'None' or letter != None:
+    if str(letter) != 'None' or letter is not None:
         if letter == 'space' or letter == 'KP_Enter' or letter == 'Return':
             alert(word)
             word = ''
