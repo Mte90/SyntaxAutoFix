@@ -52,21 +52,11 @@ def keyMap():
 # Check the last key
 def getKey(char):
     if char.startswith("key release"):
-        char = char.replace('key release', '').strip()      
+        char = char.replace('key release', '').strip()
         print(keys[char])
         if str(keys[char]) != 'None':
             if str(keys[char]) == 'apostrophe':
                 keys[char] = "'"
-            elif str(keys[char]) == 'ograve':
-                keys[char] = "ò"
-            elif str(keys[char]) == 'egrave':
-                keys[char] = "è"
-            elif str(keys[char]) == 'agrave':
-                keys[char] = "à"
-            elif str(keys[char]) == 'igrave':
-                keys[char] = "ì"
-            elif str(keys[char]) == 'üy':
-                keys[char] = "ü"  
             return keys[char]
 
 
@@ -160,6 +150,7 @@ process = subprocess.Popen( ['xinput', 'test', args.xinput], stdout=subprocess.P
 for line in unbuffered(process):
     letter = getKey(line)
     if str(letter) != 'None' or letter is not None:
+        reset_key = ['Home', '~Prior', '~Next', 'Left', 'Right', 'Up', 'Down', 'Delete', 'End']
         if letter == 'space' or letter == 'KP_Enter' or letter == 'Return':
             alert(word)
             word = ''
@@ -167,7 +158,7 @@ for line in unbuffered(process):
         elif letter == 'BackSpace':
             letter = letter[:-1]
         # This key create problem in the keylogger so reset the word
-        elif letter == 'Home' or letter == '~Prior' or letter == '~Next' or letter == 'Left' or letter == 'Right' or letter == 'Up' or letter == 'Down' or letter == 'Delete' or letter == 'End':
+        elif letter in reset_key:
             word = ''
         # Ignore the functional key and append the letter
         elif len(letter) == 1:
