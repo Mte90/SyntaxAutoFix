@@ -14,7 +14,7 @@ script_path = os.path.dirname(os.path.realpath(__file__)) + '/words/' + args.lan
 filepath = open(script_path, 'r')
 data = json.load(filepath)
 if args.right in data:
-    data[args.right][data[args.right].count] = args.wrong
+    data[args.right].append(args.wrong)
 else:
     data[args.right] = [args.wrong]
 filepath = open(script_path, 'w')
