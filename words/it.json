@@ -1,58 +1,173 @@
 {
-    "un po'": ["un'pò"],
-    "un altro": ["un'altro"],
-    "un anno": ["un'anno"],
-    "qualcun altro": ["qualcun'altro"],
-    "dispiace": ["dispaice"],
-    "sviluppatori": ["svilupaptori"],
-    "le ho detto": ["gli ho detto"],
-    "parecchio": ["aprecchio"],
-    "per": ["epr"],
-    "alla": ["alal"],
-    "della": ["delal"],
-    "pagina": ["pagian"],
-    "aggiungere": ["aggiugnere"],
-    "contattare": ["cotnatt"],
-    "invece": ["ivnece"],
-    "come": ["coem"],
-    "questione": ["questioen"],
-    "università": ["unviersità"],
-    "cartella": ["cartelal"],
-    "una": ["uan"],
-    "sperimentare": ["sperimetnare"],
-    "bisogna": ["bisgoan"],
-    "stiamo": ["sitamo"],
-    "difficile": ["difficiel"],
-    "un": ["u"],
-    "internet": ["itnernet"],
-    "settimana": ["settiman"],
-    "più": ["pi"],
-    "alle": ["alel"],
-    "gestione": ["gestioen"],
-    "prossima": ["prossiam"],
-    "inoltre": ["inolter"],
-    "lasciare": ["lascaire"],
-    "volta": ["votla"],
-    "piccola": ["piccoal"],
-    "quella": ["quelal"],
-    "usare": ["suare"],
-    "che": ["ceh"],
-    "donazione": ["donazioen"],
-    "niente": ["niete"],
-    "questo": ["uesto"],
-    "sempre": ["semrpe"],
-    "facile": ["faciel"],
-    "tempo": ["tmepo"],
-    "delle": ["delel"],
-    "ogni": ["goni"],
-    "regola": ["regoal"],
-    "potrebbe": ["ptoerbbe"],
-    "sulle": ["sulel"],
-    "richieste": ["recheiste"],
-    "il": ["lil"],
-    "versione": ["versioen"],
-    "programmatori": ["programamtori"],
-    "due": ["deu"],
-    "prima": ["priam"],
-    "nostro": ["nsotro"]
+    "aggiungere": [
+        "aggiugnere"
+    ],
+    "alla": [
+        "alal"
+    ],
+    "alle": [
+        "alel"
+    ],
+    "bisogna": [
+        "bisgoan"
+    ],
+    "cartella": [
+        "cartelal"
+    ],
+    "che": [
+        "ceh"
+    ],
+    "come": [
+        "coem"
+    ],
+    "contattare": [
+        "cotnatt"
+    ],
+    "della": [
+        "delal"
+    ],
+    "delle": [
+        "delel"
+    ],
+    "difficile": [
+        "difficiel"
+    ],
+    "dispiace": [
+        "dispaice"
+    ],
+    "donazione": [
+        "donazioen"
+    ],
+    "due": [
+        "deu"
+    ],
+    "facile": [
+        "faciel"
+    ],
+    "gestione": [
+        "gestioen"
+    ],
+    "il": [
+        "lil"
+    ],
+    "inoltre": [
+        "inolter"
+    ],
+    "internet": [
+        "itnernet"
+    ],
+    "invece": [
+        "ivnece"
+    ],
+    "lasciare": [
+        "lascaire"
+    ],
+    "le ho detto": [
+        "gli ho detto"
+    ],
+    "niente": [
+        "niete"
+    ],
+    "nostro": [
+        "nsotro"
+    ],
+    "ogni": [
+        "goni"
+    ],
+    "pagina": [
+        "pagian"
+    ],
+    "parecchio": [
+        "aprecchio"
+    ],
+    "per": [
+        "epr"
+    ],
+    "piccola": [
+        "piccoal"
+    ],
+    "pi\u00f9": [
+        "pi"
+    ],
+    "potrebbe": [
+        "ptoerbbe"
+    ],
+    "potremmo": [
+        "potremm"
+    ],
+    "prima": [
+        "priam"
+    ],
+    "programmatori": [
+        "programamtori"
+    ],
+    "prossima": [
+        "prossiam"
+    ],
+    "qualcun altro": [
+        "qualcun'altro"
+    ],
+    "quella": [
+        "quelal"
+    ],
+    "questione": [
+        "questioen"
+    ],
+    "questo": [
+        "uesto"
+    ],
+    "regola": [
+        "regoal"
+    ],
+    "richieste": [
+        "recheiste"
+    ],
+    "sempre": [
+        "semrpe"
+    ],
+    "settimana": [
+        "settiman"
+    ],
+    "sperimentare": [
+        "sperimetnare"
+    ],
+    "stiamo": [
+        "sitamo"
+    ],
+    "sulle": [
+        "sulel"
+    ],
+    "sviluppatori": [
+        "svilupaptori"
+    ],
+    "tempo": [
+        "tmepo"
+    ],
+    "un": [
+        "u"
+    ],
+    "un altro": [
+        "un'altro"
+    ],
+    "un anno": [
+        "un'anno"
+    ],
+    "un po'": [
+        "un'p\u00f2"
+    ],
+    "una": [
+        "uan"
+    ],
+    "universit\u00e0": [
+        "unviersit\u00e0"
+    ],
+    "usare": [
+        "suare"
+    ],
+    "versione": [
+        "versioen"
+    ],
+    "volta": [
+        "votla"
+    ]
 }
