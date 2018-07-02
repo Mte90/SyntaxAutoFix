@@ -1,4 +1,0 @@
-Che stai facendo?!?? %s si scrive %s!
-Attento hai scritto male %s si scrive %s!
-Compa che cavolo stai scrivendo? %s si scrive %s!
-Insisti a scrivere male %s! si scrive %s
