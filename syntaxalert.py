@@ -11,7 +11,6 @@ def loadWord(filename):
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-
 parser.add_argument('-words', action="store", dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
 parser.add_argument('-words2', action="store", dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
 args = parser.parse_args()
@@ -26,14 +25,14 @@ if args.words_file2 is not None:
         words = loadWord(args.words_file)
         words2 = loadWord(args.words_file2)
         words.update(words2)
-    else:
-        print('ERR: Alerts 2 file not exist!')
 else:
     words = loadWord(args.words_file)
 
+print(str(len(words)) + " words loaded")
 for (correct, wrongs) in words.items():
     for wrong in wrongs:
         if wrong != '':
-            keyboard.add_abbreviation(wrong + ' ', ' ' + correct + ' ', False)
+            print('Loaded ' + wrong + ' with as: ' + correct)
+            keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
 
 keyboard.wait()
