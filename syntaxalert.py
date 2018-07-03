@@ -34,6 +34,6 @@ else:
 for (correct, wrongs) in words.items():
     for wrong in wrongs:
         if wrong != '':
-            keyboard.add_abbreviation(wrong, correct)
+            keyboard.add_abbreviation(wrong + ' ', ' ' + correct + ' ', False)
 
 keyboard.wait()
