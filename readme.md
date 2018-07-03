@@ -1,13 +1,13 @@
-#SyntaxAlert
+# SyntaxAlert
 
 This script will track every words that you will digit and fix automatically with the right words!  
 An easy way to fix typos!
 
-#Require
+#Require 
 
-` pip3 install keyboard`
+`pip3 install keyboard`
 
-#How to use
+# How to use
 
 Only En words:  
 

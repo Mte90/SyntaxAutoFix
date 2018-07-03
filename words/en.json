@@ -1,22 +1,57 @@
 {
+    "available": [
+        "avalaible"
+    ],
+    "because": [
+        "beucase"
+    ],
     "boilerplate": [
         "boilerpalte",
         "bolerplate"
     ],
-    "template": ["tempalte"],
-    "marketplace": ["marketpalce"],
-    "the": ["teh"],
-    "available":["avalaible"],
-    "strange":["strnage"],
-    "facebook":["faceboon"],
-    "interesting":["itneresting"],
-    "only":["nly"],
-    "disclose":["discolse"],
-    "except":["excpet"],
-    "internet":["itnernet"],
-    "council": ["ocuncil"],
-    "because": ["beucase"],
-    "other": ["toerh"],
-    "made": ["amde"],
-    "that": ["taht"]
+    "council": [
+        "ocuncil"
+    ],
+    "disclose": [
+        "discolse"
+    ],
+    "except": [
+        "excpet"
+    ],
+    "facebook": [
+        "faceboon"
+    ],
+    "interesting": [
+        "itneresting"
+    ],
+    "internet": [
+        "itnernet"
+    ],
+    "made": [
+        "amde"
+    ],
+    "marketplace": [
+        "marketpalce"
+    ],
+    "only": [
+        "nly"
+    ],
+    "other": [
+        "toerh"
+    ],
+    "strange": [
+        "strnage"
+    ],
+    "template": [
+        "tempalte"
+    ],
+    "that": [
+        "taht"
+    ],
+    "the": [
+        "teh"
+    ],
+    "widget": [
+        "wdiget"
+    ]
 }
