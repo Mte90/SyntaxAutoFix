@@ -1,13 +1,25 @@
 {
+    "application": [
+        "applicaiton"
+    ],
     "available": [
         "avalaible"
     ],
     "because": [
         "beucase"
     ],
+    "before": [
+        "beofre"
+    ],
     "boilerplate": [
         "boilerpalte",
         "bolerplate"
+    ],
+    "can": [
+        "cna"
+    ],
+    "common": [
+        "cmmon"
     ],
     "council": [
         "ocuncil"
@@ -27,6 +39,9 @@
     "internet": [
         "itnernet"
     ],
+    "last": [
+        "alst"
+    ],
     "made": [
         "amde"
     ],
@@ -38,6 +53,9 @@
     ],
     "other": [
         "toerh"
+    ],
+    "python": [
+        "ptyhon"
     ],
     "strange": [
         "strnage"

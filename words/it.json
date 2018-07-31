@@ -8,6 +8,12 @@
     "alle": [
         "alel"
     ],
+    "alternativo": [
+        "laternativo"
+    ],
+    "avuto": [
+        "auvot"
+    ],
     "bella": [
         "belal"
     ],
@@ -20,8 +26,21 @@
     "che": [
         "ceh"
     ],
+    "chiesto": [
+        "hicesto"
+    ],
     "come": [
+        "coem",
         "coem"
+    ],
+    "condivisione": [
+        "condivisioen"
+    ],
+    "conosce": [
+        "consoce"
+    ],
+    "considera": [
+        "consdiera"
     ],
     "contattare": [
         "cotnatt"
@@ -35,14 +54,23 @@
     "difficile": [
         "difficiel"
     ],
+    "dimostrato": [
+        "dimsotrato"
+    ],
     "dispiace": [
         "dispaice"
     ],
     "donazione": [
         "donazioen"
     ],
+    "dovrebbe": [
+        "dorvebbe"
+    ],
     "due": [
         "deu"
+    ],
+    "errore": [
+        "erroe"
     ],
     "facile": [
         "faciel"
@@ -50,11 +78,27 @@
     "gestione": [
         "gestioen"
     ],
+    "giovedi": [
+        "givoed\u00ec",
+        "givoed\u00ec"
+    ],
     "il": [
         "lil"
     ],
     "inoltre": [
         "inolter"
+    ],
+    "interessa": [
+        "itneressa"
+    ],
+    "interessata": [
+        "itneressata"
+    ],
+    "interessati": [
+        "itneressati"
+    ],
+    "interfaccia": [
+        "itnerfaccia"
     ],
     "internet": [
         "itnernet"
@@ -72,6 +116,15 @@
     "le ho detto": [
         "gli ho detto"
     ],
+    "libreoffice": [
+        "lbireoffice"
+    ],
+    "magliette": [
+        "magleitte"
+    ],
+    "matrimonio": [
+        "amtrimonio"
+    ],
     "niente": [
         "niete"
     ],
@@ -81,14 +134,26 @@
     "ogni": [
         "goni"
     ],
+    "organizzarlo": [
+        "orgnaizzarlo"
+    ],
     "pagina": [
         "pagian"
     ],
     "parecchio": [
         "aprecchio"
     ],
+    "parliamo": [
+        "parliamno"
+    ],
+    "partecipare": [
+        "parteciapre"
+    ],
     "per": [
         "epr"
+    ],
+    "persone": [
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -111,6 +176,12 @@
     "prossima": [
         "prossiam"
     ],
+    "prossimo": [
+        "prosismo"
+    ],
+    "punto": [
+        "putno"
+    ],
     "quella": [
         "quelal"
     ],
@@ -123,8 +194,17 @@
     "regola": [
         "regoal"
     ],
+    "richiesta": [
+        "richeista"
+    ],
     "richieste": [
         "recheiste"
+    ],
+    "riguardo": [
+        "rgiuardo"
+    ],
+    "scatole": [
+        "scatoel"
     ],
     "sempre": [
         "semrpe"
@@ -147,6 +227,9 @@
     "sviluppatori": [
         "svilupaptori"
     ],
+    "tempi": [
+        "tmepi"
+    ],
     "tempo": [
         "tmepo"
     ],
@@ -157,13 +240,18 @@
         "uan"
     ],
     "universit\u00e0": [
+        "unviersit\u00e0",
         "unviersit\u00e0"
     ],
     "usare": [
         "suare"
     ],
     "versione": [
-        "versioen"
+        "versioen",
+        "verisone"
+    ],
+    "volete": [
+        "voelte"
     ],
     "volta": [
         "votla"
