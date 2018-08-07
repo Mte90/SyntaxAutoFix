@@ -20,7 +20,7 @@ with open(args.file) as csv_file:
             data[row[1]].append(row[0])
         else:
             data[row[1]] = [row[0]]
-            
+
 filepath = open(script_path, 'w')
 filepath.write(json.dumps(data, indent=4, sort_keys=True))
-filepath.close() 
+filepath.close()
