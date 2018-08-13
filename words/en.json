@@ -1,30 +1,24 @@
 {
-    "accross": [
-        "across"
+    "across": [
+        "accross"
     ],
-    "acheive": [
-        "achieve"
+    "achieve": [
+        "acheive"
     ],
-    "apparantly": [
-        "apparently"
+    "apparently": [
+        "apparantly"
     ],
-    "appearence": [
-        "appearance"
+    "appearance": [
+        "appearence"
     ],
     "application": [
         "applicaiton"
     ],
-    "arguement": [
-        "argument"
-    ],
-    "assasination": [
-        "assassination"
+    "argument": [
+        "arguement"
     ],
     "available": [
         "avalaible"
-    ],
-    "basicly": [
-        "basically"
     ],
     "because": [
         "beucase"
@@ -32,39 +26,21 @@
     "before": [
         "beofre"
     ],
-    "begining": [
-        "beginning"
-    ],
     "beleive": [
         "believe"
     ],
-    "bizzare": [
-        "bizarre"
+    "bizarre": [
+        "bizzarre"
     ],
     "boilerplate": [
         "boilerpalte",
         "bolerplate"
     ],
-    "buisness": [
-        "business"
-    ],
-    "calender": [
-        "calendar"
-    ],
     "can": [
         "cna"
     ],
-    "cemetary": [
-        "cemetery"
-    ],
-    "chauffer": [
-        "chauffeur"
-    ],
-    "collegue": [
-        "colleague"
-    ],
-    "comming": [
-        "coming"
+    "colleague": [
+        "collegue"
     ],
     "commitee": [
         "committee"
@@ -72,107 +48,23 @@
     "common": [
         "cmmon"
     ],
-    "completly": [
-        "completely"
-    ],
-    "concious": [
-        "conscious"
-    ],
     "council": [
         "ocuncil"
-    ],
-    "curiousity": [
-        "curiosity"
-    ],
-    "definately": [
-        "definitely"
-    ],
-    "dilemna": [
-        "dilemma"
     ],
     "disclose": [
         "discolse"
     ],
-    "dissapear": [
-        "disappear"
+    "disappear": [
+        "disapear"
     ],
-    "dissapoint": [
-        "disappoint"
-    ],
-    "ecstacy": [
-        "ecstasy"
-    ],
-    "embarass": [
-        "embarrass"
-    ],
-    "enviroment": [
-        "environment"
+    "environment": [
+        "enviroment"
     ],
     "except": [
         "excpet"
     ],
-    "existance": [
-        "existence"
-    ],
     "facebook": [
         "faceboon"
-    ],
-    "familar": [
-        "familiar"
-    ],
-    "finaly": [
-        "finally"
-    ],
-    "florescent": [
-        "fluorescent"
-    ],
-    "foriegn": [
-        "foreign"
-    ],
-    "forseeable": [
-        "foreseeable"
-    ],
-    "fourty": [
-        "forty"
-    ],
-    "foward": [
-        "forward"
-    ],
-    "freind": [
-        "friend"
-    ],
-    "futher": [
-        "further"
-    ],
-    "gaurd": [
-        "guard"
-    ],
-    "glamourous": [
-        "glamorous"
-    ],
-    "goverment": [
-        "government"
-    ],
-    "happend": [
-        "happened"
-    ],
-    "honourary": [
-        "honorary"
-    ],
-    "humourous": [
-        "humorous"
-    ],
-    "idiosyncracy": [
-        "idiosyncrasy"
-    ],
-    "immediatly": [
-        "immediately"
-    ],
-    "incidently": [
-        "incidentally"
-    ],
-    "independant": [
-        "independent"
     ],
     "interesting": [
         "itneresting"
@@ -180,23 +72,14 @@
     "internet": [
         "itnernet"
     ],
-    "interupt": [
-        "interrupt"
-    ],
-    "irresistable": [
-        "irresistible"
-    ],
     "jist": [
         "gist"
     ],
-    "knowlege": [
-        "knowledge"
+    "knowledge": [
+        "knowlege"
     ],
     "last": [
         "alst"
-    ],
-    "lollypop": [
-        "lollipop"
     ],
     "made": [
         "amde"
@@ -204,101 +87,29 @@
     "marketplace": [
         "marketpalce"
     ],
-    "millenium": [
-        "millennium"
-    ],
-    "neccessary": [
-        "necessary"
-    ],
-    "noticable": [
-        "noticeable"
-    ],
     "only": [
         "nly"
     ],
     "other": [
         "toerh"
     ],
-    "pavillion": [
-        "pavilion"
-    ],
     "peice": [
         "piece"
-    ],
-    "persistant": [
-        "persistent"
-    ],
-    "pharoah": [
-        "pharaoh"
-    ],
-    "politican": [
-        "politician"
-    ],
-    "posession": [
-        "possession"
-    ],
-    "prefered": [
-        "preferred"
-    ],
-    "propoganda": [
-        "propaganda"
-    ],
-    "publically": [
-        "publicly"
     ],
     "python": [
         "ptyhon"
     ],
-    "realy": [
-        "really"
+    "receive": [
+        "recieve"
     ],
-    "recieve": [
-        "receive"
-    ],
-    "refered": [
-        "referred"
-    ],
-    "religous": [
-        "religious"
-    ],
-    "remeber": [
-        "remember"
-    ],
-    "request": [
-        "reuqest"
-    ],
-    "resistence": [
-        "resistance"
-    ],
-    "seige": [
-        "siege"
-    ],
-    "sence": [
-        "sense"
-    ],
-    "seperate": [
-        "separate"
+    "remember": [
+        "remeber"
     ],
     "strange": [
         "strnage"
     ],
-    "succesful": [
-        "successful"
-    ],
-    "supercede": [
-        "supersede"
-    ],
-    "suprise": [
-        "surprise"
-    ],
-    "tatoo": [
-        "tattoo"
-    ],
     "template": [
         "tempalte"
-    ],
-    "tendancy": [
-        "tendency"
     ],
     "that": [
         "taht"
@@ -309,50 +120,17 @@
     "their": [
         "thier"
     ],
-    "therefor": [
-        "therefore"
-    ],
-    "threshhold": [
-        "threshold"
-    ],
-    "tommorow": [
-        "tomorrow"
-    ],
-    "tounge": [
-        "tongue"
-    ],
-    "truely": [
-        "truly"
-    ],
     "understand": [
         "udnerstand"
-    ],
-    "unforseen": [
-        "unforeseen"
-    ],
-    "unfortunatly": [
-        "unfortunately"
-    ],
-    "untill": [
-        "until"
     ],
     "website": [
         "webiste"
     ],
-    "whereever": [
-        "wherever"
-    ],
-    "wich": [
-        "which"
+    "which": [
+        "wich"
     ],
     "widget": [
         "wdiget"
-    ],
-    "wierd": [
-        "weird"
-    ],
-    "writing": [
-        "writting"
     ],
     "written": [
         "writen"
