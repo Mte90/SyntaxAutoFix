@@ -11,6 +11,9 @@
     "alternativo": [
         "laternativo"
     ],
+    "ancora": [
+        "ancoran"
+    ],
     "avuto": [
         "auvot"
     ],
@@ -29,12 +32,17 @@
     "chieder\u00f2": [
         "cheider\u00f2"
     ],
+    "chiedete": [
+        "cheidete"
+    ],
     "chiesto": [
         "hicesto"
     ],
     "come": [
-        "coem",
         "coem"
+    ],
+    "comprare": [
+        "comrapre"
     ],
     "condivisione": [
         "condivisioen"
@@ -90,6 +98,9 @@
     "il": [
         "lil"
     ],
+    "inglese": [
+        "inglse"
+    ],
     "inoltre": [
         "inolter"
     ],
@@ -114,6 +125,9 @@
     "inventarci": [
         "ivnentarci"
     ],
+    "largo": [
+        "alrgo"
+    ],
     "lasciare": [
         "lascaire",
         "lascair"
@@ -123,6 +137,12 @@
     ],
     "libreoffice": [
         "lbireoffice"
+    ],
+    "librerie": [
+        "lbirerie"
+    ],
+    "libro": [
+        "lbiro"
     ],
     "magliette": [
         "magleitte"
@@ -154,17 +174,25 @@
     "partecipare": [
         "parteciapre"
     ],
+    "paura": [
+        "apura"
+    ],
     "per": [
-        "epr"
+        "epr",
+        "pe"
     ],
     "persone": [
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
     ],
     "pi\u00f9": [
         "pi"
+    ],
+    "poter": [
+        "ptoer"
     ],
     "potrebbe": [
         "ptoerbbe"
@@ -174,6 +202,9 @@
     ],
     "prima": [
         "priam"
+    ],
+    "probabilmente": [
+        "probabilmetne"
     ],
     "programmatori": [
         "programamtori"
@@ -196,6 +227,9 @@
     "questo": [
         "uesto"
     ],
+    "registrazioni": [
+        "regisrtazioni"
+    ],
     "regola": [
         "regoal"
     ],
@@ -216,6 +250,9 @@
     ],
     "settimana": [
         "settiman"
+    ],
+    "siccome": [
+        "siccoem"
     ],
     "sinceramente": [
         "sinceramenten"
@@ -243,6 +280,9 @@
     ],
     "tempo": [
         "tmepo"
+    ],
+    "togliere": [
+        "togleire"
     ],
     "un": [
         "u"

@@ -1,9 +1,9 @@
 {
-    "across": [
-        "accross"
-    ],
     "achieve": [
         "acheive"
+    ],
+    "across": [
+        "accross"
     ],
     "apparently": [
         "apparantly"
@@ -51,14 +51,26 @@
     "council": [
         "ocuncil"
     ],
-    "disclose": [
-        "discolse"
+    "different": [
+        "idfferent"
     ],
     "disappear": [
         "disapear"
     ],
+    "disclose": [
+        "discolse"
+    ],
+    "do": [
+        "doo"
+    ],
+    "drive": [
+        "dirve"
+    ],
     "environment": [
         "enviroment"
+    ],
+    "exactly": [
+        "exacly"
     ],
     "except": [
         "excpet"
@@ -80,6 +92,9 @@
     ],
     "last": [
         "alst"
+    ],
+    "library": [
+        "lbirary"
     ],
     "made": [
         "amde"
@@ -105,6 +120,12 @@
     "remember": [
         "remeber"
     ],
+    "replace": [
+        "replace"
+    ],
+    "spoken": [
+        "sopken"
+    ],
     "strange": [
         "strnage"
     ],
@@ -122,6 +143,9 @@
     ],
     "understand": [
         "udnerstand"
+    ],
+    "use": [
+        "sue"
     ],
     "website": [
         "webiste"
