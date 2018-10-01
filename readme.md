@@ -1,22 +1,29 @@
 # SyntaxAlert
+This script will track and automatically fix every word that you will digit to right words!  
+An easy solution to fix typos!
+###### latest readme update : 30 Sept 2018
+<br>
 
-This script will track every words that you will digit and fix automatically with the right words!  
-An easy way to fix typos!
+## Required Installation
+```
+pip3 install keyboard
+```
+<br>
 
-# Require 
+## How to use with Target Language(s)
+- For English only
+```
+syntaxalert.py -words ./words/en.json
+```
 
-`pip3 install keyboard`
+- For Italian and English (or without parameters is the same):  
+```
+syntaxalert.py -words ./words/en.json -words2 ./words/it.json
+```
+<br>
+  
+## Adding New Terms
+```
+manageterms.py -wrong="wdiget" -right="widget" -lang=en
+```
 
-# How to use
-
-Only En words:  
-
-`syntaxalert.py -words ./words/en.json`
-
-En and It words (or without parameters is the same):  
-
-`syntaxalert.py -words ./words/en.json -words2 ./words/it.json`
-
-## Add new terms
-
-`manageterms.py -wrong="wdiget" -right="widget" -lang=en`
