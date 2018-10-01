@@ -1,6 +1,6 @@
 # SyntaxAlert
 
-This script will track every words that you will digit and fix automatically with the right words!  
+This script will track every words that you will type and fix automatically with the right words!  
 An easy way to fix typos!
 
 # Require 
