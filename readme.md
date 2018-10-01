@@ -1,5 +1,5 @@
 # SyntaxAlert
-This script will track and automatically fix every word that you will digit to right words!  
+This script will track and automatically fix every word that you will type to right words!  
 An easy solution to fix typos!
 ###### latest readme update : 30 Sept 2018
 <br>
@@ -26,4 +26,3 @@ syntaxalert.py -words ./words/en.json -words2 ./words/it.json
 ```
 manageterms.py -wrong="wdiget" -right="widget" -lang=en
 ```
-
