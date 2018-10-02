@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import keyboard, json
 import argparse, os.path
-from threading import Thread 
+from threading import Thread
 from time import sleep
 
 script_path = os.path.dirname(os.path.realpath(__file__))
@@ -53,7 +53,7 @@ def reload_JSON():
     print("Reloading modified JSON!")
     keyboard.unhook_all()
     loadJSON()
-    
+
 def JSON_modify_watcher():
     while True:
         sleep(3)
