@@ -4637,7 +4637,8 @@
     ],
     "professor": [
         "profesor",
-        "proffesor"
+        "proffesor",
+        "proffessor"
     ],
     "profusion": [
         "profesion"
@@ -6318,13 +6319,15 @@
         "whta"
     ],
     "when": [
-        "wehn"
+        "wehn",
+        "wen"
     ],
     "wherever": [
         "whereever"
     ],
     "whether": [
-        "wether"
+        "wether",
+        "weder"
     ],
     "which": [
         "hwihc",
@@ -6335,7 +6338,8 @@
         "wich"
     ],
     "while": [
-        "hwile"
+        "hwile",
+        "wile"
     ],
     "whole": [
         "hwole",
@@ -6425,6 +6429,8 @@
     ],
     "year": [
         "eyar",
-        "yera"
+        "yera",
+        "iyer",
+        "yir"
     ]
 }
