@@ -29,14 +29,14 @@ manageterms.py -wrong="wdiget" -right="widget" -lang=en
 ## Adding New Terms using CSV File
 Directly upload new terms using a CSV file with row format:
 ```
-<wrong-term>, <correct-term>
+<correct-term>, <wrong-term>
 ```
 
 For example:
 Let `new_words.csv` be
 ```
-aries,Aries
-Celsius,Celcius
+Africa,Afica
+America,Ameria
 ```
 
 Then use the command:
