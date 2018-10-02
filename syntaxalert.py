@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-import keyboard, json
-import argparse, os.path
+import keyboard
+import json
+import argparse
+import os.path
 
 script_path = os.path.dirname(os.path.realpath(__file__))
 # Load words

@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-import argparse, os.path, json, csv
+import argparse
+import os.path
+import json
+import csv
 
 # Parse argument
 parser = argparse.ArgumentParser(description='add new terms!')

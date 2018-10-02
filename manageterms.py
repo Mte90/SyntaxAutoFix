@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-import argparse, os.path, json
+import argparse
+import os.path
+import json
+
+import observer
 
 # Parse argument
 parser = argparse.ArgumentParser(description='add new terms!')
@@ -21,3 +25,7 @@ else:
 filepath = open(script_path, 'w')
 filepath.write(json.dumps(data, indent=4, sort_keys=True))
 filepath.close()
+
+subject = observer.Subject()
+subject.attach(observer.Observer(args.lang))
+subject.set_data("%s updated" % args.lang)
