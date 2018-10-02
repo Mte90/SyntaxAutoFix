@@ -17,9 +17,9 @@ with open(args.file) as csv_file:
     line_count = 0
     for row in csv_reader:
         if row[0] in data:
-            data[row[1]].append(row[0])
+            data[row[0]].append(row[1])
         else:
-            data[row[1]] = [row[0]]
+            data[row[0]] = [row[1]]
 
 filepath = open(script_path, 'w')
 filepath.write(json.dumps(data, indent=4, sort_keys=True))
