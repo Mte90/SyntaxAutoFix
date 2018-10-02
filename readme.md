@@ -25,3 +25,21 @@ syntaxalert.py -words ./words/en.json -words2 ./words/it.json
 ```
 manageterms.py -wrong="wdiget" -right="widget" -lang=en
 ```
+
+## Adding New Terms using CSV File
+Directly upload new terms using a CSV file with row format:
+```
+<wrong-term>, <correct-term>
+```
+
+For example:
+Let `new_words.csv` be
+```
+aries,Aries
+Celsius,Celcius
+```
+
+Then use the command:
+```
+csvtoterms.py -file new_words.csv -lang en
+```
