@@ -1,14 +1,13 @@
 # SyntaxAlert
 This script will track and automatically fix every word that you will type to right words!  
 An easy solution to fix typos!
-###### latest readme update : 30 Sept 2018
-<br>
+
+Check the `words` folder`for the languages available.
 
 ## Required Installation
 ```
 pip3 install keyboard
 ```
-<br>
 
 ## How to use with Target Language(s)
 - For English only
@@ -16,7 +15,7 @@ pip3 install keyboard
 syntaxalert.py -words ./words/en.json
 ```
 
-- For Italian and English (or without parameters is the same):  
+- For Italian/English/Spanish (or without parameters is the same):  
 ```
 syntaxalert.py -words ./words/en.json -words2 ./words/it.json
 ```
