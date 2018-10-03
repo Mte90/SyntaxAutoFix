@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse, os.path, json
+from utils.data_handlers import open_typo_file, save_typo_data
 
 # Parse argument
 parser = argparse.ArgumentParser(description='add new terms!')
@@ -11,13 +12,7 @@ args = parser.parse_args()
 
 script_path = os.path.dirname(os.path.realpath(__file__)) + '/words/' + args.lang + '.json'
 
-filepath = open(script_path, 'r')
-data = json.load(filepath)
-if args.right in data:
-    if args.wrong not in data[args.right]:
-        data[args.right].append(args.wrong)
-else:
-    data[args.right] = [args.wrong]
-filepath = open(script_path, 'w')
-filepath.write(json.dumps(data, indent=4, sort_keys=True))
-filepath.close()
+typo_data = open_typo_file(script_path)
+typo_data[args.right].add(args.wrong)
+
+save_typo_data(typo_data, script_path)
