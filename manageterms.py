@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse, os.path, json
-from helpers import open_typo_file, save_typo_data
+from utils.data_handlers import open_typo_file, save_typo_data
 
 # Parse argument
 parser = argparse.ArgumentParser(description='add new terms!')
