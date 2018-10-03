@@ -6,6 +6,9 @@
         "abandoran",
         "abandoanr"
     ],
+    "adios": [
+        "addios"
+    ],
     "adulterado": [
         "adulterdo"
     ],
@@ -33,6 +36,9 @@
     "banal": [
         "vanal"
     ],
+    "bueno": [
+        "beuno"
+    ],
     "cantar": [
         "cantra"
     ],
@@ -56,6 +62,9 @@
     ],
     "conciencia": [
         "consciencia"
+    ],
+    "contento": [
+        "contendo"
     ],
     "convalecencia": [
         "convalescencia"
@@ -91,11 +100,17 @@
     "empieza": [
         "empiesza"
     ],
+    "enfermo": [
+        "enferma"
+    ],
     "enfrentarse": [
         "enfretnarse"
     ],
     "enfrente": [
         "enferente"
+    ],
+    "enojado": [
+        "enojada"
     ],
     "episodios": [
         "espisodios"
@@ -146,8 +161,14 @@
     "glosario": [
         "glosairo"
     ],
+    "gracias": [
+        "gracas"
+    ],
     "gusano": [
         "gusanso"
+    ],
+    "humano": [
+        "human"
     ],
     "idiocincrasia": [
         "idiocincracia"
@@ -178,6 +199,9 @@
     ],
     "mis\u00f3gino": [
         "mis\u00f3geno"
+    ],
+    "muerte": [
+        "muerta"
     ],
     "muestra": [
         "meustra"
@@ -221,6 +245,9 @@
     "prever": [
         "preveer"
     ],
+    "profesor": [
+        "professor"
+    ],
     "prohibido": [
         "proihibido"
     ],
@@ -238,6 +265,9 @@
     ],
     "ruptura": [
         "ruputura"
+    ],
+    "sacapuntas": [
+        "sakapuntas"
     ],
     "social": [
         "socail"
