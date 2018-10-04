@@ -3,7 +3,8 @@
         "Afica"
     ],
     "America": [
-        "Amercia"
+        "Amercia",
+	 "Amrica"
     ],
     "American": [
         "Amercian"
@@ -183,7 +184,8 @@
         "Europians"
     ],
     "Fahrenheit": [
-        "Farenheit"
+        "Farenheit",
+	 "Farenheight"
     ],
     "February": [
         "febuary"
@@ -261,7 +263,8 @@
         "Guatamalan"
     ],
     "Guinness": [
-        "Guiness"
+        "Guiness",
+	 "Guinnes"
     ],
     "Habsburg": [
         "Habsbourg"
@@ -337,7 +340,8 @@
         "maltesian"
     ],
     "Manhattan": [
-        "Manhatten"
+        "Manhatten",
+	 "Mahnatten"
     ],
     "Mara_Liasson": [
         "liason"
@@ -366,7 +370,8 @@
     ],
     "Mississippi": [
         "Missisipi",
-        "Missisippi"
+        "Missisippi",
+	 "Mississipi"
     ],
     "Missouri": [
         "Misouri"
