@@ -12137,7 +12137,8 @@
         "tortise"
     ],
     "totally": [
-        "totaly"
+        "totaly",
+	"totally"
     ],
     "touch": [
         "tourch"
@@ -13184,5 +13185,11 @@
     ],
     "zebra": [
         "zeebra"
+    ],
+	 "There": [
+        "Ther",
+        "their",
+	"ther",
+	"theer"
     ]
 }
