@@ -16,8 +16,8 @@ def loadWord(filename):
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-parser.add_argument('-words', action="store", dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
-parser.add_argument('-words2', action="store", dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
+parser.add_argument('-words', dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
+parser.add_argument('-words2', dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
 args = parser.parse_args()
 
 # it holds the files name passed and the stat os file
