@@ -43,7 +43,8 @@
         "cantra"
     ],
     "capacidad": [
-        "capsidad"
+        "capsidad",
+        "capasidad"
     ],
     "causa": [
         "casua"
@@ -61,7 +62,11 @@
         "conumismo"
     ],
     "conciencia": [
-        "consciencia"
+        "consciencia",
+        "conciencia",
+        "conciensia",
+        "consiensia",
+        "consiencia"
     ],
     "contento": [
         "contendo"
@@ -82,7 +87,8 @@
         "desabitado"
     ],
     "deshecho": [
-        "desecho"
+        "desecho",
+        "desdecho"
     ],
     "desprenderse": [
         "depsenderse",
@@ -101,7 +107,7 @@
         "empiesza"
     ],
     "enfermo": [
-        "enferma"
+        "enfermp"
     ],
     "enfrentarse": [
         "enfretnarse"
@@ -110,7 +116,7 @@
         "enferente"
     ],
     "enojado": [
-        "enojada"
+        "enojadp"
     ],
     "episodios": [
         "espisodios"
@@ -182,8 +188,9 @@
     "infligido": [
         "inflingido"
     ],
-    "inisitir": [
-        "insistr"
+    "insistir": [
+        "insistr",
+        "incistir"
     ],
     "injerencia": [
         "ingerencia"
@@ -199,9 +206,6 @@
     ],
     "mis\u00f3gino": [
         "mis\u00f3geno"
-    ],
-    "muerte": [
-        "muerta"
     ],
     "muestra": [
         "meustra"
@@ -249,7 +253,8 @@
         "professor"
     ],
     "prohibido": [
-        "proihibido"
+        "proihibido",
+        "proibido"
     ],
     "pueblo": [
         "puevlo"
@@ -258,7 +263,8 @@
         "realiad"
     ],
     "relaciones": [
-        "relacions"
+        "relacions",
+        "relasion"
     ],
     "resbalando": [
         "resvalando"
@@ -312,7 +318,8 @@
         "unidso"
     ],
     "vacaciones": [
-        "vacasiones"
+        "vacasiones",
+        "vacasions"
     ],
     "yendo": [
         "llendo"
