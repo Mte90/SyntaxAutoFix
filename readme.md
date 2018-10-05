@@ -2,7 +2,7 @@
 This script will track and automatically fix every word that you will type to right words!  
 An easy solution to fix typos!
 
-Check the `words` folder`for the languages available.
+Check the `words` folder for the languages available.
 
 ## Required Installation
 ```
