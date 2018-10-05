@@ -1,15 +1,17 @@
 #!/usr/bin/python3
-import keyboard, json
+import keyboard
 import argparse, os.path
 from threading import Thread
 from time import sleep
+from utils.data_handlers import open_typo_file
 
 script_path = os.path.dirname(os.path.realpath(__file__))
+
 
 # Load words
 def loadWord(filename):
     with open(filename) as json_file:
-        words = json.load(json_file)
+        words = open_typo_file(json_file)
         return words
 
 # Parse argument
@@ -18,8 +20,9 @@ parser.add_argument('-words', action="store", dest='words_file', nargs='?', defa
 parser.add_argument('-words2', action="store", dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
 args = parser.parse_args()
 
-## it holds the files name passed and the stat os file
+# it holds the files name passed and the stat os file
 files = {}
+
 
 def loadJSON():
     # Check the file and load it
@@ -48,11 +51,13 @@ def loadJSON():
                 keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
     #keyboard.wait()
 
-# Clean the abreviations from previous JSON and reloads new JSON
+
+# Clean the abbreviations from previous JSON and reloads new JSON
 def reload_JSON():
     print("Reloading modified JSON!")
     keyboard.unhook_all()
     loadJSON()
+
 
 def JSON_modify_watcher():
     while True:
@@ -61,8 +66,8 @@ def JSON_modify_watcher():
             if files[k] != os.stat(k):
                 reload_JSON()
                 break
-            
+
+
 loadJSON()
 t_watcher = Thread(target=JSON_modify_watcher)
 t_watcher.start()
-
