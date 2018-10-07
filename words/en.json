@@ -1,4 +1,7 @@
 {
+    "Abilities": [
+        "Abilties"
+    ],
     "Africa": [
         "Afica"
     ],
@@ -159,6 +162,9 @@
     ],
     "Detroit": [
         "Detriot"
+    ],
+    "Degree": [
+        "Degre"
     ],
     "Dravidian": [
         "Dravadian"
@@ -703,6 +709,9 @@
     ],
     "absorbent": [
         "absorbant"
+    ],
+    "abstract": [
+        "abstact"
     ],
     "absorption": [
         "absorbsion",
