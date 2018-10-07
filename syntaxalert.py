@@ -7,13 +7,6 @@ from utils.data_handlers import open_typo_file
 
 script_path = os.path.dirname(os.path.realpath(__file__))
 
-
-# Load words
-def loadWord(filename):
-    with open(filename) as json_file:
-        words = open_typo_file(json_file)
-        return words
-
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
 parser.add_argument('-words', action="store", dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
@@ -32,14 +25,14 @@ def loadJSON():
 
     if args.words_file2 is not None:
         if os.path.isfile(args.words_file2) is not False:
-            words = loadWord(args.words_file)
-            words2 = loadWord(args.words_file2)
+            words = open_typo_file(args.words_file)
+            words2 = open_typo_file(args.words_file2)
             words.update(words2)
             # register the status of file in these moment
             files[args.words_file] = os.stat(args.words_file)
             files[args.words_file2] = os.stat(args.words_file2)
     else:
-        words = loadWord(args.words_file)
+        words = open_typo_file(args.words_file)
         # register the status of file in these moment
         files[args.words_file] = os.stat(args.words_file)
 
