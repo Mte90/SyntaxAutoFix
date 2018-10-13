@@ -13,8 +13,8 @@ script_path = os.path.dirname(os.path.realpath(__file__))
 config_parser = ConfigParser()
 config_parser.read( os.path.join( script_path, 'filepath.ini' ))
 
-WORDS_FILE_DEFAULT_LOCATION = os.path.join( script_path, json.loads( config_parser.get( 'DEFAULT', 'words_file' )))
-WORDS_FILE2_DEFAULT_LOCATION = os.path.join( script_path, json.loads( config_parser.get( 'DEFAULT', 'words_file2' )))
+LIST_OF_FILES = json.loads( config_parser.get( 'DEFAULT', 'words_file' ))
+WORDS_FILE_DEFAULT_LOCATION = [ os.path.join( script_path, file_path ) for file_path in LIST_OF_FILES ]
 
 # Load words
 def loadWord(filename):
@@ -24,8 +24,8 @@ def loadWord(filename):
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-parser.add_argument('-words', dest='words_file', nargs='?', default=WORDS_FILE_DEFAULT_LOCATION, type=str)
-parser.add_argument('-words2', dest='words_file2', nargs='?', default=WORDS_FILE2_DEFAULT_LOCATION, type=str)
+parser.add_argument('-words', dest='words_file', nargs='?', default=WORDS_FILE_DEFAULT_LOCATION[0], type=str)
+parser.add_argument('-words2', dest='words_file2', nargs='?', default=WORDS_FILE_DEFAULT_LOCATION[1], type=str)
 args = parser.parse_args()
 
 # it holds the files name passed and the stat os file
