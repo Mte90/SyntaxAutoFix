@@ -5,12 +5,27 @@ from threading import Thread
 from time import sleep
 from utils.data_handlers import open_typo_file
 
+from configparser import ConfigParser
+import json
+
 script_path = os.path.dirname(os.path.realpath(__file__))
+
+config_parser = ConfigParser()
+config_parser.read( os.path.join( script_path, 'filepath.ini' ))
+
+LIST_OF_FILES = json.loads( config_parser.get( 'DEFAULT', 'words_file' ))
+WORDS_FILE_DEFAULT_LOCATION = [ os.path.join( script_path, file_path ) for file_path in LIST_OF_FILES ]
+
+# Load words
+def loadWord(filename):
+    with open(filename) as json_file:
+        words = open_typo_file(json_file)
+        return words
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-parser.add_argument('-words', action="store", dest='words_file', nargs='?', default=script_path + '/words/en.json', type=str)
-parser.add_argument('-words2', action="store", dest='words_file2', nargs='?', default=script_path + '/words/it.json', type=str)
+parser.add_argument('-words', dest='words_file', nargs='?', default=WORDS_FILE_DEFAULT_LOCATION[0], type=str)
+parser.add_argument('-words2', dest='words_file2', nargs='?', default=WORDS_FILE_DEFAULT_LOCATION[1], type=str)
 args = parser.parse_args()
 
 # it holds the files name passed and the stat os file
