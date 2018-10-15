@@ -200,12 +200,12 @@
         "apura"
     ],
     "per": [
-        "epr",
-        "pe"
+        "pe",
+        "epr"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -315,6 +315,9 @@
     "togliere": [
         "togleire"
     ],
+    "tuo": [
+        "tup"
+    ],
     "un": [
         "u"
     ],
@@ -331,8 +334,8 @@
         "valutaizoni"
     ],
     "versione": [
-        "versioen",
-        "verisone"
+        "verisone",
+        "versioen"
     ],
     "volete": [
         "voelte"
