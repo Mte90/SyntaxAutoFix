@@ -1,4 +1,7 @@
 {
+    "adesivi": [
+        "adevisi"
+    ],
     "aggiungere": [
         "aggiugnere"
     ],
@@ -8,8 +11,14 @@
     "alle": [
         "alel"
     ],
+    "allineati": [
+        "allienati"
+    ],
     "alternativo": [
         "laternativo"
+    ],
+    "altra": [
+        "latra"
     ],
     "ancora": [
         "ancoran"
@@ -41,8 +50,12 @@
     "chiesto": [
         "hicesto"
     ],
+    "comando": [
+        "cmmando"
+    ],
     "come": [
-        "coem"
+        "coem",
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -77,6 +90,9 @@
     "dispiace": [
         "dispaice"
     ],
+    "diversi": [
+        "dibversi"
+    ],
     "donazione": [
         "donazioen"
     ],
@@ -88,6 +104,9 @@
     ],
     "errore": [
         "erroe"
+    ],
+    "esperienza": [
+        "espereienza"
     ],
     "facile": [
         "faciel"
@@ -104,8 +123,14 @@
     "giovedi": [
         "givoed\u00ec"
     ],
+    "giusto": [
+        "viusto"
+    ],
     "il": [
         "lil"
+    ],
+    "impara": [
+        "imapra"
     ],
     "inglese": [
         "inglse"
@@ -180,6 +205,9 @@
     "ogni": [
         "goni"
     ],
+    "oramai": [
+        "oaramai"
+    ],
     "organizzarlo": [
         "orgnaizzarlo"
     ],
@@ -200,12 +228,12 @@
         "apura"
     ],
     "per": [
-        "pe",
-        "epr"
+        "epr",
+        "pe"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -261,6 +289,9 @@
     "richieste": [
         "recheiste"
     ],
+    "riempito": [
+        "rimpeito"
+    ],
     "riguardo": [
         "rgiuardo"
     ],
@@ -278,6 +309,9 @@
     ],
     "sempre": [
         "semrpe"
+    ],
+    "servono": [
+        "serovno"
     ],
     "settimana": [
         "settiman"
@@ -307,6 +341,9 @@
     "sviluppatori": [
         "svilupaptori"
     ],
+    "tanti": [
+        "ntanti"
+    ],
     "tempi": [
         "tmepi"
     ],
@@ -325,6 +362,9 @@
     "una": [
         "uan"
     ],
+    "universitaria": [
+        "unviersitria"
+    ],
     "universit\u00e0": [
         "unviersit\u00e0"
     ],
@@ -335,8 +375,11 @@
         "valutaizoni"
     ],
     "versione": [
-        "versioen",
-        "verisone"
+        "verisone",
+        "versioen"
+    ],
+    "versioni": [
+        "verisoni"
     ],
     "volete": [
         "voelte"
