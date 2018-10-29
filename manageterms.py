@@ -21,7 +21,8 @@ def store_new_argument(_args_):
     raise ValueError('SyntaxAlert only supports en, es, fr, it at the moment.')
 
 # Parse argument
-parser = argparse.ArgumentParser(description='add new terms!')    
+parser = argparse.ArgumentParser(description='add new terms!')
+args = parse_argument(parser)
 
 # Check argument is not circular
 if args.right == args.wrong:
