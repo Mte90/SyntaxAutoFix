@@ -21,3 +21,11 @@ def save_typo_data(path, data):
             dumps({word: list(incorrect_words) for word, incorrect_words in data.items()},
                   indent=4,
                   sort_keys=True))
+
+def save_stats_file(path, data):
+    """Save statistics about typos."""
+    with open(path, "w") as f:
+        f.write(
+            dumps({wrong_word: counter for wrong_word, counter in data.items()},
+                  indent=4,
+                  sort_keys=True))
