@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "coem",
-        "cvome"
+        "cvome",
+        "coem"
     ],
     "comprare": [
         "comrapre"
@@ -74,6 +74,9 @@
     ],
     "contattare": [
         "cotnatt"
+    ],
+    "contribuito": [
+        "contribuiso"
     ],
     "della": [
         "delal"
@@ -145,7 +148,8 @@
         "itneressa"
     ],
     "interessata": [
-        "itneressata"
+        "itneressata",
+        "interesata"
     ],
     "interessati": [
         "itneressati"
@@ -166,8 +170,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -192,6 +196,9 @@
     ],
     "molti": [
         "mlti"
+    ],
+    "nelal": [
+        "nella"
     ],
     "nella": [
         "nlla"
