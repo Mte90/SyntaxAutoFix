@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "cvome",
-        "coem"
+        "coem",
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -188,6 +188,9 @@
     "magliette": [
         "magleitte"
     ],
+    "manualmente": [
+        "manualemten"
+    ],
     "matrimonio": [
         "amtrimonio"
     ],
@@ -197,11 +200,9 @@
     "molti": [
         "mlti"
     ],
-    "nelal": [
-        "nella"
-    ],
     "nella": [
-        "nlla"
+        "nlla",
+        "nelal"
     ],
     "niente": [
         "niete"
@@ -239,8 +240,8 @@
         "pe"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -327,8 +328,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "sinceramenten",
-        "siceramente"
+        "siceramente",
+        "sinceramenten"
     ],
     "sperimentare": [
         "sperimetnare"
