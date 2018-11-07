@@ -29,3 +29,8 @@ def save_stats_file(path, data):
             dumps({wrong_word: counter for wrong_word, counter in data.items()},
                   indent=4,
                   sort_keys=True))
+
+def open_stats_file(path):
+    """Open a file with statistics on wrong words and return the data as a defaultdict of sets."""
+    with open(path, "r") as f:
+        return load(f)
