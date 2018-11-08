@@ -39,10 +39,14 @@ keyboard.start_recording()
 def mispell_callback():
     recorded_words = keyboard.stop_recording()
     recorded_words_list = list(keyboard.get_typed_strings(recorded_words))
-    wrong_word = recorded_words_list[0].split()[-1]
-    wrong_word_counter[wrong_word] = wrong_word_counter.get(wrong_word, 0) + 1
+    if len(recorded_words_list) > 0:
+        list_splitted = recorded_words_list[0].split()
+        if len(list_splitted) > 0:
+            wrong_word = list_splitted[-1]
+            wrong_word_counter[wrong_word] = wrong_word_counter.get(wrong_word, 0) + 1
+            save_stats_file("stats.json",wrong_word_counter)
     keyboard.start_recording()
-    save_stats_file("stats.json",wrong_word_counter)
+
 
 def loadJSON():
     # Check the file and load it
