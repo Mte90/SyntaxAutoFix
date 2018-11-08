@@ -1,5 +1,6 @@
 from json import load, dumps
 from collections import defaultdict
+import os
 
 def load_to_default_dict(data):
     """Helper function to load the typo_data as a defaultdict of sets."""
@@ -32,5 +33,8 @@ def save_stats_file(path, data):
 
 def open_stats_file(path):
     """Open a file with statistics on wrong words and return the data as a defaultdict of sets."""
-    with open(path, "r") as f:
-        return load(f)
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            return load(f)
+    else:
+        return {}
