@@ -4,6 +4,7 @@ import argparse, os.path
 from threading import Thread
 from time import sleep
 from utils.data_handlers import open_typo_file
+from utils.data_handlers import save_stats_file
 
 from configparser import ConfigParser
 import json
@@ -31,6 +32,21 @@ args = parser.parse_args()
 # it holds the files name passed and the stat os file
 files = {}
 
+wrong_word_counter = {}
+
+keyboard.start_recording()
+
+def mispell_callback():
+    recorded_words = keyboard.stop_recording()
+    recorded_words_list = list(keyboard.get_typed_strings(recorded_words))
+    if len(recorded_words_list) > 0:
+        list_splitted = recorded_words_list[0].split()
+        if len(list_splitted) > 0:
+            wrong_word = list_splitted[-1]
+            wrong_word_counter[wrong_word] = wrong_word_counter.get(wrong_word, 0) + 1
+            save_stats_file("stats.json",wrong_word_counter)
+    keyboard.start_recording()
+
 
 def loadJSON():
     # Check the file and load it
@@ -57,6 +73,7 @@ def loadJSON():
             if wrong != '':
                 print('Loaded ' + wrong + ' with as: ' + correct)
                 keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
+                keyboard.add_word_listener(wrong, mispell_callback)
     #keyboard.wait()
 
 
