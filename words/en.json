@@ -531,9 +531,6 @@
     "Sahasradhara": [
         "Sahastradhara"
     ],
-    "Sahasralinga": [
-        "Sahasralinga"
-    ],
     "Sanhedrin": [
         "Sanhedrim"
     ],
@@ -1263,9 +1260,6 @@
     "ambiance": [
         "ambience"
     ],
-    "ambience": [
-        "ambiance"
-    ],
     "ambient": [
         "ambiant"
     ],
@@ -1734,9 +1728,6 @@
     "asteroid": [
         "asteriod"
     ],
-    "astroid": [
-        "astroid"
-    ],
     "asymmetric": [
         "assymetric"
     ],
@@ -2023,9 +2014,6 @@
     "beleaguered": [
         "beleagured"
     ],
-    "beleive": [
-        "believe"
-    ],
     "belief": [
         "beleif"
     ],
@@ -2237,9 +2225,6 @@
     "buffaloes": [
         "buffalos"
     ],
-    "buffalos": [
-        "buffaloes"
-    ],
     "building": [
         "buliding"
     ],
@@ -2368,9 +2353,6 @@
     ],
     "canonical": [
         "cannonical"
-    ],
-    "cant": [
-        "cant"
     ],
     "capability": [
         "caperbility"
@@ -2791,9 +2773,6 @@
     ],
     "colony": [
         "collony"
-    ],
-    "coloration": [
-        "colouration"
     ],
     "colorless": [
         "colourless"
@@ -4360,9 +4339,6 @@
     "each": [
         "eached"
     ],
-    "earing": [
-        "earing"
-    ],
     "earlier": [
         "earler"
     ],
@@ -4637,9 +4613,6 @@
     "enamored": [
         "enamoured"
     ],
-    "enamoured": [
-        "enamored"
-    ],
     "enclose": [
         "inclose"
     ],
@@ -4654,9 +4627,6 @@
     ],
     "encyclopaedia": [
         "encyclpedia"
-    ],
-    "encypher": [
-        "encypher"
     ],
     "endeavor": [
         "endevour"
@@ -5385,10 +5355,8 @@
         "fo"
     ],
     "forbad": [
-        "forebad"
-    ],
-    "forbade": [
-        "forbad"
+        "forebad",
+        "forbade"
     ],
     "forbid": [
         "forebid"
@@ -7396,9 +7364,6 @@
     "locomotive": [
         "locamotive"
     ],
-    "locus": [
-        "locus"
-    ],
     "logically": [
         "logicaly"
     ],
@@ -8783,9 +8748,6 @@
     ],
     "peculiarly": [
         "pecularly"
-    ],
-    "peice": [
-        "piece"
     ],
     "pejorative": [
         "perjorative"
@@ -13117,9 +13079,6 @@
         "womens"
     ],
     "won't": [
-        "wont"
-    ],
-    "wont": [
         "wont"
     ],
     "wore": [
