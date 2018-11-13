@@ -18,7 +18,7 @@ def store_new_argument(_args_):
     typo_data[args.right].add(_args_.wrong)
     save_typo_data(lang_path, typo_data)
   except FileNotFoundError:
-    raise ValueError('SyntaxAlert only supports en, es, fr, it at the moment.')
+    raise ValueError('Language ' +  _args_.lang + ' actually not avalaible.')
 
 # Parse argument
 parser = argparse.ArgumentParser(description='add new terms!')
