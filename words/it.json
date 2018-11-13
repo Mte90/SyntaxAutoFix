@@ -75,9 +75,6 @@
     "contattare": [
         "cotnatt"
     ],
-    "contribuito": [
-        "contribuiso"
-    ],
     "della": [
         "delal"
     ],
@@ -148,8 +145,7 @@
         "itneressa"
     ],
     "interessata": [
-        "itneressata",
-        "interesata"
+        "itneressata"
     ],
     "interessati": [
         "itneressati"
@@ -170,8 +166,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascair",
-        "lascaire"
+        "lascaire",
+        "lascair"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -191,6 +187,9 @@
     "manualmente": [
         "manualemten"
     ],
+    "materiale": [
+        "amteriale"
+    ],
     "matrimonio": [
         "amtrimonio"
     ],
@@ -201,8 +200,7 @@
         "mlti"
     ],
     "nella": [
-        "nlla",
-        "nelal"
+        "nlla"
     ],
     "niente": [
         "niete"
@@ -223,8 +221,8 @@
         "pagian"
     ],
     "parecchio": [
-        "parecciho",
-        "aprecchio"
+        "aprecchio",
+        "parecciho"
     ],
     "parliamo": [
         "parliamno"
@@ -240,8 +238,8 @@
         "pe"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -306,6 +304,9 @@
     "risposto": [
         "rispsoto"
     ],
+    "riusare": [
+        "risuare"
+    ],
     "riusiamo": [
         "rusiamo"
     ],
@@ -314,6 +315,9 @@
     ],
     "scatole": [
         "scatoel"
+    ],
+    "scuola": [
+        "sucola"
     ],
     "sempre": [
         "semrpe"
@@ -330,6 +334,9 @@
     "sinceramente": [
         "siceramente",
         "sinceramenten"
+    ],
+    "sono": [
+        "osno"
     ],
     "sperimentare": [
         "sperimetnare"
@@ -352,6 +359,9 @@
     "tanti": [
         "ntanti"
     ],
+    "telefonarmi": [
+        "telefornarmi"
+    ],
     "tempi": [
         "tmepi"
     ],
@@ -360,6 +370,9 @@
     ],
     "togliere": [
         "togleire"
+    ],
+    "trovare": [
+        "trvare"
     ],
     "tuo": [
         "tup"
