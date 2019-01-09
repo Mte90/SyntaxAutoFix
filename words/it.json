@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "coem",
-        "cvome"
+        "cvome",
+        "coem"
     ],
     "comprare": [
         "comrapre"
@@ -166,8 +166,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -221,8 +221,8 @@
         "pagian"
     ],
     "parecchio": [
-        "aprecchio",
-        "parecciho"
+        "parecciho",
+        "aprecchio"
     ],
     "parliamo": [
         "parliamno"
@@ -238,8 +238,8 @@
         "pe"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -332,8 +332,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "siceramente",
-        "sinceramenten"
+        "sinceramenten",
+        "siceramente"
     ],
     "sono": [
         "osno"
@@ -396,8 +396,9 @@
         "valutaizoni"
     ],
     "versione": [
+        "versioen",
         "verisone",
-        "versioen"
+        "vrsione"
     ],
     "versioni": [
         "verisoni"
@@ -407,5 +408,31 @@
     ],
     "volta": [
         "votla"
+    ],
+    "avevo": [
+        "aveo"
+    ],
+    "descrizione": [
+        "descirzione",
+        "descirizione"
+    ],
+    "organizzazione": [
+        "orgnaizzazione",
+        "orgnaizzaizone"
+    ],
+    "rispondere": [
+        "rispodnere"
+    ],
+    "presentino": [
+        "presnetino"
+    ],
+    "non": [
+        "nons"
+    ],
+    "organizzare": [
+        "orgnaizzare"
+    ],
+    "risulta": [
+        "risutla"
     ]
 }
