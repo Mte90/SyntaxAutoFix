@@ -48,6 +48,10 @@ class Ui_MainWindow(object):
 
         self.retranslateUi(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
+        MainWindow.setTabOrder(self.wrong, self.right)
+        MainWindow.setTabOrder(self.right, self.languages)
+        MainWindow.setTabOrder(self.languages, self.save)
+        MainWindow.setTabOrder(self.save, self.save_close)
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate

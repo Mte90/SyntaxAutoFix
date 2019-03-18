@@ -72,6 +72,13 @@
    </layout>
   </widget>
  </widget>
+ <tabstops>
+  <tabstop>wrong</tabstop>
+  <tabstop>right</tabstop>
+  <tabstop>languages</tabstop>
+  <tabstop>save</tabstop>
+  <tabstop>save_close</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>

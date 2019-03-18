@@ -8,6 +8,7 @@ Check the `words` folder for the languages available.
 ```
 pip3 install keyboard
 ```
+For the UI is required PyQt5.
 
 ## How to use with Target Language(s)
 - For English only
@@ -25,6 +26,8 @@ syntaxalert.py -words ./words/en.json -words2 ./words/it.json
 ```
 manageterms.py -wrong="wdiget" -right="widget" -lang=en
 ```
+
+You can use also an ui for that: `manageterms-gui.py`
 
 ## Adding New Terms using CSV File
 Directly upload new terms using a CSV file with row format:
