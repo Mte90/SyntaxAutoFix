@@ -151,7 +151,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "itnerfaccia"
+        "itnerfaccia",
+        "interfaccai"
     ],
     "internet": [
         "itnernet"
@@ -221,8 +222,8 @@
         "pagian"
     ],
     "parecchio": [
-        "parecciho",
-        "aprecchio"
+        "aprecchio",
+        "parecciho"
     ],
     "parliamo": [
         "parliamno"
@@ -234,12 +235,12 @@
         "apura"
     ],
     "per": [
-        "epr",
-        "pe"
+        "pe",
+        "epr"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -272,7 +273,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -396,9 +398,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "versioen",
+        "vrsione",
+        "verisoen",
         "verisone",
-        "vrsione"
+        "versioen"
     ],
     "versioni": [
         "verisoni"
@@ -413,8 +416,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
         "orgnaizzazione",
@@ -434,5 +437,23 @@
     ],
     "risulta": [
         "risutla"
+    ],
+    "filmare": [
+        "filmanre"
+    ],
+    "febbraio": [
+        "febraio"
+    ],
+    "contratto": [
+        "cotnratto"
+    ],
+    "energie": [
+        "enerige"
+    ],
+    "hanno": [
+        "hano"
+    ],
+    "regolmaneto": [
+        "regolamento"
     ]
 }
