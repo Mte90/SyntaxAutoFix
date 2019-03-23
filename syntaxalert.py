@@ -44,7 +44,7 @@ def mispell_callback():
         if len(list_splitted) > 0:
             wrong_word = list_splitted[-1]
             wrong_word_counter[wrong_word] = wrong_word_counter.get(wrong_word, 0) + 1
-            save_stats_file("stats.json",wrong_word_counter)
+            save_stats_file(os.path.join(script_path, "stats.json"),wrong_word_counter)
     keyboard.start_recording()
 
 
