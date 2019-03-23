@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "cvome",
-        "coem"
+        "coem",
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -167,8 +167,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascair",
-        "lascaire"
+        "lascaire",
+        "lascair"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -222,8 +222,8 @@
         "pagian"
     ],
     "parecchio": [
-        "aprecchio",
-        "parecciho"
+        "parecciho",
+        "aprecchio"
     ],
     "parliamo": [
         "parliamno"
@@ -398,10 +398,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "vrsione",
+        "versioen",
         "verisoen",
-        "verisone",
-        "versioen"
+        "vrsione",
+        "verisone"
     ],
     "versioni": [
         "verisoni"
@@ -416,8 +416,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirizione",
-        "descirzione"
+        "descirzione",
+        "descirizione"
     ],
     "organizzazione": [
         "orgnaizzazione",
@@ -455,5 +455,11 @@
     ],
     "regolmaneto": [
         "regolamento"
+    ],
+    "produzione": [
+        "produzioen"
+    ],
+    "meglio": [
+        "megli"
     ]
 }
