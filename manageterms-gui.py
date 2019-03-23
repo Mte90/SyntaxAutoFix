@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 import os, signal, sys, glob
 from PyQt5 import QtCore
-from PyQt5.QtWidgets import QMainWindow, QApplication, QErrorMessage
+from PyQt5.QtWidgets import QMainWindow, QApplication, QErrorMessage, QShortcut
+from PyQt5.QtGui import QKeySequence
 from utils.data_handlers import open_typo_file, save_typo_data
 from ui_manageterms import Ui_MainWindow
 
@@ -22,6 +23,8 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         for filepath in sorted(glob.glob(os.path.join(self.script_path, '*.json'))):
             language = os.path.splitext(os.path.basename(filepath))[0]
             self.ui.languages.addItem(language)
+        enter = QShortcut(QKeySequence(QtCore.Qt.Key_Return), self)
+        enter.activated.connect(self.save_close)
         self.show()
     
     def store_new_argument(self):
