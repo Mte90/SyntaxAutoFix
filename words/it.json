@@ -167,8 +167,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -201,6 +201,7 @@
         "mlti"
     ],
     "nella": [
+        "nela",
         "nlla"
     ],
     "niente": [
@@ -235,12 +236,12 @@
         "apura"
     ],
     "per": [
-        "pe",
-        "epr"
+        "epr",
+        "pe"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -273,8 +274,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -398,10 +399,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "versioen",
+        "verisone",
         "verisoen",
         "vrsione",
-        "verisone"
+        "versioen"
     ],
     "versioni": [
         "verisoni"
@@ -461,5 +462,32 @@
     ],
     "meglio": [
         "megli"
+    ],
+    "provo": [
+        "rpovo"
+    ],
+    "quando": [
+        "qunado"
+    ],
+    "compilare": [
+        "compialre"
+    ],
+    "piace": [
+        "paice"
+    ],
+    "cambiare": [
+        "canbiare"
+    ],
+    "campagna": [
+        "campgna"
+    ],
+    "solitamente": [
+        "solitasmente"
+    ],
+    "arrivare": [
+        "arivare"
+    ],
+    "pensavamo": [
+        "pesanvamo"
     ]
 }
