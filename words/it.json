@@ -151,8 +151,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "itnerfaccia",
-        "interfaccai"
+        "interfaccai",
+        "itnerfaccia"
     ],
     "internet": [
         "itnernet"
@@ -236,8 +236,8 @@
         "apura"
     ],
     "per": [
-        "epr",
-        "pe"
+        "pe",
+        "epr"
     ],
     "persone": [
         "persoen",
@@ -399,10 +399,10 @@
         "valutaizoni"
     ],
     "versione": [
+        "versioen",
         "verisone",
-        "verisoen",
         "vrsione",
-        "versioen"
+        "verisoen"
     ],
     "versioni": [
         "verisoni"
@@ -489,5 +489,8 @@
     ],
     "pensavamo": [
         "pesanvamo"
+    ],
+    "organizzo": [
+        "orgnaizzo"
     ]
 }
