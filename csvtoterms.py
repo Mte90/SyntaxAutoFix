@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse, os.path, json, csv
+import argparse, os.path, csv
 from utils.data_handlers import open_typo_file, save_typo_data
 
 # Parse argument

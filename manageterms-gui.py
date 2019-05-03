@@ -45,7 +45,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
     def save_close(self):
         self.store_new_argument()
         self.close()
-  
+
 
 def main():
     #Start the software
