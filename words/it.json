@@ -139,6 +139,7 @@
         "inolter"
     ],
     "intanto": [
+        "intant",
         "intnato"
     ],
     "interessa": [
@@ -151,8 +152,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "itnerfaccia",
-        "interfaccai"
+        "interfaccai",
+        "itnerfaccia"
     ],
     "internet": [
         "itnernet"
@@ -167,8 +168,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascair",
-        "lascaire"
+        "lascaire",
+        "lascair"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -201,9 +202,9 @@
         "mlti"
     ],
     "nella": [
+        "nlla",
         "nela",
-        "nelal",
-        "nlla"
+        "nelal"
     ],
     "niente": [
         "niete"
@@ -224,8 +225,8 @@
         "pagian"
     ],
     "parecchio": [
-        "parecciho",
-        "aprecchio"
+        "aprecchio",
+        "parecciho"
     ],
     "parliamo": [
         "parliamno"
@@ -237,8 +238,8 @@
         "apura"
     ],
     "per": [
-        "pe",
-        "epr"
+        "epr",
+        "pe"
     ],
     "persone": [
         "persoen",
@@ -269,14 +270,15 @@
         "programamtori"
     ],
     "prossima": [
-        "prossiam"
+        "prossiam",
+        "prossim"
     ],
     "prossimo": [
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -336,8 +338,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "sinceramenten",
-        "siceramente"
+        "siceramente",
+        "sinceramenten"
     ],
     "sono": [
         "osno"
@@ -402,8 +404,8 @@
     "versione": [
         "verisoen",
         "vrsione",
-        "versioen",
-        "verisone"
+        "verisone",
+        "versioen"
     ],
     "versioni": [
         "verisoni"
@@ -418,12 +420,12 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
-        "orgnaizzazione",
-        "orgnaizzaizone"
+        "orgnaizzaizone",
+        "orgnaizzazione"
     ],
     "rispondere": [
         "rispodnere"
@@ -462,8 +464,8 @@
         "produzioen"
     ],
     "meglio": [
-        "megli",
-        "melgio"
+        "melgio",
+        "megli"
     ],
     "provo": [
         "rpovo"
@@ -527,5 +529,62 @@
     ],
     "iscrizione": [
         "iscrizioen"
+    ],
+    "trovato": [
+        "trvato"
+    ],
+    "perso": [
+        "eprso"
+    ],
+    "gloria": [
+        "glora"
+    ],
+    "abituato": [
+        "abiutato"
+    ],
+    "parametro": [
+        "aprametro"
+    ],
+    "comporta": [
+        "comprta"
+    ],
+    "pronto": [
+        "prontt"
+    ],
+    "ignoranza": [
+        "ignorazna"
+    ],
+    "pazzesca": [
+        "pazzzesca"
+    ],
+    "pensa": [
+        "pennsa"
+    ],
+    "intendi": [
+        "itendi"
+    ],
+    "vostro": [
+        "vostor"
+    ],
+    "proporlo": [
+        "proprorlo"
+    ],
+    "declinare": [
+        "declianre"
+    ],
+    "lasciato": [
+        "alsciato"
+    ],
+    "abbastanza": [
+        "abastanza"
+    ],
+    "interesse": [
+        "itneresse"
+    ],
+    "fanno": [
+        "fano"
+    ],
+    "aggiornare": [
+        "agigornare"
     ]
 }
