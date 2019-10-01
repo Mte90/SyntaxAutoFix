@@ -139,8 +139,8 @@
         "inolter"
     ],
     "intanto": [
-        "intant",
-        "intnato"
+        "intnato",
+        "intant"
     ],
     "interessa": [
         "itneressa"
@@ -202,9 +202,9 @@
         "mlti"
     ],
     "nella": [
-        "nlla",
         "nela",
-        "nelal"
+        "nelal",
+        "nlla"
     ],
     "niente": [
         "niete"
@@ -277,8 +277,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -402,10 +402,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "verisoen",
-        "vrsione",
+        "versioen",
         "verisone",
-        "versioen"
+        "vrsione",
+        "verisoen"
     ],
     "versioni": [
         "verisoni"
@@ -464,8 +464,8 @@
         "produzioen"
     ],
     "meglio": [
-        "melgio",
-        "megli"
+        "megli",
+        "melgio"
     ],
     "provo": [
         "rpovo"
@@ -586,5 +586,11 @@
     ],
     "aggiornare": [
         "agigornare"
+    ],
+    "rilasciato": [
+        "rialsciato"
+    ],
+    "discussione": [
+        "discusisone"
     ]
 }
