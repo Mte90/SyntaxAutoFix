@@ -42,6 +42,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         typo_data = open_typo_file(lang_path)
         typo_data[right].add(wrong)
         save_typo_data(lang_path, typo_data)
+        
     def save_close(self):
         self.store_new_argument()
         self.close()
