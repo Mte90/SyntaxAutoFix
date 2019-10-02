@@ -152,8 +152,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "itnerfaccia",
-        "interfaccai"
+        "interfaccai",
+        "itnerfaccia"
     ],
     "internet": [
         "itnernet"
@@ -202,9 +202,9 @@
         "mlti"
     ],
     "nella": [
-        "nela",
         "nelal",
-        "nlla"
+        "nlla",
+        "nela"
     ],
     "niente": [
         "niete"
@@ -238,12 +238,12 @@
         "apura"
     ],
     "per": [
-        "pe",
-        "epr"
+        "epr",
+        "pe"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -277,8 +277,8 @@
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -338,8 +338,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "sinceramenten",
-        "siceramente"
+        "siceramente",
+        "sinceramenten"
     ],
     "sono": [
         "osno"
@@ -402,9 +402,9 @@
         "valutaizoni"
     ],
     "versione": [
+        "verisone",
         "versioen",
         "vrsione",
-        "verisone",
         "verisoen"
     ],
     "versioni": [
@@ -420,12 +420,12 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
-        "orgnaizzazione",
-        "orgnaizzaizone"
+        "orgnaizzaizone",
+        "orgnaizzazione"
     ],
     "rispondere": [
         "rispodnere"
@@ -598,5 +598,8 @@
     ],
     "aggiungiamo": [
         "aggiungiami"
+    ],
+    "alcune": [
+        "alcuen"
     ]
 }
