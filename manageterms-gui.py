@@ -16,6 +16,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.ui.setupUi(self)
         # Connect the function with the signal
         self.ui.save.clicked.connect(self.store_new_argument)
+        self.ui.save.clicked.connect(self.save_and_clear)
         self.ui.save_close.clicked.connect(self.save_close)
         # When the software are closed on console the software are closed
         signal.signal(signal.SIGINT, signal.SIG_DFL)
@@ -41,11 +42,14 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         typo_data = open_typo_file(lang_path)
         typo_data[right].add(wrong)
         save_typo_data(lang_path, typo_data)
-    
     def save_close(self):
         self.store_new_argument()
         self.close()
 
+    # Clear the text fields on save issue #39
+    def save_and_clear(self):
+        self.ui.wrong.clear()
+        self.ui.right.clear()
 
 def main():
     #Start the software
