@@ -152,8 +152,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "interfaccai",
-        "itnerfaccia"
+        "itnerfaccia",
+        "interfaccai"
     ],
     "internet": [
         "itnernet"
@@ -238,12 +238,12 @@
         "apura"
     ],
     "per": [
-        "epr",
-        "pe"
+        "pe",
+        "epr"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -270,8 +270,8 @@
         "programamtori"
     ],
     "prossima": [
-        "prossiam",
-        "prossim"
+        "prossim",
+        "prossiam"
     ],
     "prossimo": [
         "prosismo"
@@ -338,8 +338,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "siceramente",
-        "sinceramenten"
+        "sinceramenten",
+        "siceramente"
     ],
     "sono": [
         "osno"
@@ -403,8 +403,8 @@
     ],
     "versione": [
         "versioen",
-        "verisone",
         "vrsione",
+        "verisone",
         "verisoen"
     ],
     "versioni": [
@@ -420,12 +420,12 @@
         "aveo"
     ],
     "descrizione": [
-        "descirizione",
-        "descirzione"
+        "descirzione",
+        "descirizione"
     ],
     "organizzazione": [
-        "orgnaizzaizone",
-        "orgnaizzazione"
+        "orgnaizzazione",
+        "orgnaizzaizone"
     ],
     "rispondere": [
         "rispodnere"
@@ -464,8 +464,8 @@
         "produzioen"
     ],
     "meglio": [
-        "megli",
-        "melgio"
+        "melgio",
+        "megli"
     ],
     "provo": [
         "rpovo"
@@ -592,5 +592,11 @@
     ],
     "discussione": [
         "discusisone"
+    ],
+    "portare": [
+        "protare"
+    ],
+    "aggiungiamo": [
+        "aggiungiami"
     ]
 }
