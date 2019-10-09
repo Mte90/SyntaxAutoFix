@@ -139,8 +139,8 @@
         "inolter"
     ],
     "intanto": [
-        "intnato",
-        "intant"
+        "intant",
+        "intnato"
     ],
     "interessa": [
         "itneressa"
@@ -152,8 +152,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "interfaccai",
-        "itnerfaccia"
+        "itnerfaccia",
+        "interfaccai"
     ],
     "internet": [
         "itnernet"
@@ -168,8 +168,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -232,7 +232,8 @@
         "parliamno"
     ],
     "partecipare": [
-        "parteciapre"
+        "parteciapre",
+        "aprtecipare"
     ],
     "paura": [
         "apura"
@@ -277,8 +278,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -332,7 +333,8 @@
         "serovno"
     ],
     "settimana": [
-        "settiman"
+        "settiman",
+        "settimna"
     ],
     "siccome": [
         "siccoem"
@@ -402,10 +404,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "verisone",
-        "versioen",
         "vrsione",
-        "verisoen"
+        "verisoen",
+        "versioen",
+        "verisone"
     ],
     "versioni": [
         "verisoni"
@@ -420,12 +422,12 @@
         "aveo"
     ],
     "descrizione": [
-        "descirizione",
-        "descirzione"
+        "descirzione",
+        "descirizione"
     ],
     "organizzazione": [
-        "orgnaizzaizone",
-        "orgnaizzazione"
+        "orgnaizzazione",
+        "orgnaizzaizone"
     ],
     "rispondere": [
         "rispodnere"
@@ -498,6 +500,7 @@
         "orgnaizzo"
     ],
     "segnalato": [
+        "segnalat",
         "segnalto"
     ],
     "organizza": [
@@ -601,5 +604,29 @@
     ],
     "alcune": [
         "alcuen"
+    ],
+    "rimarremo": [
+        "rimarrermo"
+    ],
+    "buono": [
+        "bvuono"
+    ],
+    "siamo": [
+        "siao"
+    ],
+    "visto": [
+        "visot"
+    ],
+    "riferiva": [
+        "riferva"
+    ],
+    "automatico": [
+        "autoamtico"
+    ],
+    "corrispondevano": [
+        "corrispodnevano"
+    ],
+    "articoli": [
+        "aritcoli"
     ]
 }
