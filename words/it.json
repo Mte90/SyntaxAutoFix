@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "cvome",
-        "coem"
+        "coem",
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -139,8 +139,8 @@
         "inolter"
     ],
     "intanto": [
-        "intant",
-        "intnato"
+        "intnato",
+        "intant"
     ],
     "interessa": [
         "itneressa"
@@ -168,8 +168,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascair",
-        "lascaire"
+        "lascaire",
+        "lascair"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -203,8 +203,8 @@
     ],
     "nella": [
         "nelal",
-        "nlla",
-        "nela"
+        "nela",
+        "nlla"
     ],
     "niente": [
         "niete"
@@ -232,8 +232,8 @@
         "parliamno"
     ],
     "partecipare": [
-        "parteciapre",
-        "aprtecipare"
+        "aprtecipare",
+        "parteciapre"
     ],
     "paura": [
         "apura"
@@ -278,8 +278,8 @@
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -340,8 +340,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "siceramente",
-        "sinceramenten"
+        "sinceramenten",
+        "siceramente"
     ],
     "sono": [
         "osno"
@@ -404,9 +404,9 @@
         "valutaizoni"
     ],
     "versione": [
+        "versioen",
         "vrsione",
         "verisoen",
-        "versioen",
         "verisone"
     ],
     "versioni": [
@@ -426,8 +426,8 @@
         "descirizione"
     ],
     "organizzazione": [
-        "orgnaizzazione",
-        "orgnaizzaizone"
+        "orgnaizzaizone",
+        "orgnaizzazione"
     ],
     "rispondere": [
         "rispodnere"
@@ -466,8 +466,8 @@
         "produzioen"
     ],
     "meglio": [
-        "melgio",
-        "megli"
+        "megli",
+        "melgio"
     ],
     "provo": [
         "rpovo"
@@ -500,8 +500,8 @@
         "orgnaizzo"
     ],
     "segnalato": [
-        "segnalat",
-        "segnalto"
+        "segnalto",
+        "segnalat"
     ],
     "organizza": [
         "orgnaizza"
@@ -613,20 +613,5 @@
     ],
     "siamo": [
         "siao"
-    ],
-    "visto": [
-        "visot"
-    ],
-    "riferiva": [
-        "riferva"
-    ],
-    "automatico": [
-        "autoamtico"
-    ],
-    "corrispondevano": [
-        "corrispodnevano"
-    ],
-    "articoli": [
-        "aritcoli"
     ]
 }
