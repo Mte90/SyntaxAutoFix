@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "coem",
-        "cvome"
+        "cvome",
+        "coem"
     ],
     "comprare": [
         "comrapre"
@@ -79,7 +79,8 @@
         "delal"
     ],
     "delle": [
-        "delel"
+        "delel",
+        "dele"
     ],
     "difficile": [
         "difficiel"
@@ -91,7 +92,8 @@
         "dispaice"
     ],
     "diversi": [
-        "dibversi"
+        "dibversi",
+        "diveris"
     ],
     "donazione": [
         "donazioen"
@@ -143,6 +145,7 @@
         "intant"
     ],
     "interessa": [
+        "interess",
         "itneressa"
     ],
     "interessata": [
@@ -152,8 +155,8 @@
         "itneressati"
     ],
     "interfaccia": [
-        "itnerfaccia",
-        "interfaccai"
+        "interfaccai",
+        "itnerfaccia"
     ],
     "internet": [
         "itnernet"
@@ -203,8 +206,8 @@
     ],
     "nella": [
         "nelal",
-        "nela",
-        "nlla"
+        "nlla",
+        "nela"
     ],
     "niente": [
         "niete"
@@ -225,22 +228,23 @@
         "pagian"
     ],
     "parecchio": [
-        "aprecchio",
-        "parecciho"
+        "parecciho",
+        "parechcio",
+        "aprecchio"
     ],
     "parliamo": [
         "parliamno"
     ],
     "partecipare": [
-        "aprtecipare",
-        "parteciapre"
+        "parteciapre",
+        "aprtecipare"
     ],
     "paura": [
         "apura"
     ],
     "per": [
-        "epr",
-        "pe"
+        "pe",
+        "epr"
     ],
     "persone": [
         "persoen",
@@ -271,15 +275,15 @@
         "programamtori"
     ],
     "prossima": [
-        "prossim",
-        "prossiam"
+        "prossiam",
+        "prossim"
     ],
     "prossimo": [
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -404,9 +408,9 @@
         "valutaizoni"
     ],
     "versione": [
-        "versioen",
         "vrsione",
         "verisoen",
+        "versioen",
         "verisone"
     ],
     "versioni": [
@@ -422,8 +426,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
         "orgnaizzaizone",
@@ -466,8 +470,8 @@
         "produzioen"
     ],
     "meglio": [
-        "megli",
-        "melgio"
+        "melgio",
+        "megli"
     ],
     "provo": [
         "rpovo"
@@ -613,5 +617,41 @@
     ],
     "siamo": [
         "siao"
+    ],
+    "collezione": [
+        "colelzione"
+    ],
+    "interessante": [
+        "itneressante"
+    ],
+    "presentazioni": [
+        "presentaizoni"
+    ],
+    "partecipazione": [
+        "partecipazioen"
+    ],
+    "aprile": [
+        "parile"
+    ],
+    "rappresentanza": [
+        "rappresentaza"
+    ],
+    "sapere": [
+        "saper"
+    ],
+    "automatico": [
+        "autoamtico"
+    ],
+    "averlo": [
+        "vaerlo"
+    ],
+    "basta": [
+        "bsta"
+    ],
+    "installazione": [
+        "installaizone"
+    ],
+    "vacanze": [
+        "vancaze"
     ]
 }
