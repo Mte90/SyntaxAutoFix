@@ -17,6 +17,7 @@ config_parser.read(os.path.join(script_path, 'filepath.ini'))
 LIST_OF_FILES = json.loads(config_parser.get('DEFAULT', 'words_file'))
 WORDS_FILE_DEFAULT_LOCATION = [os.path.join(script_path, file_path) for file_path in LIST_OF_FILES]
 
+
 # Load words
 def loadWord(filename):
     with open(filename) as json_file:
@@ -32,9 +33,8 @@ args = parser.parse_args()
 # it holds the files name passed and the stat os file
 files = {}
 
-wrong_word_counter = {}
-
 keyboard.start_recording()
+
 
 def mispell_callback():
     recorded_words = keyboard.stop_recording()
@@ -43,8 +43,7 @@ def mispell_callback():
         list_splitted = recorded_words_list[0].split()
         if len(list_splitted) > 0:
             wrong_word = list_splitted[-1]
-            wrong_word_counter[wrong_word] = wrong_word_counter.get(wrong_word, 0) + 1
-            save_stats_file(os.path.join(script_path, "stats.json"),wrong_word_counter)
+            save_stats_file(os.path.join(script_path, "stats.json"), wrong_word, 1)
     keyboard.start_recording()
 
 
@@ -74,7 +73,6 @@ def loadJSON():
                 print('Loaded ' + wrong + ' with as: ' + correct)
                 keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
                 keyboard.add_word_listener(wrong, mispell_callback)
-    #keyboard.wait()
 
 
 # Clean the abbreviations from previous JSON and reloads new JSON

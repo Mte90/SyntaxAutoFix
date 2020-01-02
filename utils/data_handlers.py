@@ -2,6 +2,7 @@ from json import load, dumps
 from collections import defaultdict
 import os
 
+
 def load_to_default_dict(data):
     """Helper function to load the typo_data as a defaultdict of sets."""
     typo_dict = defaultdict(set)
@@ -22,13 +23,17 @@ def save_typo_data(path, data):
             dumps({word: list(incorrect_words) for word, incorrect_words in data.items()},
                   indent=4))
 
-def save_stats_file(path, data):
+
+def save_stats_file(path, word, amount):
     """Save statistics about typos."""
+    stats = open_stats_file(path)
+    try:
+        stats[word] += amount
+    except IndexError:
+        stats[word] = amount
     with open(path, "w") as f:
-        f.write(
-            dumps({wrong_word: counter for wrong_word, counter in data.items()},
-                  indent=4,
-                  sort_keys=True))
+        f.write(dumps(stats, indent=4, sort_keys=True))
+
 
 def open_stats_file(path):
     """Open a file with statistics on wrong words and return the data as a defaultdict of sets."""
