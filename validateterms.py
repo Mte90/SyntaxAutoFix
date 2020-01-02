@@ -15,7 +15,7 @@ def load_language(_args_):
         words = open_typo_file(lang_path)
         return words
     except FileNotFoundError:
-        raise ValueError('Language ' +  _args_.lang + ' actually not avalaible.')
+        raise ValueError('Language ' + _args_.lang + ' actually not avalaible.')
 
 
 def term_is_typo_of_another_word(term, words):

@@ -8,7 +8,7 @@ from ui_manageterms import Ui_MainWindow
 
 
 class MainWindow(QMainWindow, Ui_MainWindow):
-    
+
     def __init__(self, parent=None):
         # Load the ui
         QMainWindow.__init__(self, parent)
@@ -27,7 +27,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         enter = QShortcut(QKeySequence(QtCore.Qt.Key_Return), self)
         enter.activated.connect(self.save_close)
         self.show()
-    
+
     def store_new_argument(self):
         wrong = self.ui.wrong.text()
         right = self.ui.right.text()
@@ -37,12 +37,12 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             msg = QErrorMessage(self)
             msg.setWindowModality(QtCore.Qt.WindowModal)
             msg.showMessage('You can’t replace a word with itself. It will create a loop.')
-        
+
         lang_path = self.script_path + lang + '.json'
         typo_data = open_typo_file(lang_path)
         typo_data[right].add(wrong)
         save_typo_data(lang_path, typo_data)
-        
+
     def save_close(self):
         self.store_new_argument()
         self.close()
