@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "cvome",
-        "coem"
+        "coem",
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -79,8 +79,8 @@
         "delal"
     ],
     "delle": [
-        "delel",
-        "dele"
+        "dele",
+        "delel"
     ],
     "difficile": [
         "difficiel"
@@ -92,8 +92,8 @@
         "dispaice"
     ],
     "diversi": [
-        "dibversi",
-        "diveris"
+        "diveris",
+        "dibversi"
     ],
     "donazione": [
         "donazioen"
@@ -141,8 +141,8 @@
         "inolter"
     ],
     "intanto": [
-        "intnato",
-        "intant"
+        "intant",
+        "intnato"
     ],
     "interessa": [
         "interess",
@@ -205,8 +205,8 @@
         "mlti"
     ],
     "nella": [
-        "nelal",
         "nlla",
+        "nelal",
         "nela"
     ],
     "niente": [
@@ -247,8 +247,8 @@
         "epr"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -282,8 +282,8 @@
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -337,15 +337,15 @@
         "serovno"
     ],
     "settimana": [
-        "settiman",
-        "settimna"
+        "settimna",
+        "settiman"
     ],
     "siccome": [
         "siccoem"
     ],
     "sinceramente": [
-        "sinceramenten",
-        "siceramente"
+        "siceramente",
+        "sinceramenten"
     ],
     "sono": [
         "osno"
@@ -408,10 +408,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "vrsione",
         "verisoen",
         "versioen",
-        "verisone"
+        "verisone",
+        "vrsione"
     ],
     "versioni": [
         "verisoni"
@@ -430,8 +430,8 @@
         "descirzione"
     ],
     "organizzazione": [
-        "orgnaizzaizone",
-        "orgnaizzazione"
+        "orgnaizzazione",
+        "orgnaizzaizone"
     ],
     "rispondere": [
         "rispodnere"
@@ -452,7 +452,8 @@
         "filmanre"
     ],
     "febbraio": [
-        "febraio"
+        "febraio",
+        "febbrai"
     ],
     "contratto": [
         "cotnratto"
@@ -504,8 +505,8 @@
         "orgnaizzo"
     ],
     "segnalato": [
-        "segnalto",
-        "segnalat"
+        "segnalat",
+        "segnalto"
     ],
     "organizza": [
         "orgnaizza"
@@ -653,5 +654,23 @@
     ],
     "vacanze": [
         "vancaze"
+    ],
+    "organizzarle": [
+        "orgnaizzarle"
+    ],
+    "interattivi": [
+        "interativi"
+    ],
+    "sondagio": [
+        "sondagigo"
+    ],
+    "posti": [
+        "posit"
+    ],
+    "passato": [
+        "pasato"
+    ],
+    "licenziato": [
+        "lcienziato"
     ]
 }
