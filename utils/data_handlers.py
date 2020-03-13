@@ -27,10 +27,11 @@ def save_typo_data(path, data):
 def save_stats_file(path, word, amount):
     """Save statistics about typos."""
     stats = open_stats_file(path)
-    try:
+    if word in stats:
         stats[word] += amount
-    except IndexError:
+    else:
         stats[word] = amount
+    
     with open(path, "w") as f:
         f.write(dumps(stats, indent=4, sort_keys=True))
 
