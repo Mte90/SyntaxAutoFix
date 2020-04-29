@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "coem",
-        "cvome"
+        "cvome",
+        "coem"
     ],
     "comprare": [
         "comrapre"
@@ -79,8 +79,8 @@
         "delal"
     ],
     "delle": [
-        "dele",
-        "delel"
+        "delel",
+        "dele"
     ],
     "difficile": [
         "difficiel"
@@ -142,6 +142,7 @@
     ],
     "intanto": [
         "intant",
+        "intnaot",
         "intnato"
     ],
     "interessa": [
@@ -162,7 +163,8 @@
         "itnernet"
     ],
     "invece": [
-        "ivnece"
+        "ivnece",
+        "invce"
     ],
     "inventarci": [
         "ivnentarci"
@@ -205,9 +207,9 @@
         "mlti"
     ],
     "nella": [
+        "nela",
         "nlla",
-        "nelal",
-        "nela"
+        "nelal"
     ],
     "niente": [
         "niete"
@@ -236,8 +238,9 @@
         "parliamno"
     ],
     "partecipare": [
+        "aprtecipare",
         "parteciapre",
-        "aprtecipare"
+        "aprteciapre"
     ],
     "paura": [
         "apura"
@@ -247,8 +250,8 @@
         "epr"
     ],
     "persone": [
-        "eprsone",
-        "persoen"
+        "persoen",
+        "eprsone"
     ],
     "piccola": [
         "piccoal"
@@ -275,8 +278,8 @@
         "programamtori"
     ],
     "prossima": [
-        "prossiam",
-        "prossim"
+        "prossim",
+        "prossiam"
     ],
     "prossimo": [
         "prosismo"
@@ -337,8 +340,8 @@
         "serovno"
     ],
     "settimana": [
-        "settimna",
-        "settiman"
+        "settiman",
+        "settimna"
     ],
     "siccome": [
         "siccoem"
@@ -408,10 +411,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "verisoen",
+        "vrsione",
         "versioen",
-        "verisone",
-        "vrsione"
+        "verisoen",
+        "verisone"
     ],
     "versioni": [
         "verisoni"
@@ -426,8 +429,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirizione",
-        "descirzione"
+        "descirzione",
+        "descirizione"
     ],
     "organizzazione": [
         "orgnaizzazione",
@@ -471,8 +474,8 @@
         "produzioen"
     ],
     "meglio": [
-        "melgio",
-        "megli"
+        "megli",
+        "melgio"
     ],
     "provo": [
         "rpovo"
@@ -672,5 +675,62 @@
     ],
     "licenziato": [
         "lcienziato"
+    ],
+    "commento": [
+        "commentio"
+    ],
+    "fermo": [
+        "femro"
+    ],
+    "domani": [
+        "doamni"
+    ],
+    "riconoscimento": [
+        "riconsocimento"
+    ],
+    "sputo": [
+        "psuto"
+    ],
+    "articoli": [
+        "artiocli"
+    ],
+    "programma": [
+        "programam"
+    ],
+    "ordini": [
+        "rodini"
+    ],
+    "pubblicazioni": [
+        "pubblicaizoni"
+    ],
+    "conoscenze": [
+        "consocenze"
+    ],
+    "equivoco": [
+        "ecquivoco"
+    ],
+    "configurarlo": [
+        "confirugarlo"
+    ],
+    "organizzarmi": [
+        "orgnaizzarmi"
+    ],
+    "recensito": [
+        "recensiot"
+    ],
+    "organizzarci": [
+        "orgnaizzarci"
+    ],
+    "collegato": [
+        "colelgato"
+    ],
+    "situazione": [
+        "stiauzione"
+    ],
+    "riconoscere": [
+        "riconsocere"
+    ],
+    "organizziamo": [
+        "orgnaizziamo"
     ]
 }

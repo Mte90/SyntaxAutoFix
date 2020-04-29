@@ -31,7 +31,7 @@ def save_stats_file(path, word, amount):
         stats[word] += amount
     else:
         stats[word] = amount
-    
+
     with open(path, "w") as f:
         f.write(dumps(stats, indent=4, sort_keys=True))
 
