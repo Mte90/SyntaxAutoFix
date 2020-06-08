@@ -55,7 +55,8 @@
     ],
     "come": [
         "cvome",
-        "coem"
+        "coem",
+        "comne"
     ],
     "comprare": [
         "comrapre"
@@ -92,8 +93,8 @@
         "dispaice"
     ],
     "diversi": [
-        "diveris",
-        "dibversi"
+        "dibversi",
+        "diveris"
     ],
     "donazione": [
         "donazioen"
@@ -141,9 +142,9 @@
         "inolter"
     ],
     "intanto": [
+        "intnato",
         "intant",
-        "intnaot",
-        "intnato"
+        "intnaot"
     ],
     "interessa": [
         "interess",
@@ -163,8 +164,8 @@
         "itnernet"
     ],
     "invece": [
-        "ivnece",
-        "invce"
+        "invce",
+        "ivnece"
     ],
     "inventarci": [
         "ivnentarci"
@@ -173,8 +174,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -207,14 +208,15 @@
         "mlti"
     ],
     "nella": [
-        "nela",
         "nlla",
-        "nelal"
+        "nelal",
+        "nela"
     ],
     "niente": [
         "niete"
     ],
     "nostro": [
+        "nostor",
         "nsotro"
     ],
     "ogni": [
@@ -230,16 +232,16 @@
         "pagian"
     ],
     "parecchio": [
-        "parecciho",
+        "aprecchio",
         "parechcio",
-        "aprecchio"
+        "parecciho"
     ],
     "parliamo": [
         "parliamno"
     ],
     "partecipare": [
-        "aprtecipare",
         "parteciapre",
+        "aprtecipare",
         "aprteciapre"
     ],
     "paura": [
@@ -250,8 +252,8 @@
         "epr"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -285,8 +287,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -295,6 +297,7 @@
         "questioen"
     ],
     "questo": [
+        "qeusto",
         "uesto"
     ],
     "registrazioni": [
@@ -347,8 +350,8 @@
         "siccoem"
     ],
     "sinceramente": [
-        "siceramente",
-        "sinceramenten"
+        "sinceramenten",
+        "siceramente"
     ],
     "sono": [
         "osno"
@@ -372,6 +375,7 @@
         "svilupaptori"
     ],
     "tanti": [
+        "tnait",
         "ntanti"
     ],
     "telefonarmi": [
@@ -411,9 +415,9 @@
         "valutaizoni"
     ],
     "versione": [
-        "vrsione",
         "versioen",
         "verisoen",
+        "vrsione",
         "verisone"
     ],
     "versioni": [
@@ -443,6 +447,7 @@
         "presnetino"
     ],
     "non": [
+        "enon",
         "nons"
     ],
     "organizzare": [
@@ -465,7 +470,8 @@
         "enerige"
     ],
     "hanno": [
-        "hano"
+        "hano",
+        "hannio"
     ],
     "regolmaneto": [
         "regolamento"
@@ -732,5 +738,83 @@
     ],
     "organizziamo": [
         "orgnaizziamo"
+    ],
+    "quello": [
+        "uqello"
+    ],
+    "creazione": [
+        "creazioen"
+    ],
+    "segnalazione": [
+        "segnalaizone"
+    ],
+    "prodotto": [
+        "prodtto"
+    ],
+    "barbara": [
+        "barabra"
+    ],
+    "del": [
+        "dle"
+    ],
+    "fargli": [
+        "faregli"
+    ],
+    "generare": [
+        "generaer"
+    ],
+    "essere": [
+        "esere"
+    ],
+    "aperto": [
+        "paerto"
+    ],
+    "usabile": [
+        "suabile"
+    ],
+    "minaccio": [
+        "mianccio"
+    ],
+    "parametri": [
+        "aprametri "
+    ],
+    "sulla": [
+        "sulal"
+    ],
+    "direi": [
+        "dieri"
+    ],
+    "revisionare": [
+        "revisonare"
+    ],
+    "lavoro": [
+        "alvoro"
+    ],
+    "rilascio": [
+        "rialscio"
+    ],
+    "corrispondente": [
+        "corrispondete"
+    ],
+    "poveraccio": [
+        "poveracco"
+    ],
+    "dicevo": [
+        "dcevo"
+    ],
+    "faccio": [
+        "facco"
+    ],
+    "capito": [
+        "capto"
+    ],
+    "inventano": [
+        "invetano"
+    ],
+    "rilasciata": [
+        "rialsciata"
+    ],
+    "sconsigliata": [
+        "sconsiglaita"
     ]
 }
