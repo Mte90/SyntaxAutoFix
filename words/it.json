@@ -54,8 +54,8 @@
         "cmmando"
     ],
     "come": [
-        "coem",
         "comne",
+        "coem",
         "cvome"
     ],
     "comprare": [
@@ -65,8 +65,8 @@
         "condivisioen"
     ],
     "configurazione": [
-        "configurazioen",
-        "configuarazione"
+        "configuarazione",
+        "configurazioen"
     ],
     "conosce": [
         "consoce"
@@ -145,9 +145,9 @@
         "inolter"
     ],
     "intanto": [
-        "intnato",
+        "intnaot",
         "intant",
-        "intnaot"
+        "intnato"
     ],
     "interessa": [
         "itneressa",
@@ -212,8 +212,8 @@
     ],
     "nella": [
         "enlla",
-        "nelal",
         "nlla",
+        "nelal",
         "nela"
     ],
     "niente": [
@@ -236,30 +236,30 @@
         "pagian"
     ],
     "parecchio": [
+        "parechcio",
         "parecciho",
-        "aprecchio",
-        "parechcio"
+        "aprecchio"
     ],
     "parliamo": [
         "parliamno"
     ],
     "partecipare": [
-        "aprteciapre",
         "parteciapre",
+        "aprteciapre",
         "aprtecipare"
     ],
     "paura": [
         "apura"
     ],
     "per": [
-        "pe",
-        "epr",
         "er",
+        "epr",
+        "pe",
         "ppe"
     ],
     "persone": [
-        "persoen",
-        "eprsone"
+        "eprsone",
+        "persoen"
     ],
     "piccola": [
         "piccoal"
@@ -278,6 +278,7 @@
         "potremm"
     ],
     "prima": [
+        "prim",
         "priam",
         "pri"
     ],
@@ -295,8 +296,8 @@
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -305,8 +306,8 @@
         "questioen"
     ],
     "questo": [
-        "qeusto",
-        "uesto"
+        "uesto",
+        "qeusto"
     ],
     "registrazioni": [
         "regisrtazioni"
@@ -345,15 +346,15 @@
         "sucola"
     ],
     "sempre": [
-        "sempee",
-        "semrpe"
+        "semrpe",
+        "sempee"
     ],
     "servono": [
         "serovno"
     ],
     "settimana": [
-        "settiman",
-        "settimna"
+        "settimna",
+        "settiman"
     ],
     "siccome": [
         "siccoem"
@@ -384,8 +385,8 @@
         "svilupaptori"
     ],
     "tanti": [
-        "tnati",
         "tnait",
+        "tnati",
         "ntanti"
     ],
     "telefonarmi": [
@@ -427,11 +428,12 @@
     "versione": [
         "verisone",
         "verisoen",
-        "versioen",
-        "vrsione"
+        "vrsione",
+        "versioen"
     ],
     "versioni": [
-        "verisoni"
+        "verisoni",
+        "versoni"
     ],
     "volete": [
         "voelte"
@@ -443,8 +445,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
         "orgnaizzazione",
@@ -457,8 +459,8 @@
         "presnetino"
     ],
     "non": [
-        "enon",
-        "nons"
+        "nons",
+        "enon"
     ],
     "organizzare": [
         "orgnaizzare"
@@ -480,8 +482,9 @@
         "enerige"
     ],
     "hanno": [
-        "hannio",
-        "hano"
+        "hann",
+        "hano",
+        "hannio"
     ],
     "regolmaneto": [
         "regolamento"
@@ -490,8 +493,8 @@
         "produzioen"
     ],
     "meglio": [
-        "melgio",
-        "megli"
+        "megli",
+        "melgio"
     ],
     "provo": [
         "rpovo"
@@ -525,8 +528,8 @@
         "orgnaizzo"
     ],
     "segnalato": [
-        "segnalto",
-        "segnalat"
+        "segnalat",
+        "segnalto"
     ],
     "organizza": [
         "orgnaizza"
@@ -548,7 +551,8 @@
         "apprire"
     ],
     "chiave": [
-        "chaive"
+        "chaive",
+        "chiav"
     ],
     "scordato": [
         "scrodato"
@@ -606,8 +610,8 @@
         "lsciato"
     ],
     "abbastanza": [
-        "abastanza",
-        "ababstanza"
+        "ababstanza",
+        "abastanza"
     ],
     "interesse": [
         "itneresse"
@@ -954,8 +958,9 @@
         "ptorebbero"
     ],
     "anche": [
-        "anhce",
-        "anceh"
+        "nahce",
+        "anceh",
+        "anhce"
     ],
     "enigmistica": [
         "engmistica"
@@ -964,8 +969,8 @@
         "queli"
     ],
     "comunque": [
-        "counque",
-        "comunqwue"
+        "comunqwue",
+        "counque"
     ],
     "conoscenza": [
         "consocenza"
@@ -1042,9 +1047,6 @@
     "tema": [
         "ltema"
     ],
-    "just": [
-        "jsut"
-    ],
     "frattempo": [
         "fratempo"
     ],
@@ -1089,8 +1091,8 @@
         "amcchina"
     ],
     "abbiamo": [
-        "abbimoa",
-        "abbimo"
+        "abbimo",
+        "abbimoa"
     ],
     "digitalizzare": [
         "digitalizare"
@@ -1162,6 +1164,7 @@
         "richeisto"
     ],
     "considerando": [
+        "consierando",
         "cosniderando"
     ],
     "ottimizzazioni": [
@@ -1231,8 +1234,8 @@
         "avevao"
     ],
     "letto": [
-        "leto",
-        "eltto"
+        "eltto",
+        "leto"
     ],
     "relazione": [
         "realzione"
@@ -1243,7 +1246,61 @@
     "termini": [
         "temrini"
     ],
-    "postresti": [
+    "potresti": [
         "ptoresti"
+    ],
+    "dipendente": [
+        "dipenmdente"
+    ],
+    "principalmente": [
+        "principlamente"
+    ],
+    "insomma": [
+        "insooma"
+    ],
+    "prescindere": [
+        "prescidnere"
+    ],
+    "nuovamente": [
+        "nuovametne"
+    ],
+    "riunione": [
+        "riunioone"
+    ],
+    "rifornimento": [
+        "riforinmenti"
+    ],
+    "stessa": [
+        "tessa"
+    ],
+    "organizzativo": [
+        "orgnaizzativo"
+    ],
+    "validazione": [
+        "validazioen"
+    ],
+    "sufficienti": [
+        "sufficenti"
+    ],
+    "nei": [
+        "nie"
+    ],
+    "riorganizzare": [
+        "riorgnaizzare"
+    ],
+    "aspettavo": [
+        "aspetavo"
+    ],
+    "capiscono": [
+        "capisconmo"
+    ],
+    "piattaforma": [
+        "piataforma"
+    ],
+    "pulizia": [
+        "puzlia"
+    ],
+    "importare": [
+        "oimportare"
     ]
 }
