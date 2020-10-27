@@ -182,16 +182,16 @@
         "Euorpe"
     ],
     "European": [
-        "Eurpoean",
+        "Eurpean",
         "Europian",
-        "Eurpean"
+        "Eurpoean"
     ],
     "Europeans": [
         "Europians"
     ],
     "Fahrenheit": [
-        "Farenheit",
-        "Farenheight"
+        "Farenheight",
+        "Farenheit"
     ],
     "February": [
         "febuary"
@@ -327,8 +327,8 @@
         "Jospeh"
     ],
     "Judaism": [
-        "Juadaism",
-        "Juadism"
+        "Juadism",
+        "Juadaism"
     ],
     "Libya": [
         "Lybia"
@@ -356,8 +356,8 @@
         "Marixist"
     ],
     "Massachusetts": [
-        "Massachussetts",
-        "Massachussets"
+        "Massachussets",
+        "Massachussetts"
     ],
     "Mediterranean": [
         "Mediteranean"
@@ -376,8 +376,8 @@
     ],
     "Mississippi": [
         "Missisipi",
-        "Mississipi",
-        "Missisippi"
+        "Missisippi",
+        "Mississipi"
     ],
     "Missouri": [
         "Misouri"
@@ -398,8 +398,8 @@
         "Morrocco"
     ],
     "Muslim": [
-        "Muhammadan",
-        "Mohammedan"
+        "Mohammedan",
+        "Muhammadan"
     ],
     "Muslims": [
         "Mohammedans"
@@ -472,9 +472,9 @@
         "Phillipine"
     ],
     "Philippines": [
+        "Philipines",
         "Phillippines",
-        "Phillipines",
-        "Philipines"
+        "Phillipines"
     ],
     "Phoenician": [
         "Phonecian"
@@ -616,8 +616,8 @@
         "Volkswagon"
     ],
     "Wednesday": [
-        "wensday",
-        "wendsay"
+        "wendsay",
+        "wensday"
     ],
     "Wisconsin": [
         "Wisconson"
@@ -767,16 +767,16 @@
         "accomadate"
     ],
     "accommodated": [
-        "accomadated",
-        "accomodated"
+        "accomodated",
+        "accomadated"
     ],
     "accommodates": [
-        "accomadates",
-        "accomodates"
+        "accomodates",
+        "accomadates"
     ],
     "accommodating": [
-        "accomodating",
-        "accomadating"
+        "accomadating",
+        "accomodating"
     ],
     "accommodation": [
         "accomadation",
@@ -841,8 +841,8 @@
         "acheivment"
     ],
     "achievements": [
-        "achievments",
         "acheivments",
+        "achievments",
         "acheivements"
     ],
     "achieves": [
@@ -855,22 +855,22 @@
         "accoustic"
     ],
     "acquaintance": [
-        "acquiantence",
         "aquiantance",
-        "aquaintance",
-        "acquaintence"
+        "acquiantence",
+        "acquaintence",
+        "aquaintance"
     ],
     "acquaintances": [
-        "acquiantences",
-        "acquaintences"
+        "acquaintences",
+        "acquiantences"
     ],
     "acquainted": [
         "aquainted"
     ],
     "acquire": [
-        "aquire",
+        "acuire",
         "adquire",
-        "acuire"
+        "aquire"
     ],
     "acquired": [
         "aquired",
@@ -918,14 +918,14 @@
         "additinally"
     ],
     "address": [
-        "addres",
         "adres",
-        "adress"
+        "adress",
+        "addres"
     ],
     "addressable": [
+        "adressable",
         "adresable",
-        "addresable",
-        "adressable"
+        "addresable"
     ],
     "addressing": [
         "adresing",
@@ -1035,8 +1035,8 @@
         "affilliate"
     ],
     "afford": [
-        "efford",
-        "affort"
+        "affort",
+        "efford"
     ],
     "affordable": [
         "afordable"
@@ -1063,8 +1063,8 @@
         "afteraffect"
     ],
     "again": [
-        "agian",
-        "agina"
+        "agina",
+        "agian"
     ],
     "against": [
         "aginst"
@@ -1171,8 +1171,8 @@
         "alledges"
     ],
     "allegiance": [
-        "alegience",
-        "allegience"
+        "allegience",
+        "alegience"
     ],
     "allegory": [
         "allagory"
@@ -1222,8 +1222,8 @@
         "laready"
     ],
     "also": [
-        "alsot",
-        "aslo"
+        "aslo",
+        "alsot"
     ],
     "altarpiece": [
         "alterpiece"
@@ -1235,9 +1235,9 @@
         "altenative"
     ],
     "although": [
-        "altho",
         "althought",
-        "altough"
+        "altough",
+        "altho"
     ],
     "altogether": [
         "alltogether"
@@ -1246,8 +1246,8 @@
         "aluminum"
     ],
     "always": [
-        "alwasy",
-        "alwyas"
+        "alwyas",
+        "alwasy"
     ],
     "amass": [
         "ammass"
@@ -1271,9 +1271,9 @@
         "ammended"
     ],
     "amendment": [
+        "admendment",
         "amendmant",
-        "ammendment",
-        "admendment"
+        "ammendment"
     ],
     "amenities": [
         "amenites"
@@ -1471,8 +1471,8 @@
         "apearing"
     ],
     "application": [
-        "applicaiton",
-        "aplication"
+        "aplication",
+        "applicaiton"
     ],
     "applications": [
         "applicaitons"
@@ -1499,8 +1499,8 @@
         "aprox."
     ],
     "approximately": [
-        "approximitely",
-        "aproximately"
+        "aproximately",
+        "approximitely"
     ],
     "approximation": [
         "aproximation"
@@ -1616,9 +1616,9 @@
         "arive"
     ],
     "article": [
-        "artical",
+        "articel",
         "artcile",
-        "articel"
+        "artical"
     ],
     "artifact": [
         "artefact"
@@ -1850,8 +1850,8 @@
     ],
     "available": [
         "avalable",
-        "avaliable",
-        "avalaible"
+        "avalaible",
+        "avaliable"
     ],
     "avalanche": [
         "avalance"
@@ -1884,8 +1884,8 @@
         "axe"
     ],
     "back": [
-        "bakc",
-        "bcak"
+        "bcak",
+        "bakc"
     ],
     "background": [
         "backround"
@@ -1952,8 +1952,8 @@
         "beated"
     ],
     "beautiful": [
-        "beautyfull",
-        "beatiful"
+        "beatiful",
+        "beautyfull"
     ],
     "beautifully": [
         "beautifuly"
@@ -1962,12 +1962,12 @@
         "becamae"
     ],
     "because": [
-        "becuase",
-        "beucase",
         "becasue",
-        "beacuse",
+        "becouse",
+        "beucase",
+        "becuase",
         "becaus",
-        "becouse"
+        "beacuse"
     ],
     "becoming": [
         "becomming"
@@ -1993,8 +1993,8 @@
     ],
     "beginning": [
         "beggining",
-        "beginnig",
-        "begining"
+        "begining",
+        "beginnig"
     ],
     "beginnings": [
         "begginings"
@@ -2003,12 +2003,12 @@
         "beigns"
     ],
     "behavior": [
-        "behavour",
-        "behaviour"
+        "behaviour",
+        "behavour"
     ],
     "behaviour": [
-        "behavour",
-        "bheaviour"
+        "bheaviour",
+        "behavour"
     ],
     "being": [
         "bieng"
@@ -2166,8 +2166,8 @@
         "boundries"
     ],
     "boundary": [
-        "boundry",
-        "bondary"
+        "bondary",
+        "boundry"
     ],
     "bout": [
         "baout",
@@ -2273,8 +2273,8 @@
         "buring"
     ],
     "business": [
-        "busness",
         "buisness",
+        "busness",
         "busineses"
     ],
     "businesses": [
@@ -2299,13 +2299,13 @@
         "casion"
     ],
     "calculate": [
-        "calulate",
+        "caluclate",
         "caluculate",
-        "caluclate"
+        "calulate"
     ],
     "calculated": [
-        "calulated",
         "caluclated",
+        "calulated",
         "caluculated"
     ],
     "calendar": [
@@ -2396,8 +2396,8 @@
         "carryng"
     ],
     "cartilage": [
-        "cartilidge",
-        "cartilege"
+        "cartilege",
+        "cartilidge"
     ],
     "cartographer": [
         "carthographer"
@@ -2409,12 +2409,12 @@
         "casette"
     ],
     "cassowary": [
-        "cassowarry",
-        "cassawory"
+        "cassawory",
+        "cassowarry"
     ],
     "casualties": [
-        "causalities",
-        "casulaties"
+        "casulaties",
+        "causalities"
     ],
     "casualty": [
         "casulaty"
@@ -2484,8 +2484,8 @@
         "censur"
     ],
     "censure": [
-        "censur",
-        "sensure"
+        "sensure",
+        "censur"
     ],
     "census": [
         "cencus"
@@ -2548,8 +2548,8 @@
         "challanger"
     ],
     "change": [
-        "chancge",
-        "chanage"
+        "chanage",
+        "chancge"
     ],
     "changeable": [
         "changable"
@@ -2561,8 +2561,8 @@
         "chapparal"
     ],
     "character": [
-        "charachter",
-        "carachter"
+        "carachter",
+        "charachter"
     ],
     "characterised": [
         "charaterized"
@@ -2671,8 +2671,8 @@
         "claimes"
     ],
     "classic": [
-        "clasic",
-        "calssic"
+        "calssic",
+        "clasic"
     ],
     "classical": [
         "clasical"
@@ -2808,8 +2808,8 @@
         "comando"
     ],
     "commandos": [
-        "commandoes",
-        "comandos"
+        "comandos",
+        "commandoes"
     ],
     "commemorate": [
         "commerate"
@@ -2839,9 +2839,9 @@
         "commericially"
     ],
     "commission": [
-        "comision",
+        "comission",
         "commision",
-        "comission"
+        "comision"
     ],
     "commissioned": [
         "comissioned",
@@ -2849,13 +2849,13 @@
         "commisioned"
     ],
     "commissioner": [
-        "comisioner",
         "comissioner",
+        "comisioner",
         "commisioner"
     ],
     "commissioning": [
-        "commisioning",
         "comissioning",
+        "commisioning",
         "comisioning"
     ],
     "commissions": [
@@ -2912,8 +2912,8 @@
         "comparitively"
     ],
     "compared": [
-        "compaired",
-        "comapred"
+        "comapred",
+        "compaired"
     ],
     "comparison": [
         "comparision"
@@ -2934,8 +2934,8 @@
         "competance"
     ],
     "competent": [
-        "competant",
-        "compitent"
+        "compitent",
+        "competant"
     ],
     "competing": [
         "competiting"
@@ -3136,13 +3136,13 @@
         "conservate"
     ],
     "consider": [
-        "concider",
-        "consdider"
+        "consdider",
+        "concider"
     ],
     "considered": [
-        "concidered",
+        "considerd",
         "consdidered",
-        "considerd"
+        "concidered"
     ],
     "considers": [
         "conciders"
@@ -3193,9 +3193,9 @@
         "constituants"
     ],
     "constitution": [
-        "constituion",
         "costitution",
-        "consitution"
+        "consitution",
+        "constituion"
     ],
     "constitutional": [
         "constituional",
@@ -3239,8 +3239,8 @@
         "contamporaries"
     ],
     "contemporary": [
-        "contemporaneus",
-        "contamporary"
+        "contamporary",
+        "contemporaneus"
     ],
     "contention": [
         "contension"
@@ -3255,8 +3255,8 @@
         "continiued"
     ],
     "continuing": [
-        "continueing",
-        "continuign"
+        "continuign",
+        "continueing"
     ],
     "continuity": [
         "continuty"
@@ -3299,8 +3299,8 @@
         "controlls"
     ],
     "controversial": [
-        "controvercial",
-        "contravercial"
+        "contravercial",
+        "controvercial"
     ],
     "controversies": [
         "controveries"
@@ -3384,17 +3384,17 @@
         "correspondance"
     ],
     "correspondent": [
-        "correspondant",
-        "corrispondant"
+        "corrispondant",
+        "correspondant"
     ],
     "correspondents": [
-        "corrispondants",
-        "correspondants"
+        "correspondants",
+        "corrispondants"
     ],
     "corresponding": [
-        "correpsonding",
         "correposding",
         "corrisponding",
+        "correpsonding",
         "correponding"
     ],
     "corresponds": [
@@ -3407,8 +3407,8 @@
         "corosion"
     ],
     "could": [
-        "sould",
-        "coudl"
+        "coudl",
+        "sould"
     ],
     "couldn't": [
         "coudn't"
@@ -3498,8 +3498,8 @@
         "critisizes"
     ],
     "criticising": [
-        "critisizing",
-        "critising"
+        "critising",
+        "critisizing"
     ],
     "criticism": [
         "critisism"
@@ -3517,8 +3517,8 @@
         "critisizes"
     ],
     "criticizing": [
-        "critisizing",
-        "critising"
+        "critising",
+        "critisizing"
     ],
     "critics": [
         "criticists"
@@ -3632,8 +3632,8 @@
         "decyphered"
     ],
     "decision": [
-        "deicision",
-        "descision"
+        "descision",
+        "deicision"
     ],
     "decisions": [
         "descisions"
@@ -3681,14 +3681,14 @@
         "deffined"
     ],
     "definite": [
-        "definit",
-        "definate"
+        "definate",
+        "definit"
     ],
     "definitely": [
         "definately",
-        "definitly",
+        "definatly",
         "definetly",
-        "definatly"
+        "definitly"
     ],
     "definition": [
         "defintion"
@@ -3735,8 +3735,8 @@
         "deriviative"
     ],
     "derived": [
-        "dirived",
-        "deriviated"
+        "deriviated",
+        "dirived"
     ],
     "derogatory": [
         "derogitory"
@@ -3750,16 +3750,16 @@
     ],
     "descendants": [
         "decendents",
-        "decendants",
-        "descendents"
+        "descendents",
+        "decendants"
     ],
     "describe": [
-        "discribe",
-        "decribe"
+        "decribe",
+        "discribe"
     ],
     "described": [
-        "decribed",
-        "discribed"
+        "discribed",
+        "decribed"
     ],
     "describes": [
         "decribes",
@@ -3789,8 +3789,8 @@
         "desgined"
     ],
     "designer": [
-        "deisgner",
-        "desinger"
+        "desinger",
+        "deisgner"
     ],
     "designs": [
         "designes"
@@ -3877,13 +3877,13 @@
         "developped"
     ],
     "developer": [
-        "developper",
-        "develoepr"
+        "develoepr",
+        "developper"
     ],
     "development": [
-        "devlopment",
+        "devolopement",
         "develpoment",
-        "devolopement"
+        "devlopment"
     ],
     "device": [
         "divice"
@@ -3916,11 +3916,11 @@
         "diference"
     ],
     "different": [
-        "diferrent",
-        "diffrenet",
         "idfferent",
         "diferent",
-        "diffrent"
+        "diferrent",
+        "diffrent",
+        "diffrenet"
     ],
     "difficult": [
         "dificult"
@@ -3965,8 +3965,8 @@
         "dimentional"
     ],
     "dimensions": [
-        "dimentions",
-        "dimenions"
+        "dimenions",
+        "dimentions"
     ],
     "diminish": [
         "deminish"
@@ -4010,9 +4010,9 @@
         "dissagreement"
     ],
     "disappear": [
-        "disapear",
         "dissapear",
-        "dissappear"
+        "dissappear",
+        "disapear"
     ],
     "disappearance": [
         "dissapearance"
@@ -4024,8 +4024,8 @@
         "dissapearing"
     ],
     "disappears": [
-        "dissapears",
-        "dissappears"
+        "dissappears",
+        "dissapears"
     ],
     "disappoint": [
         "dissapoint"
@@ -4101,8 +4101,8 @@
     ],
     "disobedience": [
         "disobediance",
-        "dissobediance",
-        "dissobedience"
+        "dissobedience",
+        "dissobediance"
     ],
     "disobedient": [
         "dissobedient",
@@ -4237,8 +4237,8 @@
         "donig"
     ],
     "dominant": [
-        "dominent",
-        "dominiant"
+        "dominiant",
+        "dominent"
     ],
     "done": [
         "doned"
@@ -4423,15 +4423,15 @@
         "effecient"
     ],
     "efficiently": [
-        "efficently",
-        "effeciently"
+        "effeciently",
+        "efficently"
     ],
     "effluence": [
         "effulence"
     ],
     "effort": [
-        "efford",
-        "affort"
+        "affort",
+        "efford"
     ],
     "efforts": [
         "effords"
@@ -4522,12 +4522,12 @@
         "embarass"
     ],
     "embarrassed": [
-        "embarrased",
-        "embarassed"
+        "embarassed",
+        "embarrased"
     ],
     "embarrassing": [
-        "embarassing",
-        "embarrasing"
+        "embarrasing",
+        "embarassing"
     ],
     "embarrassment": [
         "embarrasment",
@@ -4567,33 +4567,33 @@
         "emminently"
     ],
     "emissaries": [
-        "emmisarries",
-        "emmisaries"
+        "emmisaries",
+        "emmisarries"
     ],
     "emissary": [
-        "emmisary",
-        "emmisarry"
+        "emmisarry",
+        "emmisary"
     ],
     "emission": [
-        "emmision",
+        "emition",
         "emision",
-        "emition"
+        "emmision"
     ],
     "emit": [
         "emitt"
     ],
     "emitted": [
-        "emmitted",
+        "emmited",
         "emited",
-        "emmited"
+        "emmitted"
     ],
     "emitter": [
         "emiter"
     ],
     "emitting": [
         "emiting",
-        "emmitting",
-        "emmiting"
+        "emmiting",
+        "emmitting"
     ],
     "emotion": [
         "emition"
@@ -4754,10 +4754,10 @@
         "inumerable"
     ],
     "environment": [
-        "enviroment",
-        "environemnt",
         "enviornment",
-        "enviorment"
+        "enviorment",
+        "environemnt",
+        "enviroment"
     ],
     "environmental": [
         "enviornmental",
@@ -4769,14 +4769,14 @@
         "enviromentalist"
     ],
     "environmentally": [
+        "enviormentally",
         "enviromentally",
-        "enviornmentally",
-        "enviormentally"
+        "enviornmentally"
     ],
     "environments": [
+        "enviorments",
         "enviroments",
-        "enviornments",
-        "enviorments"
+        "enviornments"
     ],
     "episode": [
         "epsiode"
@@ -4791,8 +4791,8 @@
         "equitorial"
     ],
     "equilibrium": [
-        "equilibium",
-        "equilibrum"
+        "equilibrum",
+        "equilibium"
     ],
     "equipment": [
         "equippment"
@@ -4837,10 +4837,10 @@
         "essense"
     ],
     "essential": [
-        "essentual",
-        "essencial",
+        "essesital",
         "esential",
-        "essesital"
+        "essentual",
+        "essencial"
     ],
     "essentially": [
         "essentialy"
@@ -4894,20 +4894,20 @@
         "exacly"
     ],
     "exaggerate": [
-        "exagerate",
-        "exagerrate"
+        "exagerrate",
+        "exagerate"
     ],
     "exaggerated": [
-        "exagerrated",
-        "exagerated"
+        "exagerated",
+        "exagerrated"
     ],
     "exaggerates": [
         "exagerrates",
         "exagerates"
     ],
     "exaggerating": [
-        "exagerrating",
-        "exagerating"
+        "exagerating",
+        "exagerrating"
     ],
     "exalt": [
         "exhalt"
@@ -5043,8 +5043,8 @@
         "expence"
     ],
     "experience": [
-        "epxerience",
-        "experiance"
+        "experiance",
+        "epxerience"
     ],
     "experiment": [
         "expirement"
@@ -5273,8 +5273,8 @@
         "fianl"
     ],
     "finally": [
-        "finaly",
-        "fianlly"
+        "fianlly",
+        "finaly"
     ],
     "financially": [
         "financialy"
@@ -5367,13 +5367,13 @@
         "footware"
     ],
     "for": [
-        "gfor",
         "fora",
+        "gfor",
         "fo"
     ],
     "forbad": [
-        "forebad",
-        "forbade"
+        "forbade",
+        "forebad"
     ],
     "forbid": [
         "forebid"
@@ -5611,9 +5611,9 @@
         "furnature"
     ],
     "further": [
-        "firther",
+        "fruther",
         "furuther",
-        "fruther"
+        "firther"
     ],
     "furthermore": [
         "futhermore"
@@ -5697,28 +5697,28 @@
         "godesses"
     ],
     "going": [
+        "gonig",
         "goign",
-        "gogin",
         "oging",
-        "gonig"
+        "gogin"
     ],
     "gourd": [
         "gaurd"
     ],
     "government": [
-        "goverment",
-        "govorment"
+        "govorment",
+        "goverment"
     ],
     "governmental": [
-        "govermental",
-        "govormental"
+        "govormental",
+        "govermental"
     ],
     "governmentally": [
         "governmentaly"
     ],
     "governor": [
-        "gouvener",
-        "governer"
+        "governer",
+        "gouvener"
     ],
     "grabbed": [
         "grabed"
@@ -5779,9 +5779,9 @@
         "gratuitious"
     ],
     "great": [
-        "grat",
+        "graet",
         "gerat",
-        "graet"
+        "grat"
     ],
     "greatly": [
         "greately"
@@ -5815,8 +5815,8 @@
     ],
     "guaranteed": [
         "guarenteed",
-        "guranteed",
-        "garanteed"
+        "garanteed",
+        "guranteed"
     ],
     "guarantees": [
         "guarentees"
@@ -5855,8 +5855,8 @@
         "guitarrist"
     ],
     "guttural": [
-        "guttaral",
-        "gutteral"
+        "gutteral",
+        "guttaral"
     ],
     "gyrate": [
         "girate"
@@ -5900,15 +5900,15 @@
         "ahppen"
     ],
     "happened": [
-        "hapened",
-        "happended"
+        "happended",
+        "hapened"
     ],
     "happening": [
         "hapening"
     ],
     "harass": [
-        "harrassing",
-        "harras"
+        "harras",
+        "harrassing"
     ],
     "harassed": [
         "harrased",
@@ -5922,8 +5922,8 @@
         "harrasing"
     ],
     "harassment": [
-        "harrasment",
-        "harasment"
+        "harasment",
+        "harrasment"
     ],
     "hardened": [
         "hardend"
@@ -5938,11 +5938,11 @@
         "hastly"
     ],
     "have": [
-        "haev",
-        "hvea",
         "hvae",
+        "ahev",
+        "haev",
         "ahve",
-        "ahev"
+        "hvea"
     ],
     "having": [
         "hvaing"
@@ -6186,9 +6186,9 @@
         "hyptonize"
     ],
     "hypocrisy": [
-        "hypocrasy",
         "hypocricy",
-        "hypocracy"
+        "hypocracy",
+        "hypocrasy"
     ],
     "hypocrite": [
         "hypocrit"
@@ -6206,8 +6206,8 @@
         "iconclastic"
     ],
     "idea": [
-        "idae",
-        "diea"
+        "diea",
+        "idae"
     ],
     "ideally": [
         "idealy"
@@ -6315,11 +6315,11 @@
         "imediate"
     ],
     "immediately": [
-        "emmediately",
         "immediatley",
+        "immidiately",
+        "emmediately",
         "imediately",
-        "immidately",
-        "immidiately"
+        "immidately"
     ],
     "immense": [
         "imense"
@@ -6525,23 +6525,23 @@
         "undecisive"
     ],
     "indefinitely": [
-        "indefinitly",
-        "indefinately"
+        "indefinately",
+        "indefinitly"
     ],
     "independence": [
         "independece",
         "independance"
     ],
     "independent": [
+        "indpendent",
         "independant",
-        "indipendent",
-        "indpendent"
+        "indipendent"
     ],
     "independently": [
-        "indepedantly",
-        "indipendently",
         "indpendently",
-        "independantly"
+        "independantly",
+        "indipendently",
+        "indepedantly"
     ],
     "indestructible": [
         "undestructible"
@@ -6577,8 +6577,8 @@
         "unescapable"
     ],
     "inevitable": [
-        "inevitible",
-        "inevatible"
+        "inevatible",
+        "inevitible"
     ],
     "inexpensive": [
         "unexpensive"
@@ -6818,8 +6818,8 @@
         "intrest"
     ],
     "interested": [
-        "itnerested",
-        "intersted"
+        "intersted",
+        "itnerested"
     ],
     "interesting": [
         "itneresting"
@@ -6975,13 +6975,13 @@
         "irelevent"
     ],
     "irresistible": [
+        "iresistable",
         "irresistable",
-        "iresistible",
-        "iresistable"
+        "iresistible"
     ],
     "irresistibly": [
-        "irresistably",
         "iresistably",
+        "irresistably",
         "iresistibly"
     ],
     "irreverent": [
@@ -7087,11 +7087,11 @@
         "knowed"
     ],
     "know": [
-        "nkow",
-        "knwo",
+        "konw",
         "kwno",
         "nkwo",
-        "konw"
+        "knwo",
+        "nkow"
     ],
     "knowledge": [
         "knowlege"
@@ -7153,8 +7153,8 @@
         "larnyx"
     ],
     "last": [
-        "lsat",
-        "alst"
+        "alst",
+        "lsat"
     ],
     "latch's": [
         "latchs"
@@ -7302,12 +7302,12 @@
         "libary"
     ],
     "licence": [
-        "lisense",
-        "lisence"
+        "lisence",
+        "lisense"
     ],
     "license": [
-        "lisense",
-        "lisence"
+        "lisence",
+        "lisense"
     ],
     "licensed": [
         "licenced"
@@ -7325,12 +7325,12 @@
         "lite"
     ],
     "light_year": [
-        "lightyear",
-        "lightyears"
+        "lightyears",
+        "lightyear"
     ],
     "like": [
-        "liek",
-        "liuke"
+        "liuke",
+        "liek"
     ],
     "liked": [
         "liekd"
@@ -7407,9 +7407,9 @@
         "alot"
     ],
     "love": [
-        "loev",
         "lvoe",
-        "lveo"
+        "lveo",
+        "loev"
     ],
     "lovely": [
         "lovley"
@@ -7430,8 +7430,8 @@
         "mackeral"
     ],
     "made": [
-        "maked",
-        "amde"
+        "amde",
+        "maked"
     ],
     "magically": [
         "magicaly"
@@ -7459,9 +7459,9 @@
     ],
     "maintenance": [
         "maintenence",
-        "maintance",
+        "maintainence",
         "maintainance",
-        "maintainence"
+        "maintance"
     ],
     "majestic": [
         "magestic"
@@ -7473,9 +7473,9 @@
         "majiscule"
     ],
     "make": [
-        "mkae",
+        "mkea",
         "amke",
-        "mkea"
+        "mkae"
     ],
     "makes": [
         "mkaes",
@@ -7507,8 +7507,8 @@
         "manditory"
     ],
     "maneuver": [
-        "manuever",
-        "manouver"
+        "manouver",
+        "manuever"
     ],
     "maneuverability": [
         "manoeuverability",
@@ -7518,8 +7518,8 @@
         "manouverable"
     ],
     "maneuvers": [
-        "manouvers",
-        "manuevers"
+        "manuevers",
+        "manouvers"
     ],
     "manifest": [
         "mainfest"
@@ -7535,12 +7535,12 @@
         "manouverable"
     ],
     "manoeuvre": [
-        "manuever",
-        "manouver"
+        "manouver",
+        "manuever"
     ],
     "manoeuvres": [
-        "manouvers",
-        "manuevers"
+        "manuevers",
+        "manouvers"
     ],
     "manufacture": [
         "manufature"
@@ -7570,8 +7570,8 @@
         "marketpalce"
     ],
     "marriage": [
-        "marraige",
-        "marrage"
+        "marrage",
+        "marraige"
     ],
     "married": [
         "marryied"
@@ -7592,8 +7592,8 @@
         "mathmatician"
     ],
     "mathematicians": [
-        "mathmaticians",
-        "matheticians"
+        "matheticians",
+        "mathmaticians"
     ],
     "mathematics": [
         "mathamatics"
@@ -7653,8 +7653,8 @@
         "membranaphone"
     ],
     "memory": [
-        "memoery",
-        "memmory"
+        "memmory",
+        "memoery"
     ],
     "menstruation": [
         "menstration"
@@ -7721,8 +7721,8 @@
         "millenia"
     ],
     "millennium": [
-        "millenium",
-        "milennium"
+        "milennium",
+        "millenium"
     ],
     "million": [
         "milion"
@@ -7773,14 +7773,14 @@
         "miricle"
     ],
     "miscellaneous": [
+        "miscellanious",
         "miscelaneous",
-        "miscellanous",
-        "miscellanious"
+        "miscellanous"
     ],
     "mischievous": [
-        "mischeivous",
+        "mischevious",
         "mischievious",
-        "mischevious"
+        "mischeivous"
     ],
     "misdemeanor": [
         "misdemenor",
@@ -7884,8 +7884,8 @@
         "moraly"
     ],
     "more": [
-        "mroe",
         "mpre",
+        "mroe",
         "omre"
     ],
     "mortgage": [
@@ -7970,8 +7970,8 @@
         "mysef"
     ],
     "mysterious": [
-        "misteryous",
         "mysterous",
+        "misteryous",
         "misterious"
     ],
     "mystery": [
@@ -8019,15 +8019,15 @@
         "nearbye"
     ],
     "necessarily": [
+        "neccessarily",
         "necesarily",
-        "nessasarily",
         "neccesarily",
-        "neccessarily"
+        "nessasarily"
     ],
     "necessary": [
-        "neccesary",
+        "neccessary",
         "necesary",
-        "neccessary"
+        "neccesary"
     ],
     "need": [
         "ened"
@@ -8045,8 +8045,8 @@
         "negitivity"
     ],
     "negligible": [
-        "negligable",
-        "neglible"
+        "neglible",
+        "negligable"
     ],
     "negotiate": [
         "negociate"
@@ -8176,8 +8176,8 @@
         "northereastern"
     ],
     "northern": [
-        "nothern",
-        "northen"
+        "northen",
+        "nothern"
     ],
     "northernmost": [
         "northermost"
@@ -8221,8 +8221,8 @@
         "nowdays"
     ],
     "nuclear": [
-        "nuculear",
-        "nucular"
+        "nucular",
+        "nuculear"
     ],
     "nuisance": [
         "nuisanse",
@@ -8287,30 +8287,30 @@
     ],
     "occasion": [
         "occassion",
-        "ocassion",
-        "ocasion"
+        "ocasion",
+        "ocassion"
     ],
     "occasional": [
+        "ocassional",
         "ocasional",
-        "occassional",
-        "ocassional"
+        "occassional"
     ],
     "occasionally": [
         "occassionaly",
-        "ocasionaly",
-        "ocassionally",
         "occassionally",
-        "ocasionally"
+        "ocasionaly",
+        "ocasionally",
+        "ocassionally"
     ],
     "occasioned": [
-        "ocasioned",
         "occassioned",
-        "ocassioned"
+        "ocassioned",
+        "ocasioned"
     ],
     "occasions": [
         "ocasions",
-        "ocassions",
-        "occassions"
+        "occassions",
+        "ocassions"
     ],
     "occupied": [
         "ocupied"
@@ -8319,24 +8319,24 @@
         "ocupy"
     ],
     "occur": [
-        "occurr",
-        "ocurr"
+        "ocurr",
+        "occurr"
     ],
     "occurred": [
-        "ocurred",
-        "occured"
+        "occured",
+        "ocurred"
     ],
     "occurrence": [
-        "ocurrence",
+        "ocurrance",
         "occurence",
         "occurance",
-        "ocurrance",
+        "ocurrence",
         "occurrance"
     ],
     "occurrences": [
-        "occurences",
+        "occurances",
         "occurrances",
-        "occurances"
+        "occurences"
     ],
     "occurring": [
         "occuring"
@@ -8408,14 +8408,14 @@
         "ommit"
     ],
     "omitted": [
-        "ommitted",
         "ommited",
-        "omited"
+        "omited",
+        "ommitted"
     ],
     "omitting": [
+        "ommitting",
         "omiting",
-        "ommiting",
-        "ommitting"
+        "ommiting"
     ],
     "omnivorous": [
         "omniverous"
@@ -8427,16 +8427,16 @@
         "noone"
     ],
     "only": [
-        "lonly",
         "nly",
+        "lonly",
         "onyl"
     ],
     "open": [
         "oppen"
     ],
     "opened": [
-        "opneed",
-        "oppened"
+        "oppened",
+        "opneed"
     ],
     "opening": [
         "oppening"
@@ -8533,8 +8533,8 @@
         "orgnaization"
     ],
     "organize": [
-        "orginize",
-        "orgnaize"
+        "orgnaize",
+        "orginize"
     ],
     "organized": [
         "orgnaized"
@@ -8550,9 +8550,9 @@
         "origional"
     ],
     "originally": [
-        "orignally",
         "originaly",
-        "originnally"
+        "originnally",
+        "orignally"
     ],
     "originate": [
         "orignate"
@@ -8641,8 +8641,8 @@
         "pased"
     ],
     "paid": [
-        "paide",
-        "payed"
+        "payed",
+        "paide"
     ],
     "palace": [
         "palce"
@@ -8670,11 +8670,11 @@
     ],
     "parallel": [
         "parrallel",
-        "parllel",
+        "parrallell",
+        "parralel",
         "paralell",
         "paralel",
-        "parralel",
-        "parrallell"
+        "parllel"
     ],
     "parallelly": [
         "parrallely"
@@ -8796,8 +8796,8 @@
         "preceive"
     ],
     "perceived": [
-        "percieved",
-        "percepted"
+        "percepted",
+        "percieved"
     ],
     "perception": [
         "preception"
@@ -8821,10 +8821,10 @@
         "performes"
     ],
     "perhaps": [
-        "perheaps",
         "perphas",
+        "perhasp",
         "perhpas",
-        "perhasp"
+        "perheaps"
     ],
     "peripatetic": [
         "peripathetic"
@@ -8879,8 +8879,8 @@
     ],
     "personnel": [
         "personel",
-        "personnell",
-        "personell"
+        "personell",
+        "personnell"
     ],
     "perspective": [
         "prespective"
@@ -8916,8 +8916,8 @@
         "phenonmena"
     ],
     "phenomenal": [
-        "phenomenonly",
-        "phenomenonal"
+        "phenomenonal",
+        "phenomenonly"
     ],
     "phenomenally": [
         "phenomenonly"
@@ -9135,8 +9135,8 @@
     ],
     "position": [
         "postion",
-        "possition",
-        "positon"
+        "positon",
+        "possition"
     ],
     "positive": [
         "postive"
@@ -9196,9 +9196,9 @@
         "practial"
     ],
     "practically": [
-        "practicaly",
         "practicly",
-        "practially"
+        "practially",
+        "practicaly"
     ],
     "practice": [
         "pratice"
@@ -9318,8 +9318,8 @@
         "presurize"
     ],
     "prestigious": [
-        "prestigous",
-        "prestigeous"
+        "prestigeous",
+        "prestigous"
     ],
     "presumably": [
         "presumibly"
@@ -9376,10 +9376,10 @@
         "privatly"
     ],
     "privilege": [
-        "privelige",
         "privledge",
-        "privilage",
+        "privelige",
         "privelege",
+        "privilage",
         "priviledge"
     ],
     "privileged": [
@@ -9387,10 +9387,10 @@
         "priveliged"
     ],
     "privileges": [
-        "priveliges",
-        "priveledges",
+        "priveleges",
         "priviledges",
-        "priveleges"
+        "priveledges",
+        "priveliges"
     ],
     "pro_tem": [
         "protem"
@@ -9407,8 +9407,8 @@
         "probelm"
     ],
     "procedure": [
-        "procedger",
-        "proceedure"
+        "proceedure",
+        "procedger"
     ],
     "proceed": [
         "procede"
@@ -9450,16 +9450,16 @@
         "prodcution"
     ],
     "profession": [
-        "proffesion",
-        "profesion"
+        "profesion",
+        "proffesion"
     ],
     "professionally": [
         "professionaly"
     ],
     "professor": [
+        "proffesor",
         "profesor",
-        "proffessor",
-        "proffesor"
+        "proffessor"
     ],
     "profusion": [
         "profesion"
@@ -9496,8 +9496,8 @@
         "prominant"
     ],
     "prominently": [
-        "prominantly",
-        "prominately"
+        "prominately",
+        "prominantly"
     ],
     "promiscuous": [
         "promiscous"
@@ -9566,9 +9566,9 @@
         "propotions"
     ],
     "proprietary": [
-        "propietary",
         "proprietory",
-        "prorpietary"
+        "prorpietary",
+        "propietary"
     ],
     "proselytizing": [
         "proseletyzing"
@@ -9616,8 +9616,8 @@
         "pyschedelic"
     ],
     "psychic": [
-        "pyscic",
-        "psyhic"
+        "psyhic",
+        "pyscic"
     ],
     "psycho": [
         "pyscho"
@@ -9701,8 +9701,8 @@
         "quantative"
     ],
     "quantity": [
-        "quantaty",
-        "quantitiy"
+        "quantitiy",
+        "quantaty"
     ],
     "quarantine": [
         "quarantaine"
@@ -9764,8 +9764,8 @@
     ],
     "quite": [
         "qutie",
-        "qtuie",
-        "wuite"
+        "wuite",
+        "qtuie"
     ],
     "quizzes": [
         "quizes"
@@ -9829,10 +9829,10 @@
     ],
     "really": [
         "realyl",
-        "raelly",
-        "realy",
+        "relaly",
         "erally",
-        "relaly"
+        "realy",
+        "raelly"
     ],
     "realm": [
         "relm"
@@ -9912,22 +9912,22 @@
         "recoiless"
     ],
     "recommend": [
-        "reccommend",
+        "reccomend",
         "recomend",
-        "reccomend"
+        "reccommend"
     ],
     "recommendation": [
         "recomendation"
     ],
     "recommended": [
-        "reccomended",
         "reccommended",
-        "recomended"
+        "recomended",
+        "reccomended"
     ],
     "recommending": [
         "reccomending",
-        "reccommending",
-        "recomending"
+        "recomending",
+        "reccommending"
     ],
     "recommends": [
         "recomends"
@@ -9939,8 +9939,8 @@
         "reconcilation"
     ],
     "reconnaissance": [
-        "reconnaissence",
-        "reconaissance"
+        "reconaissance",
+        "reconnaissence"
     ],
     "record": [
         "recrod"
@@ -10026,8 +10026,8 @@
         "regluar"
     ],
     "regularly": [
-        "regularily",
-        "reguarly"
+        "reguarly",
+        "regularily"
     ],
     "rehearsal": [
         "rehersal"
@@ -10093,8 +10093,8 @@
         "religon"
     ],
     "religious": [
-        "religous",
-        "religeous"
+        "religeous",
+        "religous"
     ],
     "remain": [
         "remian"
@@ -10109,8 +10109,8 @@
         "remeber"
     ],
     "remembrance": [
-        "rememberance",
-        "remembrence"
+        "remembrence",
+        "rememberance"
     ],
     "reminiscent": [
         "reminescent"
@@ -10204,9 +10204,9 @@
         "reserach"
     ],
     "resemblance": [
+        "ressemblance",
         "resemblence",
-        "ressemblence",
-        "ressemblance"
+        "ressemblence"
     ],
     "resemble": [
         "ressemble"
@@ -10263,8 +10263,8 @@
         "respondant"
     ],
     "response": [
-        "reponse",
-        "responce"
+        "responce",
+        "reponse"
     ],
     "responsibility": [
         "responnsibilty"
@@ -10274,8 +10274,8 @@
     ],
     "restaurant": [
         "resteraunt",
-        "restraunt",
-        "restaraunt"
+        "restaraunt",
+        "restraunt"
     ],
     "restaurants": [
         "restaraunts",
@@ -10345,11 +10345,11 @@
         "rhymme"
     ],
     "rhythm": [
-        "rhythem",
-        "rhythim",
         "rythem",
-        "rythm",
-        "rythim"
+        "rhythem",
+        "rythim",
+        "rhythim",
+        "rythm"
     ],
     "riches": [
         "richs"
@@ -10421,8 +10421,8 @@
         "runer"
     ],
     "running": [
-        "runing",
-        "runnig"
+        "runnig",
+        "runing"
     ],
     "rushes": [
         "rushs"
@@ -10514,8 +10514,8 @@
         "sayig"
     ],
     "says": [
-        "syas",
-        "sasy"
+        "sasy",
+        "syas"
     ],
     "scalable": [
         "scaleable"
@@ -10585,8 +10585,8 @@
         "seceed"
     ],
     "seceded": [
-        "seceeded",
-        "secceeded"
+        "secceeded",
+        "seceeded"
     ],
     "secession": [
         "seccesion"
@@ -10598,8 +10598,8 @@
         "secrect"
     ],
     "secretary": [
-        "secratary",
-        "secretery"
+        "secretery",
+        "secratary"
     ],
     "securities": [
         "securites"
@@ -10683,12 +10683,12 @@
         "seperatist"
     ],
     "sepulcher": [
-        "sepulcre",
-        "sepulchure"
+        "sepulchure",
+        "sepulcre"
     ],
     "sepulchre": [
-        "sepulcre",
-        "sepulchure"
+        "sepulchure",
+        "sepulcre"
     ],
     "sequel": [
         "sequal"
@@ -10769,8 +10769,8 @@
         "shooted"
     ],
     "should": [
-        "shoudl",
         "shoudln",
+        "shoudl",
         "sould"
     ],
     "shouldn't": [
@@ -10787,8 +10787,8 @@
         "shreak"
     ],
     "sidereal": [
-        "sedereal",
-        "sideral"
+        "sideral",
+        "sedereal"
     ],
     "siege": [
         "seige"
@@ -10809,8 +10809,8 @@
         "signifigant"
     ],
     "significantly": [
-        "significently",
-        "signifantly"
+        "signifantly",
+        "significently"
     ],
     "similar": [
         "simmilar",
@@ -10838,8 +10838,8 @@
         "simultanously"
     ],
     "since": [
-        "sinse",
-        "sicne"
+        "sicne",
+        "sinse"
     ],
     "sincerely": [
         "sincerley"
@@ -11161,8 +11161,8 @@
         "stallwart"
     ],
     "standard": [
-        "standart",
-        "stadnard"
+        "stadnard",
+        "standart"
     ],
     "start": [
         "strat"
@@ -11231,15 +11231,15 @@
         "storys"
     ],
     "stories": [
-        "storise",
-        "storeis"
+        "storeis",
+        "storise"
     ],
     "story": [
+        "stopry",
+        "sotyr",
         "stroy",
         "stoyr",
-        "sotry",
-        "stopry",
-        "sotyr"
+        "sotry"
     ],
     "straitjacket": [
         "straightjacket"
@@ -11275,8 +11275,8 @@
         "strenght"
     ],
     "strengthen": [
-        "strenghen",
-        "strenghten"
+        "strenghten",
+        "strenghen"
     ],
     "strengthened": [
         "strenghtened",
@@ -11398,8 +11398,8 @@
         "susequent"
     ],
     "subsidiary": [
-        "subsiduary",
-        "subsidary"
+        "subsidary",
+        "subsiduary"
     ],
     "substance": [
         "substace"
@@ -11442,9 +11442,9 @@
         "seceed"
     ],
     "succeeded": [
-        "seceeded",
         "suceeded",
-        "secceeded"
+        "secceeded",
+        "seceeded"
     ],
     "succeeding": [
         "suceeding"
@@ -11459,23 +11459,23 @@
         "sucesses"
     ],
     "successful": [
-        "successfull",
-        "sucesful",
         "succesful",
-        "sucessfull"
+        "sucessfull",
+        "successfull",
+        "sucesful"
     ],
     "successfully": [
-        "sucesfuly",
-        "sucessfuly",
-        "succesfuly",
-        "succesfully",
         "sucesfully",
-        "sucessfully"
+        "sucessfully",
+        "sucesfuly",
+        "succesfully",
+        "sucessfuly",
+        "succesfuly"
     ],
     "succession": [
-        "succesion",
         "sucesion",
-        "sucession"
+        "sucession",
+        "succesion"
     ],
     "successive": [
         "sucessive",
@@ -11584,8 +11584,8 @@
         "supress"
     ],
     "suppressed": [
-        "surpressed",
-        "supressed"
+        "supressed",
+        "surpressed"
     ],
     "suppresses": [
         "supresses"
@@ -11618,18 +11618,18 @@
         "surpased"
     ],
     "surprise": [
-        "surprize",
         "suprize",
+        "surprize",
         "suprise"
     ],
     "surprised": [
         "suprized",
-        "surprized",
-        "suprised"
+        "suprised",
+        "surprized"
     ],
     "surprising": [
-        "suprising",
         "suprizing",
+        "suprising",
         "surprizing"
     ],
     "surprisingly": [
@@ -11647,8 +11647,8 @@
         "surrundering"
     ],
     "surreptitious": [
-        "surrepetitious",
-        "surreptious"
+        "surreptious",
+        "surrepetitious"
     ],
     "surreptitiously": [
         "surrepetitiously",
@@ -11740,8 +11740,8 @@
         "symetrical"
     ],
     "symmetrically": [
-        "symetrically",
-        "symmetricaly"
+        "symmetricaly",
+        "symetrically"
     ],
     "symmetry": [
         "symetry"
@@ -11804,8 +11804,8 @@
         "talekd"
     ],
     "talking": [
-        "tlaking",
-        "talkign"
+        "talkign",
+        "tlaking"
     ],
     "tambourine": [
         "tamborine"
@@ -11948,20 +11948,20 @@
     ],
     "that": [
         "thta",
+        "tath",
         "taht",
-        "tyhat",
         "thgat",
-        "tath"
+        "tyhat"
     ],
     "the": [
-        "tjhe",
-        "tghe",
+        "tha",
+        "thge",
         "teh",
-        "ther",
         "hte",
         "tje",
-        "thge",
-        "tha"
+        "ther",
+        "tjhe",
+        "tghe"
     ],
     "theater": [
         "theather"
@@ -11993,8 +11993,8 @@
         "theraphy"
     ],
     "there": [
-        "ther",
-        "tehre"
+        "tehre",
+        "ther"
     ],
     "thereafter": [
         "therafter"
@@ -12027,13 +12027,13 @@
     ],
     "things": [
         "thigns",
-        "thigsn",
-        "thnigs"
+        "thnigs",
+        "thigsn"
     ],
     "think": [
+        "thikn",
         "tihkn",
-        "thiunk",
-        "thikn"
+        "thiunk"
     ],
     "thinking": [
         "thikning"
@@ -12048,8 +12048,8 @@
         "thridly"
     ],
     "this": [
-        "tihs",
-        "thsi"
+        "thsi",
+        "tihs"
     ],
     "thorough": [
         "thourough"
@@ -12064,8 +12064,8 @@
         "throughly"
     ],
     "those": [
-        "thsoe",
-        "ethose"
+        "ethose",
+        "thsoe"
     ],
     "thought": [
         "throught"
@@ -12089,8 +12089,8 @@
         "threshhold"
     ],
     "through": [
-        "thru",
-        "throught"
+        "throught",
+        "thru"
     ],
     "throughout": [
         "throught"
@@ -12099,8 +12099,8 @@
         "thrusted"
     ],
     "time": [
-        "tiem",
         "timne",
+        "tiem",
         "tiome"
     ],
     "tobacco": [
@@ -12134,8 +12134,8 @@
         "tiome"
     ],
     "tomorrow": [
-        "tommorrow",
-        "tommorow"
+        "tommorow",
+        "tommorrow"
     ],
     "tongue": [
         "tounge"
@@ -12350,8 +12350,8 @@
         "typicaly"
     ],
     "tyranny": [
-        "tyrrany",
-        "tyrany"
+        "tyrany",
+        "tyrrany"
     ],
     "ubiquitous": [
         "ubiquitious"
@@ -12493,8 +12493,8 @@
         "universaly"
     ],
     "universities": [
-        "univesities",
-        "univeristies"
+        "univeristies",
+        "univesities"
     ],
     "university": [
         "univesity",
@@ -12513,14 +12513,14 @@
         "unmistakeably"
     ],
     "unnecessarily": [
-        "unneccessarily",
         "unnecesarily",
+        "unneccessarily",
         "unneccesarily"
     ],
     "unnecessary": [
         "unecessary",
-        "unnecesary",
-        "unneccessary"
+        "unneccessary",
+        "unnecesary"
     ],
     "unneeded": [
         "uneeded"
@@ -12553,23 +12553,23 @@
         "unsubstanciated"
     ],
     "unsuccessful": [
-        "unsuccessfull",
+        "unsucessfull",
         "unsucesful",
-        "unsucessfull"
+        "unsuccessfull"
     ],
     "unsuccessfully": [
         "unsucesfuly",
         "unsucessfully"
     ],
     "unsurprised": [
+        "unsuprized",
         "unsurprized",
-        "unsuprised",
-        "unsuprized"
+        "unsuprised"
     ],
     "unsurprising": [
-        "unsuprising",
         "unsurprizing",
-        "unsuprizing"
+        "unsuprizing",
+        "unsuprising"
     ],
     "unsurprisingly": [
         "unsurprizingly"
@@ -12602,8 +12602,8 @@
         "unviel"
     ],
     "unwieldy": [
-        "unwieldly",
-        "unweildly"
+        "unweildly",
+        "unwieldly"
     ],
     "upcoming": [
         "upcomming"
@@ -12624,9 +12624,9 @@
         "useage"
     ],
     "use": [
-        "sue",
+        "useage",
         "uise",
-        "useage"
+        "sue"
     ],
     "used": [
         "unsed"
@@ -12782,10 +12782,10 @@
         "verticle"
     ],
     "very": [
-        "veyr",
         "vyre",
-        "vyer",
-        "vrey"
+        "veyr",
+        "vrey",
+        "vyer"
     ],
     "veteran": [
         "vetran"
@@ -12918,24 +12918,24 @@
         "volontary"
     ],
     "volunteer": [
-        "volounteer",
-        "volonteer"
+        "volonteer",
+        "volounteer"
     ],
     "volunteered": [
-        "volounteered",
-        "volonteered"
+        "volonteered",
+        "volounteered"
     ],
     "volunteering": [
         "volounteering",
         "volonteering"
     ],
     "volunteers": [
-        "volonteers",
-        "volounteers"
+        "volounteers",
+        "volonteers"
     ],
     "want": [
-        "wnat",
-        "watn"
+        "watn",
+        "wnat"
     ],
     "want_to": [
         "wanna"
@@ -13019,19 +13019,19 @@
         "whereever"
     ],
     "whether": [
-        "wether",
-        "weder"
+        "weder",
+        "wether"
     ],
     "which": [
-        "wich",
         "whic",
         "whihc",
         "whcih",
+        "wich",
         "hwihc"
     ],
     "while": [
-        "hwile",
-        "wile"
+        "wile",
+        "hwile"
     ],
     "whining": [
         "whinning"
@@ -13043,8 +13043,8 @@
         "whos"
     ],
     "whole": [
-        "wohle",
-        "hwole"
+        "hwole",
+        "wohle"
     ],
     "wholly": [
         "wholy"
@@ -13071,8 +13071,8 @@
         "weild"
     ],
     "will": [
-        "wiull",
-        "iwll"
+        "iwll",
+        "wiull"
     ],
     "willingness": [
         "willingess"
@@ -13087,10 +13087,10 @@
         "witchs"
     ],
     "with": [
-        "witht",
+        "wiht",
         "iwth",
-        "wtih",
-        "wiht"
+        "witht",
+        "wtih"
     ],
     "withdraw": [
         "withdrawl"
@@ -13121,12 +13121,12 @@
     ],
     "work": [
         "wrok",
-        "wokr",
-        "owrk"
+        "owrk",
+        "wokr"
     ],
     "working": [
-        "wokring",
-        "wroking"
+        "wroking",
+        "wokring"
     ],
     "worldwide": [
         "worlwide"
@@ -13141,8 +13141,8 @@
         "worstening"
     ],
     "would": [
-        "woudl",
-        "owudl"
+        "owudl",
+        "woudl"
     ],
     "wreak": [
         "reak"
@@ -13161,8 +13161,8 @@
         "writed"
     ],
     "writing": [
-        "wirting",
-        "wiriting"
+        "wiriting",
+        "wirting"
     ],
     "written": [
         "writen"
@@ -13177,10 +13177,10 @@
         "yatch"
     ],
     "year": [
-        "yera",
-        "eyar",
         "yir",
-        "iyer"
+        "iyer",
+        "yera",
+        "eyar"
     ],
     "years": [
         "yersa"
@@ -13412,5 +13412,50 @@
     ],
     "organizations": [
         "orgnaizations"
+    ],
+    "token": [
+        "toekn"
+    ],
+    "inside": [
+        "insdie"
+    ],
+    "desktop": [
+        "dekstop"
+    ],
+    "browser": [
+        "borwser"
+    ],
+    "manager": [
+        "maanger"
+    ],
+    "simple": [
+        "ismple"
+    ],
+    "command": [
+        "comamnd"
+    ],
+    "employee": [
+        "empoloyee"
+    ],
+    "integrerei": [
+        "itnegrerei"
+    ],
+    "parlare": [
+        "prlare"
+    ],
+    "investigating": [
+        "investingating"
+    ],
+    "priviliges": [
+        "privilgies"
+    ],
+    "customize": [
+        "customzie"
+    ],
+    "advanced": [
+        "advacned"
+    ],
+    "documentation": [
+        "documenation"
     ]
 }
