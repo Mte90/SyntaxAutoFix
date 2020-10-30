@@ -12,11 +12,11 @@ setup(
     install_requires=[
           'keyboard',
       ],
-    version=0.1,
-    description="description",
+    version="2.4",
+    description="Autofix your typos on Linux easily!",
     long_description=long_descr,
-    author="SOMEONE",
-    author_email="INSERTEXT@gmail.com",
-    url="http://url.com",
+    author="Mte90",
+    author_email="mte90net@gmail.com",
+    url="https://github.com/Mte90/SyntaxAutoFix",
     include_package_data=True
 )
