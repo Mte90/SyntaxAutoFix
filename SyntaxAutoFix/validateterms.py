@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import argparse, os.path
-from utils.data_handlers import open_typo_file
+from SyntaxAutoFix.utils import open_typo_file
 
 
 def parse_argument(_parser_):

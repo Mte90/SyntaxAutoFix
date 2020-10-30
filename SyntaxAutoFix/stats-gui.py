@@ -3,7 +3,7 @@
 import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QTableWidget, QTableWidgetItem, QApplication
-from utils.data_handlers import open_stats_file
+from SyntaxAutoFix.utils import open_stats_file
 
 
 class MyTable(QTableWidget):
