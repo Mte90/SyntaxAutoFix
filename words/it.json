@@ -54,9 +54,9 @@
         "cmmando"
     ],
     "come": [
-        "cvome",
+        "coem",
         "comne",
-        "coem"
+        "cvome"
     ],
     "comprare": [
         "comrapre"
@@ -65,8 +65,8 @@
         "condivisioen"
     ],
     "configurazione": [
-        "configurazioen",
-        "configuarazione"
+        "configuarazione",
+        "configurazioen"
     ],
     "conosce": [
         "consoce"
@@ -94,8 +94,8 @@
         "dispaice"
     ],
     "diversi": [
-        "diveris",
-        "dibversi"
+        "dibversi",
+        "diveris"
     ],
     "donazione": [
         "donazioen"
@@ -150,8 +150,8 @@
         "intnato"
     ],
     "interessa": [
-        "interess",
-        "itneressa"
+        "itneressa",
+        "interess"
     ],
     "interessata": [
         "itneressata"
@@ -167,8 +167,8 @@
         "itnernet"
     ],
     "invece": [
-        "invce",
-        "ivnece"
+        "ivnece",
+        "invce"
     ],
     "inventarci": [
         "ivnentarci"
@@ -177,8 +177,8 @@
         "alrgo"
     ],
     "lasciare": [
-        "lascaire",
-        "lascair"
+        "lascair",
+        "lascaire"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -211,17 +211,17 @@
         "mlti"
     ],
     "nella": [
-        "nelal",
-        "nela",
+        "enlla",
         "nlla",
-        "enlla"
+        "nela",
+        "nelal"
     ],
     "niente": [
         "niete"
     ],
     "nostro": [
-        "nsotro",
-        "nostor"
+        "nostor",
+        "nsotro"
     ],
     "ogni": [
         "goni"
@@ -236,26 +236,26 @@
         "pagian"
     ],
     "parecchio": [
-        "aprecchio",
+        "parechcio",
         "parecciho",
-        "parechcio"
+        "aprecchio"
     ],
     "parliamo": [
         "parliamno"
     ],
     "partecipare": [
-        "aprtecipare",
+        "aprteciapre",
         "parteciapre",
-        "aprteciapre"
+        "aprtecipare"
     ],
     "paura": [
         "apura"
     ],
     "per": [
-        "ppe",
-        "pe",
         "epr",
-        "er"
+        "pe",
+        "er",
+        "ppe"
     ],
     "persone": [
         "persoen",
@@ -271,16 +271,16 @@
         "ptoer"
     ],
     "potrebbe": [
-        "ptoerbbe",
-        "potrebe"
+        "potrebe",
+        "ptoerbbe"
     ],
     "potremmo": [
         "potremm"
     ],
     "prima": [
         "priam",
-        "prim",
-        "pri"
+        "pri",
+        "prim"
     ],
     "probabilmente": [
         "probabilmetne"
@@ -296,8 +296,8 @@
         "prosismo"
     ],
     "punto": [
-        "punot",
-        "putno"
+        "putno",
+        "punot"
     ],
     "quella": [
         "quelal"
@@ -306,8 +306,8 @@
         "questioen"
     ],
     "questo": [
-        "qeusto",
-        "uesto"
+        "uesto",
+        "qeusto"
     ],
     "registrazioni": [
         "regisrtazioni"
@@ -353,8 +353,8 @@
         "serovno"
     ],
     "settimana": [
-        "settimna",
-        "settiman"
+        "settiman",
+        "settimna"
     ],
     "siccome": [
         "siccoem"
@@ -426,10 +426,10 @@
         "valutaizoni"
     ],
     "versione": [
-        "verisone",
         "verisoen",
-        "vrsione",
-        "versioen"
+        "versioen",
+        "verisone",
+        "vrsione"
     ],
     "versioni": [
         "versoni",
@@ -445,8 +445,8 @@
         "aveo"
     ],
     "descrizione": [
-        "descirzione",
-        "descirizione"
+        "descirizione",
+        "descirzione"
     ],
     "organizzazione": [
         "orgnaizzaizone",
@@ -472,8 +472,8 @@
         "filmanre"
     ],
     "febbraio": [
-        "febbrai",
-        "febraio"
+        "febraio",
+        "febbrai"
     ],
     "contratto": [
         "cotnratto"
@@ -482,9 +482,9 @@
         "enerige"
     ],
     "hanno": [
+        "hann",
         "hannio",
-        "hano",
-        "hann"
+        "hano"
     ],
     "regolmaneto": [
         "regolamento"
@@ -500,8 +500,8 @@
         "rpovo"
     ],
     "quando": [
-        "qunado",
-        "qaundo"
+        "qaundo",
+        "qunado"
     ],
     "compilare": [
         "compialre"
@@ -528,8 +528,8 @@
         "orgnaizzo"
     ],
     "segnalato": [
-        "segnalat",
-        "segnalto"
+        "segnalto",
+        "segnalat"
     ],
     "organizza": [
         "orgnaizza"
@@ -544,15 +544,15 @@
         "vorrano"
     ],
     "qualche": [
-        "qualhce",
-        "qualce"
+        "qualce",
+        "qualhce"
     ],
     "apparire": [
         "apprire"
     ],
     "chiave": [
-        "chaive",
-        "chiav"
+        "chiav",
+        "chaive"
     ],
     "scordato": [
         "scrodato"
@@ -606,8 +606,8 @@
         "declianre"
     ],
     "lasciato": [
-        "alsciato",
-        "lsciato"
+        "lsciato",
+        "alsciato"
     ],
     "abbastanza": [
         "ababstanza",
@@ -656,8 +656,8 @@
         "presentaizoni"
     ],
     "partecipazione": [
-        "aprtecipazione",
-        "partecipazioen"
+        "partecipazioen",
+        "aprtecipazione"
     ],
     "aprile": [
         "parile"
@@ -669,8 +669,8 @@
         "saper"
     ],
     "automatico": [
-        "autamatico",
-        "autoamtico"
+        "autoamtico",
+        "autamatico"
     ],
     "averlo": [
         "vaerlo"
@@ -860,8 +860,8 @@
         "attualemnte"
     ],
     "nessuno": [
-        "nesusno",
-        "enssuno"
+        "enssuno",
+        "nesusno"
     ],
     "sopratutto": [
         "sopatutto"
@@ -954,8 +954,8 @@
         "dolalri"
     ],
     "potrebbero": [
-        "potrebero",
-        "ptorebbero"
+        "ptorebbero",
+        "potrebero"
     ],
     "anche": [
         "nahce",
@@ -969,8 +969,8 @@
         "queli"
     ],
     "comunque": [
-        "comunqwue",
-        "counque"
+        "counque",
+        "comunqwue"
     ],
     "conoscenza": [
         "consocenza"
@@ -1075,8 +1075,8 @@
         "eprsonale"
     ],
     "parte": [
-        "aprte",
-        "prate"
+        "prate",
+        "aprte"
     ],
     "manico": [
         "manicco"
@@ -1164,8 +1164,8 @@
         "richeisto"
     ],
     "considerando": [
-        "cosniderando",
-        "consierando"
+        "consierando",
+        "cosniderando"
     ],
     "ottimizzazioni": [
         "ottimizzaizoni"
@@ -1234,8 +1234,8 @@
         "avevao"
     ],
     "letto": [
-        "leto",
-        "eltto"
+        "eltto",
+        "leto"
     ],
     "relazione": [
         "realzione"
@@ -1452,5 +1452,53 @@
     ],
     "lavorato": [
         "lavroato"
+    ],
+    "scrolla": [
+        "scrollla"
+    ],
+    "immagine": [
+        "imamgine"
+    ],
+    "aggiunto": [
+        "agignto"
+    ],
+    "passare": [
+        "apssare"
+    ],
+    "peggiore": [
+        "pegiore"
+    ],
+    "rinnovare": [
+        "rinnvoare"
+    ],
+    "segnato": [
+        "sengato"
+    ],
+    "tranquillamente": [
+        "tranquillametne"
+    ],
+    "aver": [
+        "vare"
+    ],
+    "stamattina": [
+        "stamattian"
+    ],
+    "saprei": [
+        "sapreo"
+    ],
+    "piccoli": [
+        "picocli"
+    ],
+    "tutte": [
+        "tutet"
+    ],
+    "oltretutto": [
+        "olrtetutto"
+    ],
+    "implementato": [
+        "implmentato"
+    ],
+    "accesso": [
+        "acecsso"
     ]
 }
