@@ -1,0 +1,5 @@
+include LICENSE
+recursive-include SyntaxAutoFix/words/ *
+recursive-include SyntaxAutoFix/utils *
+include SyntaxAutoFix/manageterms.ui
+include SyntaxAutoFix/filepath.ini

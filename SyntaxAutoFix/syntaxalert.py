@@ -3,8 +3,8 @@ import keyboard
 import argparse, os.path
 from threading import Thread
 from time import sleep
-from utils.data_handlers import open_typo_file
-from utils.data_handlers import save_stats_file
+from SyntaxAutoFix.utils import open_typo_file
+from SyntaxAutoFix.utils import save_stats_file
 
 from configparser import ConfigParser
 import json
@@ -33,7 +33,6 @@ args = parser.parse_args()
 # it holds the files name passed and the stat os file
 files = {}
 
-keyboard.start_recording()
 
 
 def mispell_callback():
@@ -91,6 +90,16 @@ def JSON_modify_watcher():
                 break
 
 
-loadJSON()
-t_watcher = Thread(target=JSON_modify_watcher)
-t_watcher.start()
+def main():
+    keyboard.start_recording()
+
+    loadJSON()
+    t_watcher = Thread(target=JSON_modify_watcher)
+    t_watcher.start()
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        keyboard.stop_recording()

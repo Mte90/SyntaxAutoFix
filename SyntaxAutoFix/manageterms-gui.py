@@ -3,8 +3,8 @@ import os, signal, sys, glob
 from PyQt5 import QtCore
 from PyQt5.QtWidgets import QMainWindow, QApplication, QErrorMessage, QShortcut
 from PyQt5.QtGui import QKeySequence
-from utils.data_handlers import open_typo_file, save_typo_data
-from ui_manageterms import Ui_MainWindow
+from SyntaxAutoFix.utils import open_typo_file, save_typo_data
+from SyntaxAutoFix.ui_manageterms import Ui_MainWindow
 
 
 class MainWindow(QMainWindow, Ui_MainWindow):
