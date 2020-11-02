@@ -15,6 +15,7 @@ setup(
     version="2.4",
     description="Autofix your typos on Linux easily!",
     long_description=long_descr,
+    long_description_content_type='text/markdown',
     author="Mte90",
     author_email="mte90net@gmail.com",
     url="https://github.com/Mte90/SyntaxAutoFix",
