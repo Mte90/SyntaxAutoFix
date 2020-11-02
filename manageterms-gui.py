@@ -23,7 +23,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.ui.save_close.clicked.connect(self.save_close)
         # When the software are closed on console the software are closed
         signal.signal(signal.SIGINT, signal.SIG_DFL)
-        self.script_path = os.path.dirname(os.path.realpath(__file__)) + '/words/'
+        self.script_path = os.path.dirname(os.path.realpath(__file__)) + '/SyntaxAutoFix/words/'
         for filepath in sorted(glob.glob(os.path.join(self.script_path, '*.json'))):
             language = os.path.splitext(os.path.basename(filepath))[0]
             self.ui.languages.addItem(language)
