@@ -4,25 +4,34 @@ An easy solution to fix typos!
 
 Check the `words` folder for the languages available.
 
-## Required Installation
+## Installation
 ```
 pip3 install keyboard
+pip3 install syntaxautofix
 ```
 For the UI is required PyQt5.
 
 ## How to use with Target Language(s)
 - For English only
 ```
-syntaxalert.py -words ./words/en.json
+syntaxautofix -words ./words/en.json
 ```
 
 - For Italian/English/Spanish (or without parameters is the same):  
 ```
-syntaxalert.py -words ./words/en.json -words2 ./words/it.json
+syntaxautofix -words ./words/en.json -words2 ./words/it.json
 ```
-<br>
-  
+
+- Otherwise with the `configini` parameter you can specify a settings file (sample in the package/repo):  
+```
+syntaxautofix -configini /path/config.ini
+```
+
+
 ## Adding New Terms
+
+This require the git repo or the right path to the pip package folder.
+
 ```
 manageterms.py -wrong="wdiget" -right="widget" -lang=en
 ```
@@ -30,6 +39,9 @@ manageterms.py -wrong="wdiget" -right="widget" -lang=en
 You can use also an ui for that: `manageterms-gui.py`
 
 ## Adding New Terms using CSV File
+
+This require the git repo or the right path to the pip package folder.
+
 Directly upload new terms using a CSV file with row format:
 ```
 <correct-term>, <wrong-term>

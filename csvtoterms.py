@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-import argparse, os.path, csv
+import argparse
+import os.path
+import csv
 from SyntaxAutoFix.utils import open_typo_file, save_typo_data
 
 # Parse argument
@@ -9,7 +11,8 @@ parser.add_argument('-file', dest="file", type=str, required=True)
 parser.add_argument('-lang', dest="lang", type=str, required=True)
 args = parser.parse_args()
 
-script_path = os.path.dirname(os.path.realpath(__file__)) + '/words/' + args.lang + '.json'
+script_path = os.path.dirname(os.path.realpath(__file__))
+script_path = os.path.join(script_path, 'SyntaxAutoFix/words/' + args.lang + '.json')
 
 typo_data = open_typo_file(script_path)
 with open(args.file) as csv_file:

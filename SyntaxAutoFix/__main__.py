@@ -1,2 +1,2 @@
-from . import syntaxalert
+from . import syntaxautofix
 from .utils import *

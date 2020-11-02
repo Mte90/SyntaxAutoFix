@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-import os, signal, sys, glob
+import os
+import signal
+import sys
+import glob
 from PyQt5 import QtCore
 from PyQt5.QtWidgets import QMainWindow, QApplication, QErrorMessage, QShortcut
 from PyQt5.QtGui import QKeySequence
 from SyntaxAutoFix.utils import open_typo_file, save_typo_data
-from SyntaxAutoFix.ui_manageterms import Ui_MainWindow
+from ui_manageterms import Ui_MainWindow
 
 
 class MainWindow(QMainWindow, Ui_MainWindow):
@@ -55,14 +58,16 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.ui.wrong.clear()
         self.ui.right.clear()
 
+
 def main():
-    #Start the software
+    # Start the software
     app = QApplication(sys.argv)
     MainWindow_ = QMainWindow()
     ui = MainWindow()
     ui.setupUi(MainWindow_)
-    #Add the close feature at the program with the X
+    # Add the close feature at the program with the X
     sys.exit(app.exec_())
 
-#Execute the software
+
+# Execute the software
 main()

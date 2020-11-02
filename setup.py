@@ -7,7 +7,7 @@ setup(
     name="SyntaxAutoFix",
     packages=["SyntaxAutoFix"],
     entry_points={
-        "console_scripts": ['syntaxautofix = SyntaxAutoFix.syntaxalert:main']
+        "console_scripts": ['syntaxautofix = SyntaxAutoFix.syntaxautofix:main']
     },
     install_requires=[
           'keyboard',

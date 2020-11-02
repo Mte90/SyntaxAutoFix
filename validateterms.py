@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import argparse, os.path
+import argparse
+import os.path
 from SyntaxAutoFix.utils import open_typo_file
 
 
@@ -11,7 +12,7 @@ def parse_argument(_parser_):
 
 def load_language(_args_):
     try:
-        lang_path = script_path + '/words/' + _args_.lang + '.json'
+        lang_path = script_path + _args_.lang + '.json'
         words = open_typo_file(lang_path)
         return words
     except FileNotFoundError:
@@ -33,6 +34,7 @@ args = parse_argument(parser)
 
 # Store argument
 script_path = os.path.dirname(os.path.realpath(__file__))
+script_path = os.path.join(script_path, 'SyntaxAutoFix/words/')
 words = load_language(args)
 for (correct, wrongs) in words.items():
     for wrong in wrongs:
