@@ -81,8 +81,8 @@
         "delal"
     ],
     "delle": [
-        "dele",
-        "delel"
+        "delel",
+        "dele"
     ],
     "difficile": [
         "difficiel"
@@ -94,8 +94,8 @@
         "dispaice"
     ],
     "diversi": [
-        "dibversi",
-        "diveris"
+        "diveris",
+        "dibversi"
     ],
     "donazione": [
         "donazioen"
@@ -129,8 +129,8 @@
         "givoed\u00ec"
     ],
     "giusto": [
-        "viusto",
-        "guisto"
+        "guisto",
+        "viusto"
     ],
     "il": [
         "lil"
@@ -145,9 +145,9 @@
         "inolter"
     ],
     "intanto": [
-        "intnaot",
         "intant",
-        "intnato"
+        "intnato",
+        "intnaot"
     ],
     "interessa": [
         "itneressa",
@@ -160,15 +160,15 @@
         "itneressati"
     ],
     "interfaccia": [
-        "interfaccai",
-        "itnerfaccia"
+        "itnerfaccia",
+        "interfaccai"
     ],
     "internet": [
         "itnernet"
     ],
     "invece": [
-        "ivnece",
-        "invce"
+        "invce",
+        "ivnece"
     ],
     "inventarci": [
         "ivnentarci"
@@ -211,10 +211,10 @@
         "mlti"
     ],
     "nella": [
-        "enlla",
-        "nlla",
         "nela",
-        "nelal"
+        "nelal",
+        "nlla",
+        "enlla"
     ],
     "niente": [
         "niete"
@@ -236,9 +236,9 @@
         "pagian"
     ],
     "parecchio": [
+        "aprecchio",
         "parechcio",
-        "parecciho",
-        "aprecchio"
+        "parecciho"
     ],
     "parliamo": [
         "parliamno"
@@ -252,9 +252,9 @@
         "apura"
     ],
     "per": [
-        "epr",
         "pe",
         "er",
+        "epr",
         "ppe"
     ],
     "persone": [
@@ -278,9 +278,9 @@
         "potremm"
     ],
     "prima": [
+        "prim",
         "priam",
-        "pri",
-        "prim"
+        "pri"
     ],
     "probabilmente": [
         "probabilmetne"
@@ -296,8 +296,8 @@
         "prosismo"
     ],
     "punto": [
-        "putno",
-        "punot"
+        "punot",
+        "putno"
     ],
     "quella": [
         "quelal"
@@ -353,8 +353,8 @@
         "serovno"
     ],
     "settimana": [
-        "settiman",
-        "settimna"
+        "settimna",
+        "settiman"
     ],
     "siccome": [
         "siccoem"
@@ -386,8 +386,8 @@
     ],
     "tanti": [
         "tnati",
-        "ntanti",
-        "tnait"
+        "tnait",
+        "ntanti"
     ],
     "telefonarmi": [
         "telefornarmi"
@@ -426,14 +426,14 @@
         "valutaizoni"
     ],
     "versione": [
+        "vrsione",
         "verisoen",
-        "versioen",
         "verisone",
-        "vrsione"
+        "versioen"
     ],
     "versioni": [
-        "versoni",
-        "verisoni"
+        "verisoni",
+        "versoni"
     ],
     "volete": [
         "voelte"
@@ -445,12 +445,12 @@
         "aveo"
     ],
     "descrizione": [
-        "descirizione",
-        "descirzione"
+        "descirzione",
+        "descirizione"
     ],
     "organizzazione": [
-        "orgnaizzaizone",
-        "orgnaizzazione"
+        "orgnaizzazione",
+        "orgnaizzaizone"
     ],
     "rispondere": [
         "rispodnere"
@@ -459,8 +459,8 @@
         "presnetino"
     ],
     "non": [
-        "nons",
-        "enon"
+        "enon",
+        "nons"
     ],
     "organizzare": [
         "orgnaizzare"
@@ -472,8 +472,8 @@
         "filmanre"
     ],
     "febbraio": [
-        "febraio",
-        "febbrai"
+        "febbrai",
+        "febraio"
     ],
     "contratto": [
         "cotnratto"
@@ -482,9 +482,9 @@
         "enerige"
     ],
     "hanno": [
-        "hann",
         "hannio",
-        "hano"
+        "hano",
+        "hann"
     ],
     "produzione": [
         "produzioen"
@@ -497,8 +497,8 @@
         "rpovo"
     ],
     "quando": [
-        "qaundo",
-        "qunado"
+        "qunado",
+        "qaundo"
     ],
     "compilare": [
         "compialre"
@@ -525,8 +525,8 @@
         "orgnaizzo"
     ],
     "segnalato": [
-        "segnalto",
-        "segnalat"
+        "segnalat",
+        "segnalto"
     ],
     "organizza": [
         "orgnaizza"
@@ -541,8 +541,8 @@
         "vorrano"
     ],
     "qualche": [
-        "qualce",
-        "qualhce"
+        "qualhce",
+        "qualce"
     ],
     "apparire": [
         "apprire"
@@ -666,8 +666,8 @@
         "saper"
     ],
     "automatico": [
-        "autoamtico",
-        "autamatico"
+        "autamatico",
+        "autoamtico"
     ],
     "averlo": [
         "vaerlo"
@@ -802,8 +802,8 @@
         "dieri"
     ],
     "revisionare": [
-        "revisonare",
-        "revisioanre"
+        "revisioanre",
+        "revisonare"
     ],
     "lavoro": [
         "alvoro"
@@ -956,8 +956,8 @@
     ],
     "anche": [
         "nahce",
-        "anceh",
-        "anhce"
+        "anhce",
+        "anceh"
     ],
     "enigmistica": [
         "engmistica"
@@ -1060,7 +1060,7 @@
         "sceglo"
     ],
     "scusa": [
-        "scisa"
+        "scsua"
     ],
     "imbarazzante": [
         "imabarazzante"
@@ -1231,8 +1231,8 @@
         "avevao"
     ],
     "letto": [
-        "eltto",
-        "leto"
+        "leto",
+        "eltto"
     ],
     "relazione": [
         "realzione"
@@ -1292,7 +1292,7 @@
         "capisconmo"
     ],
     "piattaforma": [
-        "piataforma"
+        "piatatforma"
     ],
     "pulizia": [
         "puzlia"
@@ -1497,5 +1497,233 @@
     ],
     "accesso": [
         "acecsso"
+    ],
+    "addirittura": [
+        "addirittuera"
+    ],
+    "riusciti": [
+        "riusxciti"
+    ],
+    "abilitati": [
+        "abiltiati"
+    ],
+    "poste": [
+        "spote"
+    ],
+    "leggermente": [
+        "leggereemnte"
+    ],
+    "installare": [
+        "instalalre"
+    ],
+    "aperte": [
+        "paerte"
+    ],
+    "problema": [
+        "rpoblema"
+    ],
+    "accettavo": [
+        "accetavo"
+    ],
+    "con": [
+        "ocn"
+    ],
+    "direttamente": [
+        "direttametne"
+    ],
+    "azienda": [
+        "azineda"
+    ],
+    "scrivilo": [
+        "scrivlo"
+    ],
+    "permetterebbe": [
+        "pemretterebbe"
+    ],
+    "trasferimento": [
+        "tasferimento"
+    ],
+    "dettagli": [
+        "detagli"
+    ],
+    "avete": [
+        "avede"
+    ],
+    "eliminare": [
+        "eliniare"
+    ],
+    "poteva": [
+        "ptoeva"
+    ],
+    "immagini": [
+        "imamgini"
+    ],
+    "fretta": [
+        "freta"
+    ],
+    "proposte": [
+        "porposte"
+    ],
+    "risultati": [
+        "irsultati"
+    ],
+    "innestate": [
+        "inestate"
+    ],
+    "presentazione": [
+        "presentaizone"
+    ],
+    "finestra": [
+        "finiestra"
+    ],
+    "integrerei": [
+        "itnegrerei"
+    ],
+    "decisamente": [
+        "decisametne"
+    ],
+    "controllare": [
+        "controlalre"
+    ],
+    "spiego": [
+        "psiego"
+    ],
+    "necessario": [
+        "encessario"
+    ],
+    "rilasciano": [
+        "rialsciano"
+    ],
+    "domande": [
+        "domaned"
+    ],
+    "aggreghiamo": [
+        "agreghiamo"
+    ],
+    "migliorare": [
+        "mgiliraore"
+    ],
+    "implementazioni": [
+        "implementaizoni"
+    ],
+    "recentemente": [
+        "recenetemente"
+    ],
+    "mette": [
+        "emtte"
+    ],
+    "richiedere": [
+        "richeide"
+    ],
+    "confermato": [
+        "conferamto"
+    ],
+    "partiva": [
+        "parrtiva"
+    ],
+    "aspettando": [
+        "apsettando"
+    ],
+    "rogne": [
+        "rogni"
+    ],
+    "girato": [
+        "giraot"
+    ],
+    "riusciamo": [
+        "riousciamo"
+    ],
+    "impegni": [
+        "impgni"
+    ],
+    "aggiorno": [
+        "agiorno"
+    ],
+    "proposito": [
+        "propostio"
+    ],
+    "organizzativi": [
+        "orgnaizzativi"
+    ],
+    "modulo": [
+        "moudlo"
+    ],
+    "taglie": [
+        "tagle"
+    ],
+    "funzionare": [
+        "funzioanre"
+    ],
+    "operativo": [
+        "oeprativo"
+    ],
+    "libreria": [
+        "lbireria"
+    ],
+    "allineate": [
+        "allienate"
+    ],
+    "leggendo": [
+        "elggendo"
+    ],
+    "nascosta": [
+        "nasconsta"
+    ],
+    "riusarlo": [
+        "risuarlo"
+    ],
+    "attrezzi": [
+        "atrezi"
+    ],
+    "immaginato": [
+        "imamginato"
+    ],
+    "sicuramente": [
+        "sicuramte"
+    ],
+    "mandare": [
+        "madnare"
+    ],
+    "allineamento": [
+        "allineameto"
+    ],
+    "cazzi": [
+        "caziz"
+    ],
+    "vedrei": [
+        "vederi"
+    ],
+    "scherziamo": [
+        "scherizmao"
+    ],
+    "scartoffie": [
+        "scartoeffie"
+    ],
+    "estratte": [
+        "etsratte"
+    ],
+    "portale": [
+        "protale"
+    ],
+    "inutile": [
+        "intuile"
+    ],
+    "forse": [
+        "frose"
+    ],
+    "potete": [
+        "ptoete"
+    ],
+    "prossimamente": [
+        "prosimamente"
+    ],
+    "diventato": [
+        "dievntato"
+    ],
+    "spostare": [
+        "spsotare"
+    ],
+    "parlare": [
+        "prlare"
     ]
 }
