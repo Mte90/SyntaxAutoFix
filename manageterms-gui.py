@@ -44,7 +44,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         lang_path = self.script_path + lang + '.json'
         typo_data = open_typo_file(lang_path)
         if right in typo_data:
-            typo_data[right][typo_data.length].append(wrong)
+            typo_data[right].append(wrong)
         else:
             typo_data[right] = [wrong]
         save_typo_data(lang_path, typo_data)
