@@ -259,6 +259,9 @@
     "capito": [
         "capto"
     ],
+    "cappellata": [
+        "cappellatta"
+    ],
     "caricamento": [
         "caricmento"
     ],
@@ -349,6 +352,9 @@
     "comporta": [
         "comprta"
     ],
+    "comportamento": [
+        "comprotamento"
+    ],
     "comportarmi": [
         "comprotarmi"
     ],
@@ -372,7 +378,8 @@
     ],
     "comunque": [
         "counque",
-        "comunqwue"
+        "comunqwue",
+        "comuqne"
     ],
     "con": [
         "ocn"
@@ -453,6 +460,9 @@
     ],
     "creazione": [
         "creazioen"
+    ],
+    "decentemente": [
+        "decentemnte"
     ],
     "decisamente": [
         "decisametne"
@@ -724,6 +734,9 @@
     "gloria": [
         "glora"
     ],
+    "gomma": [
+        "gomam"
+    ],
     "grazie": [
         "graize"
     ],
@@ -782,6 +795,9 @@
     ],
     "incentivi": [
         "incetivi"
+    ],
+    "indirizzo": [
+        "idirizzo"
     ],
     "inevitabilmente": [
         "inveitabilmente"
@@ -1008,6 +1024,9 @@
     "mobile": [
         "modile"
     ],
+    "modifiche": [
+        "mdofiche"
+    ],
     "modulo": [
         "moudlo"
     ],
@@ -1061,6 +1080,9 @@
     "nostro": [
         "nostor",
         "nsotro"
+    ],
+    "notare": [
+        "ntoare"
     ],
     "nuova": [
         "nuvoa"
@@ -1251,6 +1273,9 @@
     ],
     "perso": [
         "eprso"
+    ],
+    "persona": [
+        "persoan"
     ],
     "personale": [
         "eprsonale"
@@ -1587,6 +1612,9 @@
     "riorganizzare": [
         "riorgnaizzare"
     ],
+    "riparte": [
+        "riprte"
+    ],
     "risolvere": [
         "risovlere"
     ],
@@ -1680,8 +1708,14 @@
     "sconsigliata": [
         "sconsiglaita"
     ],
+    "scoprire": [
+        "scroprire"
+    ],
     "scordato": [
         "scrodato"
+    ],
+    "scorte": [
+        "scrote"
     ],
     "scrivilo": [
         "scrivlo"
@@ -1719,7 +1753,8 @@
     ],
     "sempre": [
         "semrpe",
-        "sempee"
+        "sempee",
+        "smepre"
     ],
     "sentirci": [
         "senteirci"
@@ -1977,6 +2012,9 @@
     "versioni": [
         "verisoni",
         "versoni"
+    ],
+    "virgola": [
+        "verigola"
     ],
     "voglio": [
         "volio"

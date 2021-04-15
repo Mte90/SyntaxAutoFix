@@ -1,14 +1,18 @@
 #!/usr/bin/python3
 
 import sys
+import os
+import signal
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QTableWidget, QTableWidgetItem, QApplication
-from SyntaxAutoFix.utils import open_stats_file
+from utils import open_stats_file
 
 
 class MyTable(QTableWidget):
     def __init__(self, data, *args):
         QTableWidget.__init__(self, *args)
+        # When the software are closed on console the software are closed
+        signal.signal(signal.SIGINT, signal.SIG_DFL)
         self.data = data
         self.setmydata()
         self.resizeColumnsToContents()
@@ -27,7 +31,7 @@ class MyTable(QTableWidget):
 
 def main(args):
     app = QApplication(args)
-    stats_data = open_stats_file("stats.json")
+    stats_data = open_stats_file(os.path.dirname(sys.argv[0]) + "/stats.json")
     items = stats_data.items()
     words, counters = ('', '')
     if len(items) > 0:
