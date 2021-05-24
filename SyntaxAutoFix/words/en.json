@@ -2303,6 +2303,9 @@
     "bypass": [
         "byepass"
     ],
+    "cache": [
+        "cahce"
+    ],
     "cacophonous": [
         "cacaphonous"
     ],
@@ -4483,6 +4486,9 @@
     "eclipse": [
         "eclispe"
     ],
+    "ecommerce": [
+        "ecomemrce"
+    ],
     "economic": [
         "ecomonic"
     ],
@@ -4493,7 +4499,8 @@
         "esctasy"
     ],
     "edition": [
-        "edtion"
+        "edtion",
+        "eidtion"
     ],
     "editor": [
         "editior"
@@ -6981,6 +6988,9 @@
     ],
     "interesting": [
         "itneresting"
+    ],
+    "interface": [
+        "itnerface"
     ],
     "interfere": [
         "interfear"
@@ -10045,6 +10055,9 @@
     "rarely": [
         "rarley"
     ],
+    "rather": [
+        "ratehr"
+    ],
     "ratify": [
         "radify"
     ],
@@ -11186,7 +11199,8 @@
         "suduko"
     ],
     "software": [
-        "sofware"
+        "sofware",
+        "sfotware"
     ],
     "sold": [
         "sould"
@@ -12397,6 +12411,9 @@
     "thrust": [
         "thrusted"
     ],
+    "ticket": [
+        "tciket"
+    ],
     "time": [
         "tiem",
         "timne",
@@ -13318,7 +13335,8 @@
     ],
     "when": [
         "wehn",
-        "wen"
+        "wen",
+        "whne"
     ],
     "whereabouts": [
         "wherabouts"
@@ -13518,6 +13536,7 @@
         "yeild"
     ],
     "you": [
+        "yuo",
         "yuo"
     ],
     "you're": [
