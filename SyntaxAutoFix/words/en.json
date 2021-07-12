@@ -2236,6 +2236,7 @@
         "brung"
     ],
     "browser": [
+        "borwser",
         "borwser"
     ],
     "budget": [
@@ -4168,7 +4169,8 @@
         "discrepency"
     ],
     "discuss": [
-        "descuss"
+        "descuss",
+        "disucss"
     ],
     "discussion": [
         "dicussion"
@@ -8063,6 +8065,9 @@
     "moderately": [
         "moderatly"
     ],
+    "moderator": [
+        "mdoerator"
+    ],
     "modification": [
         "modifaction"
     ],
@@ -10446,6 +10451,9 @@
     "replicate": [
         "replciate"
     ],
+    "repo": [
+        "rpeo"
+    ],
     "reportedly": [
         "reportably"
     ],
@@ -10686,6 +10694,9 @@
     ],
     "ruler": [
         "ruller"
+    ],
+    "rules": [
+        "ruels"
     ],
     "rumor": [
         "rummor"
@@ -11046,6 +11057,9 @@
     ],
     "shoo-in": [
         "shoe-in"
+    ],
+    "shortcode": [
+        "shrtcode"
     ],
     "shot": [
         "shooted"
@@ -11903,6 +11917,9 @@
     "supremacy": [
         "supermacy"
     ],
+    "sure": [
+        "usre"
+    ],
     "surely": [
         "surley"
     ],
@@ -12412,7 +12429,8 @@
         "thrusted"
     ],
     "ticket": [
-        "tciket"
+        "tciket",
+        "tickcet"
     ],
     "time": [
         "tiem",
@@ -12649,6 +12667,9 @@
     ],
     "tumultuous": [
         "tumultous"
+    ],
+    "turned": [
+        "tunred"
     ],
     "turnkey": [
         "turnk"
@@ -13028,7 +13049,8 @@
     ],
     "various": [
         "varous",
-        "varois"
+        "varois",
+        "vaiours"
     ],
     "variously": [
         "variosly"

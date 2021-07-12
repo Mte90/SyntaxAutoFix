@@ -1,6 +1,7 @@
 # SyntaxAlert
-This script will track and automatically fix every word that you will type to the right words!  
-An easy solution to fix typos!
+Automatically fix every typo that you will type to the right words!  
+
+It uses a database that can be extended.
 
 Check the `words` folder for the languages available.
 
@@ -10,6 +11,8 @@ pip3 install keyboard
 pip3 install syntaxautofix
 ```
 For the UI is required PyQt5.
+
+Doesn't create conflicts with [Espanso](https://espanso.org/).
 
 ## How to use with Target Language(s)
 - For English only
@@ -26,7 +29,6 @@ syntaxautofix -words ./words/en.json -words2 ./words/it.json
 ```
 syntaxautofix -configini /path/config.ini
 ```
-
 
 ## Adding New Terms
 
