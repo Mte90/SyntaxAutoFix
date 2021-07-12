@@ -11,8 +11,21 @@ from configparser import ConfigParser
 import json
 
 script_path = os.path.dirname(os.path.realpath(__file__))
-config_parser = ConfigParser()
+def getHomePath():
+    user = os.getenv("SUDO_USER") or os.getenv("USER")
+    home = os.path.join(os.path.expanduser('~' + user), '.config/SyntaxAutoFix')
+    if not os.path.exists(home):
+        os.mkdir(home)
+    return home
 
+def getAssetPath(path):
+    home = getHomePath()
+    complete_path = os.path.join(home, path)
+    if not os.path.exists(complete_path):
+        complete_path = os.path.join(script_path, path)
+    return complete_path
+
+config_parser = ConfigParser()
 
 # Load words
 def loadWord(filename):
@@ -23,14 +36,14 @@ def loadWord(filename):
 
 # Parse argument
 parser = argparse.ArgumentParser(description='Scan your digited letter for wrong words and alert you!')
-parser.add_argument('-config', dest='configini', nargs='?', default=os.path.join(script_path, 'config.ini'), type=str)
-parser.add_argument('-words', dest='words_file', nargs='?', default=os.path.join(script_path, 'words/en.json'), type=str)
-parser.add_argument('-words2', dest='words_file2', nargs='?', default=os.path.join(script_path, 'words/it.json'), type=str)
+parser.add_argument('-config', dest='configini', nargs='?', default=getAssetPath('config.ini'), type=str)
+parser.add_argument('-words', dest='words_file', nargs='?', default=getAssetPath('words/en.json'), type=str)
+parser.add_argument('-words2', dest='words_file2', nargs='?', default=getAssetPath('words/it.json'), type=str)
 args = parser.parse_args()
 
 config_parser.read(args.configini)
 LIST_OF_FILES = json.loads(config_parser.get('DEFAULT', 'words_file'))
-WORDS_FILE_DEFAULT_LOCATION = [os.path.join(script_path, file_path) for file_path in LIST_OF_FILES]
+WORDS_FILE_DEFAULT_LOCATION = [getAssetPath(file_path) for file_path in LIST_OF_FILES]
 
 # it holds the files name passed and the stat os file
 files = {}
@@ -43,7 +56,8 @@ def mispell_callback():
         list_splitted = recorded_words_list[0].split()
         if len(list_splitted) > 0:
             wrong_word = list_splitted[-1]
-            save_stats_file(os.path.join(script_path, "stats.json"), wrong_word, 1)
+            print("Word '" + wrong_word + "' detected and tracked")
+            save_stats_file(os.path.join(getHomePath(), "stats.json"), wrong_word, 1)
     keyboard.start_recording()
 
 
@@ -70,7 +84,6 @@ def loadJSON():
     for (correct, wrongs) in words.items():
         for wrong in wrongs:
             if wrong != '':
-                print('Loaded ' + wrong + ' with as: ' + correct)
                 keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
                 keyboard.add_word_listener(wrong, mispell_callback)
 
