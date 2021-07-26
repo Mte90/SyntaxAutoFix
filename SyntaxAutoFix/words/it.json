@@ -397,7 +397,8 @@
     "come": [
         "comne",
         "cvome",
-        "coem"
+        "coem",
+        "ocme"
     ],
     "commentato": [
         "commetnato"
@@ -784,6 +785,9 @@
     "estratte": [
         "etsratte"
     ],
+    "euro": [
+        "uero"
+    ],
     "facciamo": [
         "faciamo"
     ],
@@ -804,6 +808,9 @@
     ],
     "fargli": [
         "faregli"
+    ],
+    "farla": [
+        "afrla"
     ],
     "fatemelo": [
         "ffatemelo"
@@ -922,6 +929,9 @@
     "gomma": [
         "gomam"
     ],
+    "gomme": [
+        "gomem"
+    ],
     "grazie": [
         "graize"
     ],
@@ -938,7 +948,8 @@
         "hannio",
         "hann",
         "hano",
-        "hanon"
+        "hanon",
+        "hhan"
     ],
     "ignoranza": [
         "ignorazna"
@@ -1300,6 +1311,9 @@
     "molti": [
         "mlti"
     ],
+    "monumento": [
+        "monumenot"
+    ],
     "mostra": [
         "msotra"
     ],
@@ -1601,6 +1615,9 @@
     ],
     "persona": [
         "persoan"
+    ],
+    "personaggio": [
+        "persoanggio"
     ],
     "personale": [
         "eprsonale"
@@ -2014,6 +2031,7 @@
         "rispsoto"
     ],
     "risulta": [
+        "risutla",
         "risutla"
     ],
     "risultare": [
@@ -2050,7 +2068,8 @@
         "alvati"
     ],
     "sapere": [
-        "saper"
+        "saper",
+        "saepre"
     ],
     "sapevo": [
         "sapeo"
@@ -2066,6 +2085,9 @@
     ],
     "sbagliato": [
         "sbaglaito"
+    ],
+    "sbaglio": [
+        "sbalgio"
     ],
     "scaricare": [
         "scricare"
@@ -2163,6 +2185,7 @@
         "servioz"
     ],
     "servono": [
+        "serovno",
         "serovno"
     ],
     "settimana": [
@@ -2211,7 +2234,8 @@
         "solitasmente"
     ],
     "solito": [
-        "oslito"
+        "oslito",
+        "solto"
     ],
     "soltanto": [
         "soltaont"
@@ -2237,6 +2261,7 @@
         "spaventanto"
     ],
     "spazio": [
+        "spaizo",
         "spaizo"
     ],
     "sperimentare": [
@@ -2260,6 +2285,9 @@
     ],
     "spingere": [
         "spignere"
+    ],
+    "sporcare": [
+        "sprocare"
     ],
     "spostare": [
         "spsotare"
