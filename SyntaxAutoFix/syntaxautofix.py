@@ -25,7 +25,6 @@ def getAssetPath(path):
         complete_path = os.path.join(script_path, path)
     return complete_path
 
-config_parser = ConfigParser()
 
 # Load words
 def loadWord(filename):
@@ -41,9 +40,16 @@ parser.add_argument('-words', dest='words_file', nargs='?', default=getAssetPath
 parser.add_argument('-words2', dest='words_file2', nargs='?', default=getAssetPath('words/it.json'), type=str)
 args = parser.parse_args()
 
-config_parser.read(args.configini)
-LIST_OF_FILES = json.loads(config_parser.get('DEFAULT', 'words_file'))
-WORDS_FILE_DEFAULT_LOCATION = [getAssetPath(file_path) for file_path in LIST_OF_FILES]
+try:
+    config_parser = ConfigParser()
+    config_parser.read(args.configini)
+    LIST_OF_FILES = json.loads(config_parser.get('DEFAULT', 'words_file'))
+    if args.words_file != LIST_OF_FILES[0]:
+        args.words_file = LIST_OF_FILES[0]
+    if args.words_file2 != LIST_OF_FILES[1]:
+        args.words_file2 = LIST_OF_FILES[1]
+except:
+    pass
 
 # it holds the files name passed and the stat os file
 files = {}
