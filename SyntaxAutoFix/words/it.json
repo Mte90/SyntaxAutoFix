@@ -147,6 +147,12 @@
     "andato": [
         "adnato"
     ],
+    "andrebbero": [
+        "andrebero"
+    ],
+    "animazioni": [
+        "animaizoni"
+    ],
     "aperte": [
         "paerte"
     ],
@@ -189,6 +195,9 @@
     ],
     "associazioni": [
         "asociazioni"
+    ],
+    "attesa": [
+        "atesa"
     ],
     "attimo": [
         "attim"
@@ -339,6 +348,9 @@
         "ceh",
         "hce"
     ],
+    "chi": [
+        "hci"
+    ],
     "chiamiamo": [
         "hciamiamo"
     ],
@@ -359,7 +371,8 @@
         "chidere"
     ],
     "chiederti": [
-        "chiererti"
+        "chiererti",
+        "chiderti"
     ],
     "chieder\u00f2": [
         "cheider\u00f2"
@@ -485,7 +498,8 @@
     ],
     "configurazione": [
         "configurazioen",
-        "configuarazione"
+        "configuarazione",
+        "condigurazione"
     ],
     "conosce": [
         "consoce"
@@ -535,6 +549,9 @@
     ],
     "continuare": [
         "continaure"
+    ],
+    "contrappone": [
+        "conrappone"
     ],
     "contratto": [
         "cotnratto"
@@ -622,6 +639,9 @@
     ],
     "digitalizzare": [
         "digitalizare"
+    ],
+    "dimenticato": [
+        "dimetnicato"
     ],
     "dimentichiamo": [
         "dimenticiamo"
@@ -724,11 +744,17 @@
     "due": [
         "deu"
     ],
+    "duplicati": [
+        "duplciati"
+    ],
     "durante": [
         "durnte"
     ],
     "ebbe": [
         "ebe"
+    ],
+    "efffetto": [
+        "effeto"
     ],
     "elettronica": [
         "eletronica"
@@ -741,6 +767,9 @@
     ],
     "enigmistica": [
         "engmistica"
+    ],
+    "entrambe": [
+        "netrambe"
     ],
     "entrare": [
         "netrare"
@@ -818,6 +847,9 @@
     "fatti": [
         "faftti"
     ],
+    "fattibili": [
+        "fattibli"
+    ],
     "fatto": [
         "fatot"
     ],
@@ -888,6 +920,9 @@
     ],
     "funzionare": [
         "funzioanre"
+    ],
+    "funzionavano": [
+        "funzioanvano"
     ],
     "funzione": [
         "fuznione"
@@ -979,6 +1014,9 @@
     "impara": [
         "imapra"
     ],
+    "imparare": [
+        "imaprare"
+    ],
     "impegni": [
         "impgni"
     ],
@@ -1007,6 +1045,9 @@
     "incentivi": [
         "incetivi"
     ],
+    "incredibile": [
+        "incerdibile"
+    ],
     "indirizzo": [
         "idirizzo"
     ],
@@ -1030,6 +1071,9 @@
     ],
     "innestate": [
         "inestate"
+    ],
+    "inniettata": [
+        "inietata"
     ],
     "inoltre": [
         "inolter"
@@ -1212,6 +1256,9 @@
     "maggiore": [
         "amggiore"
     ],
+    "maggiori": [
+        "magigori"
+    ],
     "magliette": [
         "magleitte"
     ],
@@ -1233,6 +1280,9 @@
     ],
     "mandato": [
         "manato"
+    ],
+    "mando": [
+        "amndo"
     ],
     "mangiare": [
         "mangaire"
@@ -1289,6 +1339,9 @@
     ],
     "migliorata": [
         "migliroata"
+    ],
+    "migliori": [
+        "milgiori"
     ],
     "minacciarci": [
         "miancciarci"
@@ -1424,7 +1477,8 @@
         "orgniazzarci"
     ],
     "organizzare": [
-        "orgnaizzare"
+        "orgnaizzare",
+        "roganizzare"
     ],
     "organizzarle": [
         "orgnaizzarle"
@@ -1599,7 +1653,8 @@
         "pe",
         "er",
         "epr",
-        "ppe"
+        "ppe",
+        "epr"
     ],
     "perdere": [
         "predere"
@@ -1644,6 +1699,9 @@
     ],
     "poi": [
         "ppoi"
+    ],
+    "porcherie": [
+        "procherie"
     ],
     "portale": [
         "protale"
@@ -1705,6 +1763,9 @@
     "prendere": [
         "predenre"
     ],
+    "prenotare": [
+        "prentoare"
+    ],
     "prescindere": [
         "prescidnere",
         "prescidenre"
@@ -1735,6 +1796,9 @@
     ],
     "problema": [
         "rpoblema"
+    ],
+    "prodotti": [
+        "prodoti"
     ],
     "prodotto": [
         "prodtto"
@@ -1939,7 +2003,8 @@
         "richeista"
     ],
     "richieste": [
-        "recheiste"
+        "recheiste",
+        "richeiste"
     ],
     "richiesto": [
         "richeisto"
@@ -2014,6 +2079,9 @@
     "risponde": [
         "riscponde",
         "rispodne"
+    ],
+    "rispondendo": [
+        "ripondendo"
     ],
     "rispondere": [
         "rispodnere"
@@ -2157,6 +2225,9 @@
     "segnato": [
         "sengato"
     ],
+    "semplice": [
+        "semplcie"
+    ],
     "semplificherebbe": [
         "semplifhcerebbe"
     ],
@@ -2203,6 +2274,9 @@
         "sicurametne",
         "sincerametne",
         "sicurametne"
+    ],
+    "significa": [
+        "siginifica"
     ],
     "significati": [
         "sginificati"
@@ -2433,6 +2507,7 @@
         "uan"
     ],
     "universitari": [
+        "unviersitari",
         "unviersitari"
     ],
     "universitaria": [
@@ -2466,6 +2541,7 @@
         "valutaizoni"
     ],
     "vecchio": [
+        "vechcio",
         "vechcio"
     ],
     "vediamo": [
@@ -2504,6 +2580,9 @@
     ],
     "voglio": [
         "volio"
+    ],
+    "volantino": [
+        "vloantino"
     ],
     "volesse": [
         "volese"

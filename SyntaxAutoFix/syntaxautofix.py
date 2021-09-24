@@ -49,7 +49,7 @@ try:
     if args.words_file2 != LIST_OF_FILES[1]:
         args.words_file2 = LIST_OF_FILES[1]
 except:
-    pass
+    print('Config empty')
 
 # it holds the files name passed and the stat os file
 files = {}
