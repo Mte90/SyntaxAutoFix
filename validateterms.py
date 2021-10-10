@@ -17,7 +17,7 @@ def load_language(_args_, script_path):
         words = open_typo_file(lang_path)
         return words
     except FileNotFoundError:
-        raise ValueError('Language ' + _args_.lang + ' actually not avalaible.')
+        raise ValueError(f"Language '{ _args_.lang}' is not available.")
 
 
 def term_is_typo_of_another_word(term, words):
@@ -41,7 +41,9 @@ def main():
     for (correct, wrongs) in words.items():
         for wrong in wrongs:
             if wrong == correct:
-                logging.info(f"ERR 2: The term '{correct}' is a typo of itself.")
+                logging.info(
+                    f"ERR 2: The term '{correct}' is a typo of itself."
+                )
                 continue
             if wrong:
                 term_is_typo_of_another_word(wrong, words)

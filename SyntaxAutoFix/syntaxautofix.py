@@ -20,17 +20,17 @@ logger = logging.getLogger("SyntaxAutoFix")
 script_path = os.path.dirname(os.path.realpath(__file__))
 
 
-def getHomePath():
-    user = os.getenv("SUDO_USER") or os.getenv("USER")
-    home = os.path.join(os.path.expanduser('~' + user), '.config/SyntaxAutoFix')
-    if not os.path.exists(home):
-        os.mkdir(home)
-    return home
+def getProjectPath():
+    home = os.getenv("HOME")
+    project_path = os.path.join(home, ".config/SyntaxAutoFix")
+    if not os.path.exists(project_path):
+        os.mkdir(project_path)
+    return project_path
 
 
 def getAssetPath(path):
-    home = getHomePath()
-    complete_path = os.path.join(home, path)
+    project_path = getProjectPath()
+    complete_path = os.path.join(project_path, path)
     if not os.path.exists(complete_path):
         complete_path = os.path.join(script_path, path)
     return complete_path
@@ -67,7 +67,7 @@ files = {}
 
 def get_wrong_word(recorded_words_list):
     if len(recorded_words_list) > 0:
-        list_splitted = recorded_words_list[0].split() #Get first element of the list
+        list_splitted = recorded_words_list[0].split()  # Get first element of the list
         if len(list_splitted) > 0:
             wrong_word = list_splitted[-1]
             return wrong_word
@@ -81,7 +81,7 @@ def mispell_callback():
     wrong_word = get_wrong_word(recorded_words_list)
     if wrong_word:
         logger.info(f"Word '{wrong_word}' detected and tracked")
-        save_stats_file(os.path.join(getHomePath(), "stats.json"), wrong_word, 1)
+        save_stats_file(os.path.join(getProjectPath(), "stats.json"), wrong_word, 1)
     keyboard.start_recording()
 
 
