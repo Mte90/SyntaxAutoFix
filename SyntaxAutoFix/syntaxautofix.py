@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import logging
 import keyboard
 import argparse
 import os.path
@@ -10,13 +11,22 @@ from SyntaxAutoFix.utils import save_stats_file
 from configparser import ConfigParser
 import json
 
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(name)s %(levelname)-8s %(thread)d %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S")
+logger = logging.getLogger("SyntaxAutoFix")
 script_path = os.path.dirname(os.path.realpath(__file__))
+
+
 def getHomePath():
     user = os.getenv("SUDO_USER") or os.getenv("USER")
     home = os.path.join(os.path.expanduser('~' + user), '.config/SyntaxAutoFix')
     if not os.path.exists(home):
         os.mkdir(home)
     return home
+
 
 def getAssetPath(path):
     home = getHomePath()
@@ -49,32 +59,40 @@ try:
     if args.words_file2 != LIST_OF_FILES[1]:
         args.words_file2 = LIST_OF_FILES[1]
 except:
-    print('Config empty')
+    logger.error("Config empty")
 
 # it holds the files name passed and the stat os file
 files = {}
 
 
+def get_wrong_word(recorded_words_list):
+    if len(recorded_words_list) > 0:
+        list_splitted = recorded_words_list[0].split() #Get first element of the list
+        if len(list_splitted) > 0:
+            wrong_word = list_splitted[-1]
+            return wrong_word
+    return None
+
+
 def mispell_callback():
     recorded_words = keyboard.stop_recording()
     recorded_words_list = list(keyboard.get_typed_strings(recorded_words))
-    if len(recorded_words_list) > 0:
-        list_splitted = recorded_words_list[0].split()
-        if len(list_splitted) > 0:
-            wrong_word = list_splitted[-1]
-            print("Word '" + wrong_word + "' detected and tracked")
-            save_stats_file(os.path.join(getHomePath(), "stats.json"), wrong_word, 1)
+    logger.info(f"Captured list of words: {recorded_words_list}")
+    wrong_word = get_wrong_word(recorded_words_list)
+    if wrong_word:
+        logger.info(f"Word '{wrong_word}' detected and tracked")
+        save_stats_file(os.path.join(getHomePath(), "stats.json"), wrong_word, 1)
     keyboard.start_recording()
 
 
 def loadJSON():
     # Check the file and load it
-    if os.path.isfile(args.words_file) is False:
-        print('ERR: Words file not exist!')
+    if not os.path.isfile(args.words_file):
+        logger.error(f"Words file {args.words_file} not exist!")
         exit()
 
-    if args.words_file2 is not None:
-        if os.path.isfile(args.words_file2) is not False:
+    if args.words_file2:
+        if os.path.isfile(args.words_file2):
             words = open_typo_file(args.words_file)
             words2 = open_typo_file(args.words_file2)
             words.update(words2)
@@ -86,17 +104,17 @@ def loadJSON():
         # register the status of file in these moment
         files[args.words_file] = os.stat(args.words_file)
 
-    print(str(len(words)) + " words loaded")
-    for (correct, wrongs) in words.items():
-        for wrong in wrongs:
-            if wrong != '':
-                keyboard.add_abbreviation(wrong, ' ' + correct + ' ')
-                keyboard.add_word_listener(wrong, mispell_callback)
+    logger.info(f"{str(len(words))} words loaded")
+    for (correct_word, misspelled_words) in words.items():
+        for misspelled_word in misspelled_words:
+            if misspelled_word:
+                keyboard.add_abbreviation(misspelled_word, ' ' + correct_word + ' ')
+                keyboard.add_word_listener(misspelled_word, mispell_callback)
 
 
 # Clean the abbreviations from previous JSON and reloads new JSON
 def reload_JSON():
-    print("Reloading modified JSON!")
+    logger.info("Reloading modified JSON!")
     keyboard.unhook_all()
     loadJSON()
 
