@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import logging
 import os.path
 from SyntaxAutoFix.utils import open_typo_file
 
@@ -10,36 +11,43 @@ def parse_argument(_parser_):
     return args
 
 
-def load_language(_args_):
+def load_language(_args_, script_path):
     try:
         lang_path = script_path + _args_.lang + '.json'
         words = open_typo_file(lang_path)
         return words
     except FileNotFoundError:
-        raise ValueError('Language ' + _args_.lang + ' actually not avalaible.')
+        raise ValueError(f"Language '{ _args_.lang}' is not available.")
 
 
 def term_is_typo_of_another_word(term, words):
     for (correct, wrongs) in words.items():
         if correct == term:
-            print('ERR 1: The term ' + correct + ' is a typo of ' + term + '.')
+            logging.info(f"ERR 1: The term '{correct}' is a typo of '{term}'.")
         for wrong in wrongs:
-            if wrong == '':
-                print('ERR 3: The term ' + correct + ' has an empty typo.')
+            if not wrong:
+                logging.info(f"ERR 3: The term '{correct}' has an empty typo.")
 
 
-# Parse argument
-parser = argparse.ArgumentParser(description='validate terms!')
-args = parse_argument(parser)
+def main():
+    # Parse argument
+    parser = argparse.ArgumentParser(description='validate terms!')
+    args = parse_argument(parser)
 
-# Store argument
-script_path = os.path.dirname(os.path.realpath(__file__))
-script_path = os.path.join(script_path, 'SyntaxAutoFix/words/')
-words = load_language(args)
-for (correct, wrongs) in words.items():
-    for wrong in wrongs:
-        if wrong == correct:
-            print('ERR 2: The term ' + correct + ' his a typo of itself.')
-            continue
-        if wrong != '':
-            term_is_typo_of_another_word(wrong, words)
+    # Store argument
+    script_path = os.path.dirname(os.path.realpath(__file__))
+    script_path = os.path.join(script_path, 'SyntaxAutoFix/words/')
+    words = load_language(args, script_path)
+    for (correct, wrongs) in words.items():
+        for wrong in wrongs:
+            if wrong == correct:
+                logging.info(
+                    f"ERR 2: The term '{correct}' is a typo of itself."
+                )
+                continue
+            if wrong:
+                term_is_typo_of_another_word(wrong, words)
+
+
+if __name__ == "__main__":
+    main()
