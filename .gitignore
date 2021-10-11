@@ -131,4 +131,4 @@ pip-selfcheck.json
 
 
 # End of https://www.gitignore.io/api/python
-config.ini
+SyntaxAutoFix/config.ini

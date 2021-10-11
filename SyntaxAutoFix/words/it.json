@@ -1,7 +1,8 @@
 {
     "abbastanza": [
         "abastanza",
-        "ababstanza"
+        "ababstanza",
+        "abbstanza"
     ],
     "abbiamo": [
         "abbimoa",
@@ -80,6 +81,9 @@
     ],
     "aggreghiamo": [
         "agreghiamo"
+    ],
+    "aiutano": [
+        "aiutnao"
     ],
     "alcune": [
         "alcuen"
@@ -167,6 +171,9 @@
     ],
     "aprile": [
         "parile"
+    ],
+    "arrivano": [
+        "arivano"
     ],
     "arrivare": [
         "arivare"
@@ -271,6 +278,9 @@
     "bella": [
         "belal"
     ],
+    "bestemmiare": [
+        "bestemiare"
+    ],
     "bibliografia": [
         "bibligorafia"
     ],
@@ -334,6 +344,9 @@
     ],
     "categoria": [
         "categoira"
+    ],
+    "cavolo": [
+        "caovlo"
     ],
     "cazzi": [
         "caziz"
@@ -419,6 +432,9 @@
     "commento": [
         "commentio"
     ],
+    "compatibili": [
+        "comaptibili"
+    ],
     "compilare": [
         "compialre"
     ],
@@ -470,7 +486,9 @@
         "comunqwue",
         "comuqne",
         "comunqeu",
-        "comnuque"
+        "comnuque",
+        "conuque",
+        "comuqnue"
     ],
     "con": [
         "ocn"
@@ -821,7 +839,8 @@
         "faciamo"
     ],
     "faccio": [
-        "facco"
+        "facco",
+        "facico"
     ],
     "facemmo": [
         "facemo"
@@ -1180,7 +1199,8 @@
         "alscio"
     ],
     "lavorare": [
-        "lavrare"
+        "lavrare",
+        "alvorare"
     ],
     "lavorato": [
         "lavroato"
@@ -1268,6 +1288,9 @@
     "mancano": [
         "amcano"
     ],
+    "mancanza": [
+        "mancaza"
+    ],
     "manda": [
         "amnda"
     ],
@@ -1308,6 +1331,9 @@
     "meglio": [
         "megli",
         "melgio"
+    ],
+    "mercato": [
+        "emrcato"
     ],
     "mese": [
         "emse"
@@ -1541,6 +1567,9 @@
         "ovviametne",
         "ovviametne"
     ],
+    "paese": [
+        "apese"
+    ],
     "pagina": [
         "pagian",
         "pagia"
@@ -1682,6 +1711,7 @@
         "persoen"
     ],
     "piace": [
+        "paice",
         "paice"
     ],
     "piacere": [
@@ -1759,6 +1789,9 @@
     ],
     "poveraccio": [
         "poveracco"
+    ],
+    "praticamente": [
+        "praticametne"
     ],
     "prendere": [
         "predenre"
@@ -2084,7 +2117,8 @@
         "ripondendo"
     ],
     "rispondere": [
-        "rispodnere"
+        "rispodnere",
+        "rspiondre"
     ],
     "rispondono": [
         "rispondno"
@@ -2103,7 +2137,8 @@
         "risutlare"
     ],
     "risultati": [
-        "irsultati"
+        "irsultati",
+        "rislutati"
     ],
     "riunione": [
         "riunioone"
@@ -2423,7 +2458,8 @@
         "telefornarmi"
     ],
     "telefono": [
-        "telfeono"
+        "telfeono",
+        "telfono"
     ],
     "tema": [
         "ltema"
@@ -2553,6 +2589,9 @@
     "vendiamo": [
         "nvediamo"
     ],
+    "verrebbe": [
+        "verrebe"
+    ],
     "versione": [
         "verisoen",
         "verisone",
@@ -2565,6 +2604,9 @@
     "versioni": [
         "verisoni",
         "versoni"
+    ],
+    "vicesindaco": [
+        "vicensidanco"
     ],
     "vincere": [
         "vicnere"
@@ -2597,12 +2639,16 @@
         "votla"
     ],
     "vorranno": [
-        "vorrano"
+        "vorrano",
+        "vrrano"
     ],
     "vorrei": [
         "voreri"
     ],
     "vostro": [
         "vostor"
+    ],
+    "vulnerabile": [
+        "vulenrabile"
     ]
 }
