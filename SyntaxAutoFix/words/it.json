@@ -191,6 +191,9 @@
     "aspettando": [
         "apsettando"
     ],
+    "aspettare": [
+        "apsettare"
+    ],
     "aspettavo": [
         "aspetavo"
     ],
@@ -285,7 +288,8 @@
         "bibligorafia"
     ],
     "bisogna": [
-        "bisgoan"
+        "bisgoan",
+        "bisgona"
     ],
     "bisogno": [
         "bisgono"
@@ -319,7 +323,8 @@
         "cpaire"
     ],
     "capisce": [
-        "capise"
+        "capise",
+        "cpisce"
     ],
     "capiscono": [
         "capisconmo"
@@ -394,7 +399,8 @@
         "cheidete"
     ],
     "chiesto": [
-        "hicesto"
+        "hicesto",
+        "chisto"
     ],
     "cifra": [
         "cfira"
@@ -1148,7 +1154,8 @@
         "itneressanti"
     ],
     "interessata": [
-        "itneressata"
+        "itneressata",
+        "interesata"
     ],
     "interessati": [
         "itneressati"
@@ -1329,6 +1336,9 @@
     "manualmente": [
         "manualemten"
     ],
+    "marchio": [
+        "marhcio"
+    ],
     "materiale": [
         "amteriale"
     ],
@@ -1461,6 +1471,9 @@
     "notare": [
         "ntoare"
     ],
+    "notifica": [
+        "motifica"
+    ],
     "nuova": [
         "nuvoa"
     ],
@@ -1591,7 +1604,8 @@
         "aprametri "
     ],
     "parametro": [
-        "aprametro"
+        "aprametro",
+        "apramentro"
     ],
     "parecchia": [
         "aprecchia"
@@ -1930,6 +1944,9 @@
         "putno",
         "punot"
     ],
+    "purchase": [
+        "pruchase"
+    ],
     "qualche": [
         "qualce",
         "qualhce",
@@ -1956,7 +1973,8 @@
     ],
     "quello": [
         "uqello",
-        "uqello"
+        "uqello",
+        "quelo"
     ],
     "questa": [
         "uqesta"
@@ -1978,7 +1996,8 @@
     "questo": [
         "uesto",
         "qeusto",
-        "quesot"
+        "quesot",
+        "queto"
     ],
     "quindi": [
         "quinid"
@@ -2211,6 +2230,9 @@
     "scelgo": [
         "sceglo"
     ],
+    "scelta": [
+        "scleta"
+    ],
     "scheda": [
         "scehda"
     ],
@@ -2222,6 +2244,9 @@
     ],
     "scommetto": [
         "scommeto"
+    ],
+    "scomparsa": [
+        "scomaprsa"
     ],
     "sconsigliata": [
         "sconsiglaita"
@@ -2289,7 +2314,8 @@
         "senteirci"
     ],
     "senza": [
-        "sena"
+        "sena",
+        "sneza"
     ],
     "separati": [
         "spearati"
@@ -2420,6 +2446,9 @@
     "stampare": [
         "stmapare"
     ],
+    "stazione": [
+        "staizone"
+    ],
     "stessa": [
         "tessa"
     ],
@@ -2546,6 +2575,9 @@
     "tutti": [
         "tutit"
     ],
+    "tutto": [
+        "tuto"
+    ],
     "uguali": [
         "ugiali"
     ],
@@ -2589,6 +2621,9 @@
     "validazione": [
         "validazioen"
     ],
+    "valutare": [
+        "valtuare"
+    ],
     "valutazioni": [
         "valutaizoni",
         "valutaizoni"
@@ -2608,6 +2643,9 @@
     ],
     "vendiamo": [
         "nvediamo"
+    ],
+    "veramente": [
+        "verametne"
     ],
     "verranno": [
         "verrano"

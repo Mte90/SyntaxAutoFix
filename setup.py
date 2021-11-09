@@ -12,7 +12,7 @@ setup(
     install_requires=[
           'keyboard',
       ],
-    version="2.5.0",
+    version="2.5.1",
     description="Autofix your typos on Linux easily!",
     long_description=long_descr,
     long_description_content_type='text/markdown',
