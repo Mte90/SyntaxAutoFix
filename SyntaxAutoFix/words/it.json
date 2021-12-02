@@ -29,6 +29,9 @@
     "accontenta": [
         "acontenta"
     ],
+    "accontertarti": [
+        "acocntentarti"
+    ],
     "accorpiamo": [
         "accopriamo"
     ],
@@ -65,6 +68,7 @@
         "aggiudato"
     ],
     "aggiungere": [
+        "aggiugnere",
         "aggiugnere"
     ],
     "aggiungerne": [
@@ -137,6 +141,9 @@
     "amministrativa": [
         "amminsitrativa"
     ],
+    "analizzati": [
+        "nalizzati"
+    ],
     "anche": [
         "anceh",
         "nahce",
@@ -178,8 +185,14 @@
     "arrivare": [
         "arivare"
     ],
+    "arrivati": [
+        "arivati"
+    ],
     "arriveremo": [
         "ariveremo"
+    ],
+    "arruginito": [
+        "arruginto"
     ],
     "articoli": [
         "artiocli",
@@ -266,6 +279,9 @@
     "azione": [
         "aziine"
     ],
+    "balle": [
+        "balel"
+    ],
     "barbara": [
         "barabra"
     ],
@@ -273,7 +289,8 @@
         "bassisima"
     ],
     "basta": [
-        "bsta"
+        "bsta",
+        "basat"
     ],
     "battaglia": [
         "bataglia"
@@ -468,6 +485,9 @@
     "comportarmi": [
         "comprotarmi"
     ],
+    "compra": [
+        "compa"
+    ],
     "comprare": [
         "comrapre"
     ],
@@ -494,7 +514,8 @@
         "comunqeu",
         "comnuque",
         "conuque",
-        "comuqnue"
+        "comuqnue",
+        "comuinque"
     ],
     "con": [
         "ocn"
@@ -598,6 +619,9 @@
     "copia": [
         "copai"
     ],
+    "correggeva": [
+        "corregeva"
+    ],
     "corretti": [
         "coretti"
     ],
@@ -631,6 +655,9 @@
     "declinare": [
         "declianre"
     ],
+    "definitiva": [
+        "definitva"
+    ],
     "del": [
         "dle"
     ],
@@ -640,6 +667,9 @@
     "delle": [
         "dele",
         "delel"
+    ],
+    "deposito": [
+        "despoito"
     ],
     "depresse": [
         "deprese"
@@ -704,6 +734,7 @@
     "direttamente": [
         "direttametne",
         "direttametne",
+        "direttametne",
         "direttametne"
     ],
     "dirglielo": [
@@ -763,7 +794,8 @@
         "doveo"
     ],
     "dovrebbe": [
-        "dorvebbe"
+        "dorvebbe",
+        "dovrebe"
     ],
     "dovrebbero": [
         "dovrebero"
@@ -844,6 +876,9 @@
     "estratte": [
         "etsratte"
     ],
+    "estratto": [
+        "estrato"
+    ],
     "euro": [
         "uero"
     ],
@@ -866,6 +901,10 @@
     "fanno": [
         "fano"
     ],
+    "fare": [
+        "fafre",
+        "frare"
+    ],
     "fargli": [
         "faregli"
     ],
@@ -882,7 +921,8 @@
         "fattibli"
     ],
     "fatto": [
-        "fatot"
+        "fatot",
+        "aftto"
     ],
     "febbraio": [
         "febraio",
@@ -947,6 +987,9 @@
     "frontiere": [
         "frotneiere"
     ],
+    "funziona": [
+        "funizona"
+    ],
     "funzionante": [
         "funzionate"
     ],
@@ -981,7 +1024,8 @@
         "giraot"
     ],
     "giustamente": [
-        "giuistamente"
+        "giuistamente",
+        "gisutamente"
     ],
     "giusto": [
         "viusto",
@@ -998,6 +1042,9 @@
     ],
     "gomme": [
         "gomem"
+    ],
+    "grado": [
+        "grao"
     ],
     "grazie": [
         "graize"
@@ -1086,6 +1133,9 @@
     "inevitabilmente": [
         "inveitabilmente"
     ],
+    "influire": [
+        "influre"
+    ],
     "influisce": [
         "influsice"
     ],
@@ -1136,6 +1186,9 @@
     "integrerei": [
         "itnegrerei"
     ],
+    "intelligente": [
+        "inteliggente"
+    ],
     "intendi": [
         "itendi"
     ],
@@ -1184,6 +1237,7 @@
     ],
     "invece": [
         "ivnece",
+        "invce",
         "invce"
     ],
     "inventano": [
@@ -1207,7 +1261,8 @@
     ],
     "lasciato": [
         "alsciato",
-        "lsciato"
+        "lsciato",
+        "laciato"
     ],
     "lascio": [
         "alscio"
@@ -1224,6 +1279,9 @@
     ],
     "le ho detto": [
         "gli ho detto"
+    ],
+    "legale": [
+        "lgale"
     ],
     "leggendo": [
         "elggendo",
@@ -1336,8 +1394,12 @@
     "manualmente": [
         "manualemten"
     ],
+    "manutenzione": [
+        "amnutenzione"
+    ],
     "marchio": [
-        "marhcio"
+        "marhcio",
+        "amrchio"
     ],
     "materiale": [
         "amteriale"
@@ -1357,6 +1419,9 @@
     ],
     "messaggio": [
         "emssaggio"
+    ],
+    "metodi": [
+        "meotdi"
     ],
     "mette": [
         "emtte"
@@ -1386,11 +1451,17 @@
     "migliori": [
         "milgiori"
     ],
+    "milione": [
+        "miliome"
+    ],
     "minacciarci": [
         "miancciarci"
     ],
     "minaccio": [
         "mianccio"
+    ],
+    "minuti": [
+        "mnuti"
     ],
     "mobile": [
         "modile"
@@ -1484,6 +1555,9 @@
     "oblique": [
         "olbique"
     ],
+    "oggetto": [
+        "oggeto"
+    ],
     "ogni": [
         "goni"
     ],
@@ -1496,6 +1570,9 @@
     "operativo": [
         "oeprativo"
     ],
+    "opposed": [
+        "opppsed"
+    ],
     "oppure": [
         "opure"
     ],
@@ -1506,9 +1583,11 @@
         "oaramai"
     ],
     "ordini": [
-        "rodini"
+        "rodini",
+        "oridni"
     ],
     "organizza": [
+        "orgnaizza",
         "orgnaizza"
     ],
     "organizzando": [
@@ -1538,6 +1617,9 @@
     "organizzarono": [
         "orgnaizzarono"
     ],
+    "organizzarsi": [
+        "orgnaizzarsi"
+    ],
     "organizzarvi": [
         "orgnaizzarvi",
         "organzzarvi"
@@ -1560,6 +1642,9 @@
     ],
     "organizzato": [
         "orgnaizzato"
+    ],
+    "organizzavate": [
+        "organizzvate"
     ],
     "organizzazione": [
         "orgnaizzazione",
@@ -1588,6 +1673,7 @@
     ],
     "ovviamente": [
         "ovviametne",
+        "ovviametne",
         "ovviametne"
     ],
     "paese": [
@@ -1595,6 +1681,7 @@
     ],
     "pagina": [
         "pagian",
+        "pagia",
         "pagia"
     ],
     "parallelamente": [
@@ -1702,6 +1789,9 @@
     "pensavamo": [
         "pesanvamo"
     ],
+    "pensiamoci": [
+        "pensaimoci"
+    ],
     "per": [
         "pe",
         "er",
@@ -1709,11 +1799,17 @@
         "ppe",
         "epr"
     ],
+    "perdendo": [
+        "perndendo"
+    ],
     "perdere": [
         "predere"
     ],
     "perfetto": [
         "perfeto"
+    ],
+    "periodo": [
+        "epriodo"
     ],
     "permetterebbe": [
         "pemretterebbe"
@@ -1730,6 +1826,9 @@
     "personale": [
         "eprsonale"
     ],
+    "personalizzazioni": [
+        "persoalizzazioni"
+    ],
     "persone": [
         "eprsone",
         "persoen"
@@ -1740,6 +1839,9 @@
     ],
     "piacere": [
         "paicere"
+    ],
+    "piaciuto": [
+        "piacuto"
     ],
     "piattaforma": [
         "piatatforma",
@@ -1754,6 +1856,9 @@
     "poi": [
         "ppoi"
     ],
+    "polemiche": [
+        "poelmiche"
+    ],
     "porcherie": [
         "procherie"
     ],
@@ -1765,6 +1870,9 @@
     ],
     "portatile": [
         "protatile"
+    ],
+    "portava": [
+        "protava"
     ],
     "possiamo": [
         "possimoa"
@@ -1873,6 +1981,9 @@
     "programma": [
         "programam"
     ],
+    "programmare": [
+        "programamre"
+    ],
     "programmatore": [
         "prgrammatore"
     ],
@@ -1938,7 +2049,8 @@
     ],
     "pulizia": [
         "puzlia",
-        "puliza"
+        "puliza",
+        "pulizzia"
     ],
     "punto": [
         "putno",
@@ -1963,6 +2075,9 @@
         "qaundo",
         "qunado"
     ],
+    "quanto": [
+        "quanot"
+    ],
     "quella": [
         "quelal",
         "ueqall",
@@ -1977,7 +2092,8 @@
         "quelo"
     ],
     "questa": [
-        "uqesta"
+        "uqesta",
+        "qeusta"
     ],
     "queste": [
         "uqeste"
@@ -2000,6 +2116,7 @@
         "queto"
     ],
     "quindi": [
+        "quinid",
         "quinid"
     ],
     "raccontarono": [
@@ -2037,6 +2154,9 @@
     ],
     "relazione": [
         "realzione"
+    ],
+    "responsabili": [
+        "reposnsabili"
     ],
     "revisionare": [
         "revisonare",
@@ -2082,6 +2202,9 @@
     ],
     "riesce": [
         "reisce"
+    ],
+    "rifacendo": [
+        "rifancedo"
     ],
     "rifornimento": [
         "riforinmenti"
@@ -2131,6 +2254,9 @@
     "ripetizione": [
         "rieptizioni"
     ],
+    "riportare": [
+        "riprotare"
+    ],
     "risolvere": [
         "risovlere"
     ],
@@ -2169,6 +2295,9 @@
         "irsultati",
         "rislutati"
     ],
+    "ritardo": [
+        "irtardo"
+    ],
     "riunione": [
         "riunioone"
     ],
@@ -2196,12 +2325,19 @@
     "salvati": [
         "alvati"
     ],
+    "sanitari": [
+        "santiari"
+    ],
     "sapere": [
         "saper",
-        "saepre"
+        "saepre",
+        "sapre"
     ],
     "sapevo": [
         "sapeo"
+    ],
+    "sapienza": [
+        "spaienza"
     ],
     "saprei": [
         "sapreo"
@@ -2217,6 +2353,12 @@
     ],
     "sbaglio": [
         "sbalgio"
+    ],
+    "sbattersi": [
+        "sbatersi"
+    ],
+    "scansionare": [
+        "scansioanre"
     ],
     "scaricare": [
         "scricare"
@@ -2320,6 +2462,9 @@
     "separati": [
         "spearati"
     ],
+    "servi": [
+        "srvi"
+    ],
     "servirebbe": [
         "servirebe"
     ],
@@ -2332,7 +2477,8 @@
     ],
     "settimana": [
         "settimna",
-        "settiman"
+        "settiman",
+        "setimana"
     ],
     "sfortunatamente": [
         "sfortunatamete"
@@ -2348,6 +2494,12 @@
         "sicurametne",
         "sincerametne",
         "sicurametne"
+    ],
+    "sicurezza": [
+        "iscurezza"
+    ],
+    "siete": [
+        "seiti"
     ],
     "significa": [
         "siginifica"
@@ -2420,7 +2572,8 @@
         "psiegato"
     ],
     "spiegazione": [
-        "speigazione"
+        "speigazione",
+        "spiegaizone"
     ],
     "spiegazioni": [
         "spiegaizoni"
@@ -2429,7 +2582,11 @@
         "psiego"
     ],
     "spingere": [
-        "spignere"
+        "spignere",
+        "spingre"
+    ],
+    "sponsorizzato": [
+        "sponsorizzatro"
     ],
     "sporcare": [
         "sprocare"
@@ -2444,7 +2601,11 @@
         "stamattian"
     ],
     "stampare": [
-        "stmapare"
+        "stmapare",
+        "stamapre"
+    ],
+    "stavo": [
+        "stavao"
     ],
     "stazione": [
         "staizone"
@@ -2468,6 +2629,7 @@
         "sufficente"
     ],
     "sufficienti": [
+        "sufficenti",
         "sufficenti"
     ],
     "sulla": [
@@ -2475,6 +2637,9 @@
     ],
     "sulle": [
         "sulel"
+    ],
+    "svenire": [
+        "svnire"
     ],
     "sviluppare": [
         "sivluppare"
@@ -2487,6 +2652,9 @@
     ],
     "taglie": [
         "tagle"
+    ],
+    "tante": [
+        "tnate"
     ],
     "tanti": [
         "tnait",
@@ -2521,6 +2689,9 @@
     "teoria": [
         "terosia"
     ],
+    "terapia": [
+        "tarpia"
+    ],
     "termini": [
         "temrini"
     ],
@@ -2528,7 +2699,8 @@
         "timoeut"
     ],
     "togliere": [
-        "togleire"
+        "togleire",
+        "toglire"
     ],
     "toglierei": [
         "toglerei",
@@ -2538,7 +2710,8 @@
         "toglono"
     ],
     "tornato": [
-        "trnato"
+        "trnato",
+        "toranto"
     ],
     "tracciamento": [
         "tracciamneto"
@@ -2568,6 +2741,9 @@
     ],
     "tuo": [
         "tup"
+    ],
+    "tutela": [
+        "tutetla"
     ],
     "tutte": [
         "tutet"
@@ -2618,6 +2794,9 @@
     "vacanze": [
         "vancaze"
     ],
+    "vado": [
+        "vaod"
+    ],
     "validazione": [
         "validazioen"
     ],
@@ -2635,6 +2814,9 @@
         "vechcio",
         "vechcio"
     ],
+    "vedere": [
+        "vedree"
+    ],
     "vediamo": [
         "vediam"
     ],
@@ -2646,6 +2828,9 @@
     ],
     "veramente": [
         "verametne"
+    ],
+    "verifica": [
+        "varifica"
     ],
     "verranno": [
         "verrano"
@@ -2660,7 +2845,8 @@
         "versioen",
         "vrsione",
         "vrsione",
-        "verisone"
+        "verisone",
+        "iversone"
     ],
     "versioni": [
         "verisoni",

@@ -1002,7 +1002,8 @@
         "addoptive"
     ],
     "advanced": [
-        "advacned"
+        "advacned",
+        "adnvaced"
     ],
     "advantageous": [
         "advantagous"
@@ -3016,6 +3017,9 @@
     "completion": [
         "competion"
     ],
+    "complicated": [
+        "complciated"
+    ],
     "comprehensive": [
         "comphrehensive"
     ],
@@ -3799,6 +3803,9 @@
     "delegate": [
         "delagate"
     ],
+    "delivery": [
+        "delivary"
+    ],
     "demeanor": [
         "demenor",
         "damenor"
@@ -4323,6 +4330,9 @@
     ],
     "document": [
         "doccument"
+    ],
+    "documentare": [
+        "documetnare"
     ],
     "documentary": [
         "documentry"
@@ -5492,6 +5502,9 @@
     ],
     "flurry": [
         "flury"
+    ],
+    "flush": [
+        "fulsh"
     ],
     "focus": [
         "focuse"
@@ -7043,6 +7056,9 @@
     "intermittent": [
         "intermittant"
     ],
+    "internal": [
+        "interal"
+    ],
     "internally": [
         "internaly"
     ],
@@ -7201,7 +7217,8 @@
         "ipsirato"
     ],
     "issue": [
-        "isse"
+        "isse",
+        "isuse"
     ],
     "it's": [
         "its's"
@@ -7214,6 +7231,9 @@
     ],
     "itself": [
         "itsself"
+    ],
+    "javascript": [
+        "javascirpt"
     ],
     "jeopardy": [
         "jeapardy"
@@ -7688,6 +7708,9 @@
     "maintain": [
         "mantain"
     ],
+    "maintainer": [
+        "mantainer"
+    ],
     "maintaining": [
         "maintaing"
     ],
@@ -7801,7 +7824,8 @@
         "maked"
     ],
     "marketing": [
-        "marketting"
+        "marketting",
+        "marjeting"
     ],
     "marketplace": [
         "marketpalce",
@@ -7947,6 +7971,9 @@
     ],
     "meteorology": [
         "metorology"
+    ],
+    "method": [
+        "mehtod"
     ],
     "metropolitan": [
         "metropolian"
@@ -8999,6 +9026,9 @@
     ],
     "partition": [
         "partion"
+    ],
+    "partnership": [
+        "parntership"
     ],
     "passable": [
         "possable"
@@ -10647,6 +10677,9 @@
     "reversible": [
         "reversable"
     ],
+    "review": [
+        "reivew"
+    ],
     "revolutionary": [
         "revolutionar"
     ],
@@ -11251,6 +11284,7 @@
     ],
     "software": [
         "sofware",
+        "sfotware",
         "sfotware"
     ],
     "sold": [
@@ -11412,6 +11446,9 @@
     ],
     "speechless": [
         "speachless"
+    ],
+    "speed": [
+        "sped"
     ],
     "spent": [
         "spended"
@@ -11745,6 +11782,9 @@
     ],
     "subscribe": [
         "suscribe"
+    ],
+    "subscription": [
+        "sbuscription"
     ],
     "subsequent": [
         "susequent"
@@ -12465,6 +12505,9 @@
     ],
     "thrust": [
         "thrusted"
+    ],
+    "thunderbird": [
+        "thudnerbird"
     ],
     "ticket": [
         "tciket",
@@ -13451,6 +13494,7 @@
         "whon"
     ],
     "widget": [
+        "wdiget",
         "wdiget"
     ],
     "wield": [
@@ -13503,7 +13547,8 @@
         "withing"
     ],
     "without": [
-        "witout"
+        "witout",
+        "wihout"
     ],
     "witness": [
         "wittness"
