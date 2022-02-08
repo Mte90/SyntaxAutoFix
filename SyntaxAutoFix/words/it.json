@@ -6,10 +6,14 @@
     ],
     "abbiamo": [
         "abbimoa",
+        "abbimo",
         "abbimo"
     ],
     "abilitati": [
         "abiltiati"
+    ],
+    "abilitato": [
+        "abiltiato"
     ],
     "abituata": [
         "abiutata"
@@ -17,14 +21,21 @@
     "abituato": [
         "abiutato"
     ],
+    "accede": [
+        "acede"
+    ],
     "accesso": [
-        "acecsso"
+        "acecsso",
+        "acesso"
     ],
     "accetta": [
         "acectta"
     ],
     "accettavo": [
         "accetavo"
+    ],
+    "accettazione": [
+        "accetazione"
     ],
     "accontenta": [
         "acontenta"
@@ -34,6 +45,9 @@
     ],
     "accorpiamo": [
         "accopriamo"
+    ],
+    "acquistabili": [
+        "acquistbili"
     ],
     "addirittura": [
         "addirittuera"
@@ -67,6 +81,9 @@
     "aggiudicato": [
         "aggiudato"
     ],
+    "aggiunge": [
+        "agiunge"
+    ],
     "aggiungere": [
         "aggiugnere",
         "aggiugnere"
@@ -75,7 +92,8 @@
         "aggiugnerne"
     ],
     "aggiungiamo": [
-        "aggiungiami"
+        "aggiungiami",
+        "aggiungiuamo"
     ],
     "aggiungono": [
         "agigungono"
@@ -113,8 +131,13 @@
     "allineati": [
         "allienati"
     ],
+    "allora": [
+        "alora"
+    ],
     "almeno": [
-        "lameno"
+        "lameno",
+        "almneo",
+        "almeo"
     ],
     "alternative": [
         "alterantive"
@@ -164,6 +187,9 @@
     "animazioni": [
         "animaizoni"
     ],
+    "antonio": [
+        "antono"
+    ],
     "aperte": [
         "paerte"
     ],
@@ -198,8 +224,14 @@
         "artiocli",
         "artiocli"
     ],
+    "ascensore": [
+        "ascnesore"
+    ],
     "ascolta": [
         "asoclta"
+    ],
+    "aspetta": [
+        "aspeta"
     ],
     "aspettando": [
         "apsettando"
@@ -218,6 +250,9 @@
     ],
     "associazioni": [
         "asociazioni"
+    ],
+    "assolutamente": [
+        "assolutametne"
     ],
     "attesa": [
         "atesa"
@@ -306,6 +341,7 @@
     ],
     "bisogna": [
         "bisgoan",
+        "bisgona",
         "bisgona"
     ],
     "bisogno": [
@@ -328,20 +364,28 @@
     ],
     "cambio": [
         "cabmio",
-        "cmabio"
+        "cmabio",
+        "acmbio"
     ],
     "campagna": [
         "campgna"
+    ],
+    "campagne": [
+        "camapgne"
     ],
     "cancellare": [
         "cancelalre"
     ],
     "capire": [
+        "cpaire",
         "cpaire"
     ],
     "capisce": [
         "capise",
         "cpisce"
+    ],
+    "capisco": [
+        "cpiasco"
     ],
     "capiscono": [
         "capisconmo"
@@ -386,6 +430,9 @@
     "chi": [
         "hci"
     ],
+    "chiamare": [
+        "chiarare"
+    ],
     "chiamiamo": [
         "hciamiamo"
     ],
@@ -415,15 +462,22 @@
     "chiedete": [
         "cheidete"
     ],
+    "chiediamo": [
+        "chiadiamo"
+    ],
     "chiesto": [
         "hicesto",
-        "chisto"
+        "chisto",
+        "cheisto"
     ],
     "cifra": [
         "cfira"
     ],
     "coinvolgere": [
         "coinvoglere"
+    ],
+    "collaborazioni": [
+        "collaborzioni"
     ],
     "collegare": [
         "colelgare"
@@ -459,6 +513,7 @@
         "comaptibili"
     ],
     "compilare": [
+        "compialre",
         "compialre"
     ],
     "compilarli": [
@@ -515,7 +570,9 @@
         "comnuque",
         "conuque",
         "comuqnue",
-        "comuinque"
+        "comuinque",
+        "comuhque",
+        "comnuque"
     ],
     "con": [
         "ocn"
@@ -529,6 +586,9 @@
     "condivisione": [
         "condivisioen"
     ],
+    "condizioni": [
+        "codnizioni"
+    ],
     "condotta": [
         "condatta"
     ],
@@ -541,10 +601,16 @@
     "configurarlo": [
         "confirugarlo"
     ],
+    "configurati": [
+        "connfigurati"
+    ],
     "configurazione": [
         "configurazioen",
         "configuarazione",
         "condigurazione"
+    ],
+    "confusione": [
+        "confusioen"
     ],
     "conosce": [
         "consoce"
@@ -587,7 +653,8 @@
         "cotnatt"
     ],
     "contattato": [
-        "contattaot"
+        "contattaot",
+        "concattato"
     ],
     "contemporanea": [
         "conemporanea"
@@ -602,6 +669,7 @@
         "conrappone"
     ],
     "contratto": [
+        "cotnratto",
         "cotnratto"
     ],
     "contributo": [
@@ -612,6 +680,9 @@
     ],
     "controllare": [
         "controlalre"
+    ],
+    "convincere": [
+        "convicnere"
     ],
     "coordinarsi": [
         "coordianrsi"
@@ -649,7 +720,11 @@
     "decentemente": [
         "decentemnte"
     ],
+    "decidere": [
+        "edcidere"
+    ],
     "decisamente": [
+        "decisametne",
         "decisametne"
     ],
     "declinare": [
@@ -735,6 +810,9 @@
         "direttametne",
         "direttametne",
         "direttametne",
+        "direttametne",
+        "direttametne",
+        "diretamente",
         "direttametne"
     ],
     "dirglielo": [
@@ -752,6 +830,9 @@
     ],
     "disposizione": [
         "dispozione"
+    ],
+    "distrazioni": [
+        "distraizoni"
     ],
     "diventato": [
         "dievntato",
@@ -779,6 +860,7 @@
         "doamnde"
     ],
     "domani": [
+        "doamni",
         "doamni"
     ],
     "dominio": [
@@ -818,6 +900,9 @@
     "efffetto": [
         "effeto"
     ],
+    "elaborazione": [
+        "elborazione"
+    ],
     "elettronica": [
         "eletronica"
     ],
@@ -848,6 +933,9 @@
     "errore": [
         "erroe"
     ],
+    "esattamente": [
+        "esattametne"
+    ],
     "esiste": [
         "essite"
     ],
@@ -873,6 +961,9 @@
     "esterni": [
         "esterini"
     ],
+    "estrae": [
+        "estrate"
+    ],
     "estratte": [
         "etsratte"
     ],
@@ -881,6 +972,9 @@
     ],
     "euro": [
         "uero"
+    ],
+    "eventuale": [
+        "envetuale"
     ],
     "facciamo": [
         "faciamo"
@@ -944,6 +1038,9 @@
     "filmare": [
         "filmanre"
     ],
+    "fine": [
+        "ifne"
+    ],
     "finestra": [
         "finiestra"
     ],
@@ -973,6 +1070,9 @@
     ],
     "fotocopiatrice": [
         "fotocopitraice"
+    ],
+    "frammentato": [
+        "frammetnato"
     ],
     "francesco": [
         "frnacesco"
@@ -1046,6 +1146,9 @@
     "grado": [
         "grao"
     ],
+    "gratuito": [
+        "gratutito"
+    ],
     "grazie": [
         "graize"
     ],
@@ -1068,6 +1171,9 @@
     "ignoranza": [
         "ignorazna"
     ],
+    "ignori": [
+        "ingori"
+    ],
     "il": [
         "lil"
     ],
@@ -1085,10 +1191,12 @@
     ],
     "immagini": [
         "imamgini",
-        "immaggini"
+        "immaggini",
+        "imamgini"
     ],
     "immagino": [
-        "immgaino"
+        "immgaino",
+        "imamgino"
     ],
     "impara": [
         "imapra"
@@ -1098,6 +1206,9 @@
     ],
     "impegni": [
         "impgni"
+    ],
+    "impianta": [
+        "impianata"
     ],
     "implementato": [
         "implmentato"
@@ -1124,6 +1235,9 @@
     "incentivi": [
         "incetivi"
     ],
+    "incompetenti": [
+        "incompetneti"
+    ],
     "incredibile": [
         "incerdibile"
     ],
@@ -1138,6 +1252,12 @@
     ],
     "influisce": [
         "influsice"
+    ],
+    "informarlo": [
+        "inofrmarlo"
+    ],
+    "informatica": [
+        "inforamtica"
     ],
     "informazioni": [
         "informaizoni"
@@ -1246,6 +1366,9 @@
     "inventarci": [
         "ivnentarci"
     ],
+    "inventarono": [
+        "invetarono"
+    ],
     "iscrizione": [
         "iscrizioen"
     ],
@@ -1254,6 +1377,9 @@
     ],
     "largo": [
         "alrgo"
+    ],
+    "lascialo": [
+        "lascalo"
     ],
     "lasciare": [
         "lascaire",
@@ -1267,6 +1393,9 @@
     "lascio": [
         "alscio"
     ],
+    "lavora": [
+        "alvora"
+    ],
     "lavorare": [
         "lavrare",
         "alvorare"
@@ -1275,6 +1404,7 @@
         "lavroato"
     ],
     "lavoro": [
+        "alvoro",
         "alvoro"
     ],
     "le ho detto": [
@@ -1288,7 +1418,9 @@
         "leggegndo"
     ],
     "leggermente": [
-        "leggereemnte"
+        "leggereemnte",
+        "leggeemrnte",
+        "legegremnte"
     ],
     "lentamente": [
         "lentamnete"
@@ -1332,6 +1464,9 @@
     "localizzazione": [
         "localizzaizione"
     ],
+    "locazione": [
+        "localzione"
+    ],
     "macchina": [
         "amcchina",
         "machcina"
@@ -1344,6 +1479,9 @@
     ],
     "magari": [
         "mfgari"
+    ],
+    "magazzino": [
+        "amgazzino"
     ],
     "maggiore": [
         "amggiore"
@@ -1402,6 +1540,7 @@
         "amrchio"
     ],
     "materiale": [
+        "amteriale",
         "amteriale"
     ],
     "matrimonio": [
@@ -1438,15 +1577,22 @@
     "mettermi": [
         "emttermi"
     ],
+    "mettiamo": [
+        "metttiamo"
+    ],
     "migliaio": [
         "miglialio"
     ],
     "migliorare": [
         "mgiliraore",
-        "mgiliorare"
+        "mgiliorare",
+        "migliroare"
     ],
     "migliorata": [
         "migliroata"
+    ],
+    "migliorava": [
+        "migliroava"
     ],
     "migliori": [
         "milgiori"
@@ -1461,7 +1607,11 @@
         "mianccio"
     ],
     "minuti": [
+        "mnuti",
         "mnuti"
+    ],
+    "mistica": [
+        "miatica"
     ],
     "mobile": [
         "modile"
@@ -1477,6 +1627,9 @@
     ],
     "molti": [
         "mlti"
+    ],
+    "montaggio": [
+        "montagigo"
     ],
     "monumento": [
         "monumenot"
@@ -1555,6 +1708,9 @@
     "oblique": [
         "olbique"
     ],
+    "officine": [
+        "officne"
+    ],
     "oggetto": [
         "oggeto"
     ],
@@ -1566,6 +1722,9 @@
     ],
     "oltretutto": [
         "olrtetutto"
+    ],
+    "opensource": [
+        "openosurce"
     ],
     "operativo": [
         "oeprativo"
@@ -1582,9 +1741,15 @@
     "oramai": [
         "oaramai"
     ],
+    "ordine": [
+        "rodine"
+    ],
     "ordini": [
         "rodini",
         "oridni"
+    ],
+    "organi": [
+        "orgnai"
     ],
     "organizza": [
         "orgnaizza",
@@ -1678,6 +1843,9 @@
     ],
     "paese": [
         "apese"
+    ],
+    "pagare": [
+        "apgare"
     ],
     "pagina": [
         "pagian",
@@ -1777,6 +1945,9 @@
     "paura": [
         "apura"
     ],
+    "pausa": [
+        "apusa"
+    ],
     "pazzesca": [
         "pazzzesca"
     ],
@@ -1842,6 +2013,9 @@
     ],
     "piaciuto": [
         "piacuto"
+    ],
+    "piantato": [
+        "pinatato"
     ],
     "piattaforma": [
         "piatatforma",
@@ -1947,6 +2121,9 @@
     "presentino": [
         "presnetino"
     ],
+    "previsto": [
+        "previsot"
+    ],
     "prima": [
         "pri",
         "prim",
@@ -1960,16 +2137,21 @@
         "probabilmetne"
     ],
     "problema": [
-        "rpoblema"
+        "rpoblema",
+        "prlblema"
     ],
     "prodotti": [
-        "prodoti"
+        "prodoti",
+        "porodotti"
     ],
     "prodotto": [
         "prodtto"
     ],
     "produzione": [
         "produzioen"
+    ],
+    "professionale": [
+        "profesisonale"
     ],
     "professionisti": [
         "profesisonisti"
@@ -2010,7 +2192,11 @@
         "porposta"
     ],
     "proposte": [
-        "porposte"
+        "porposte",
+        "propsote"
+    ],
+    "proposto": [
+        "proposot"
     ],
     "proprietario": [
         "prorpietario"
@@ -2041,6 +2227,9 @@
     "psicologa": [
         "psicologaa"
     ],
+    "pubblica": [
+        "publica"
+    ],
     "pubblicazioni": [
         "pubblicaizoni"
     ],
@@ -2058,6 +2247,9 @@
     ],
     "purchase": [
         "pruchase"
+    ],
+    "quadruplo": [
+        "quadruplio"
     ],
     "qualche": [
         "qualce",
@@ -2089,6 +2281,7 @@
     "quello": [
         "uqello",
         "uqello",
+        "quelo",
         "quelo"
     ],
     "questa": [
@@ -2113,14 +2306,19 @@
         "uesto",
         "qeusto",
         "quesot",
-        "queto"
+        "queto",
+        "uqesto"
     ],
     "quindi": [
         "quinid",
-        "quinid"
+        "quinid",
+        "qundi"
     ],
     "raccontarono": [
         "racconrarono"
+    ],
+    "raggruppare": [
+        "raggrupare"
     ],
     "ragionare": [
         "raguionare"
@@ -2136,6 +2334,9 @@
     ],
     "registrati": [
         "regtistrati"
+    ],
+    "registrazione": [
+        "regstrazione"
     ],
     "registrazioni": [
         "regisrtazioni"
@@ -2197,14 +2398,21 @@
     "riconoscimento": [
         "riconsocimento"
     ],
+    "ricontrollati": [
+        "ricontrolalti"
+    ],
     "riempito": [
         "rimpeito"
     ],
     "riesce": [
-        "reisce"
+        "reisce",
+        "risce"
     ],
     "rifacendo": [
         "rifancedo"
+    ],
+    "rifiuta": [
+        "rifitua"
     ],
     "rifornimento": [
         "riforinmenti"
@@ -2213,7 +2421,8 @@
         "irugardano"
     ],
     "riguardo": [
-        "rgiuardo"
+        "rgiuardo",
+        "rugardo"
     ],
     "rilascia": [
         "rialscia"
@@ -2257,8 +2466,20 @@
     "riportare": [
         "riprotare"
     ],
+    "ripresentarsi": [
+        "ripresesntarsi"
+    ],
+    "risarcimento": [
+        "risaricmento"
+    ],
+    "risolto": [
+        "rosolto"
+    ],
     "risolvere": [
         "risovlere"
+    ],
+    "risolviamo": [
+        "risovliamo"
     ],
     "risparmiato": [
         "rispariamto",
@@ -2273,7 +2494,8 @@
     ],
     "rispondere": [
         "rispodnere",
-        "rspiondre"
+        "rspiondre",
+        "rispodnere"
     ],
     "rispondono": [
         "rispondno"
@@ -2360,6 +2582,9 @@
     "scansionare": [
         "scansioanre"
     ],
+    "scappare": [
+        "scppare"
+    ],
     "scaricare": [
         "scricare"
     ],
@@ -2387,11 +2612,17 @@
     "scommetto": [
         "scommeto"
     ],
+    "scommettono": [
+        "scomettono"
+    ],
     "scomparsa": [
         "scomaprsa"
     ],
     "sconsigliata": [
         "sconsiglaita"
+    ],
+    "scontare": [
+        "scotnare"
     ],
     "scoprire": [
         "scroprire"
@@ -2404,6 +2635,12 @@
     ],
     "scritto": [
         "scrito"
+    ],
+    "scrivergli": [
+        "scrviergli"
+    ],
+    "scriverlo": [
+        "scrivero"
     ],
     "scrivilo": [
         "scrivlo"
@@ -2437,6 +2674,9 @@
     "segnato": [
         "sengato"
     ],
+    "semiautomatico": [
+        "semiautoamtico"
+    ],
     "semplice": [
         "semplcie"
     ],
@@ -2448,6 +2688,9 @@
         "sempee",
         "smepre",
         "smpere"
+    ],
+    "senti": [
+        "sneti"
     ],
     "sentiamo": [
         "setniamo"
@@ -2461,6 +2704,9 @@
     ],
     "separati": [
         "spearati"
+    ],
+    "separatisti": [
+        "separatsti"
     ],
     "servi": [
         "srvi"
@@ -2481,7 +2727,8 @@
         "setimana"
     ],
     "sfortunatamente": [
-        "sfortunatamete"
+        "sfortunatamete",
+        "sfortuantamente"
     ],
     "siamo": [
         "siao"
@@ -2502,10 +2749,17 @@
         "seiti"
     ],
     "significa": [
-        "siginifica"
+        "siginifica",
+        "sginifica"
     ],
     "significati": [
         "sginificati"
+    ],
+    "significherebbe": [
+        "sginificherebbe"
+    ],
+    "simpatico": [
+        "simaptico"
     ],
     "sinceramente": [
         "sinceramenten",
@@ -2514,14 +2768,21 @@
     "singola": [
         "singoal"
     ],
+    "singolarmente": [
+        "singolrmente"
+    ],
     "sistemare": [
         "sistamre"
     ],
     "sistemazione": [
         "sistamaizone"
     ],
+    "sistemo": [
+        "sistmeo"
+    ],
     "situazione": [
         "stiauzione",
+        "situaizone",
         "situaizone"
     ],
     "sofisticato": [
@@ -2551,6 +2812,9 @@
     "sopratutto": [
         "sopatutto"
     ],
+    "sorprendermi": [
+        "soprendermi"
+    ],
     "sottodominio": [
         "sttodominio"
     ],
@@ -2560,6 +2824,12 @@
     "spazio": [
         "spaizo",
         "spaizo"
+    ],
+    "spegnere": [
+        "spengere"
+    ],
+    "spende": [
+        "spene"
     ],
     "sperimentare": [
         "sperimetnare"
@@ -2573,7 +2843,8 @@
     ],
     "spiegazione": [
         "speigazione",
-        "spiegaizone"
+        "spiegaizone",
+        "spiegazioen"
     ],
     "spiegazioni": [
         "spiegaizoni"
@@ -2616,6 +2887,9 @@
     "stiamo": [
         "sitamo"
     ],
+    "storico": [
+        "sotirco"
+    ],
     "studentesche": [
         "studentesce"
     ],
@@ -2638,6 +2912,9 @@
     "sulle": [
         "sulel"
     ],
+    "supporto": [
+        "spporto"
+    ],
     "svenire": [
         "svnire"
     ],
@@ -2652,6 +2929,9 @@
     ],
     "taglie": [
         "tagle"
+    ],
+    "tamponare": [
+        "tampoanre"
     ],
     "tante": [
         "tnate"
@@ -2827,6 +3107,7 @@
         "nvediamo"
     ],
     "veramente": [
+        "verametne",
         "verametne"
     ],
     "verifica": [
@@ -2850,7 +3131,8 @@
     ],
     "versioni": [
         "verisoni",
-        "versoni"
+        "versoni",
+        "verisoni"
     ],
     "vicesindaco": [
         "vicensidanco"
@@ -2868,7 +3150,8 @@
         "vigliamo"
     ],
     "voglio": [
-        "volio"
+        "volio",
+        "volgio"
     ],
     "volantino": [
         "vloantino"

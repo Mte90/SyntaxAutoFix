@@ -684,7 +684,8 @@
     ],
     "about": [
         "baout",
-        "boaut"
+        "boaut",
+        "aobut"
     ],
     "abscess": [
         "abcess"
@@ -898,6 +899,9 @@
     ],
     "activities": [
         "activites"
+    ],
+    "actual": [
+        "acutal"
     ],
     "actually": [
         "actualy"
@@ -1871,6 +1875,7 @@
     "available": [
         "avalable",
         "avaliable",
+        "avalaible",
         "avalaible"
     ],
     "avalanche": [
@@ -3868,7 +3873,8 @@
         "discribing"
     ],
     "description": [
-        "discription"
+        "discription",
+        "descirption"
     ],
     "desiccated": [
         "dessicated"
@@ -5216,6 +5222,9 @@
     "extant": [
         "extint"
     ],
+    "extended": [
+        "exnteded"
+    ],
     "extension": [
         "extention"
     ],
@@ -6177,6 +6186,9 @@
     "held": [
         "holded"
     ],
+    "help": [
+        "hrlp"
+    ],
     "helpful": [
         "helpfull"
     ],
@@ -6467,6 +6479,9 @@
     "imagery": [
         "imaginery"
     ],
+    "images": [
+        "iamges"
+    ],
     "imaginary": [
         "imaginery",
         "imagenary"
@@ -6643,6 +6658,9 @@
     ],
     "inauguration": [
         "innauguration"
+    ],
+    "incazzati": [
+        "incazati"
     ],
     "incident": [
         "insident"
@@ -6964,6 +6982,10 @@
     ],
     "instruction": [
         "intruction"
+    ],
+    "instructions": [
+        "instrucitons",
+        "insutrctions"
     ],
     "instructor": [
         "instructer"
@@ -7359,7 +7381,8 @@
         "landscapping"
     ],
     "language": [
-        "laguage"
+        "laguage",
+        "languiage"
     ],
     "languages": [
         "laguages"
@@ -10534,7 +10557,8 @@
         "reuqest"
     ],
     "requests": [
-        "reuqests"
+        "reuqests",
+        "reqeusts"
     ],
     "require": [
         "reuiqre"
@@ -10909,6 +10933,9 @@
     ],
     "screening": [
         "scrrening"
+    ],
+    "screenshot": [
+        "scresnshot"
     ],
     "script": [
         "scripot",
@@ -12355,7 +12382,8 @@
         "thta",
         "tyhat",
         "tath",
-        "thgat"
+        "thgat",
+        "htat"
     ],
     "the": [
         "tjhe",
@@ -12734,6 +12762,9 @@
     "troops": [
         "troups"
     ],
+    "troubles": [
+        "trobules"
+    ],
     "troupes": [
         "troups"
     ],
@@ -12765,6 +12796,7 @@
         "twelveth"
     ],
     "twitter": [
+        "tiwtter",
         "tiwtter"
     ],
     "type-cast": [
@@ -13046,6 +13078,9 @@
     ],
     "upheld": [
         "upholded"
+    ],
+    "uploaded": [
+        "uplaoded"
     ],
     "upon": [
         "apon"
