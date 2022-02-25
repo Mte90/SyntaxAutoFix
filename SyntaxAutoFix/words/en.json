@@ -1945,6 +1945,9 @@
     "bankruptcy": [
         "bankrupcy"
     ],
+    "banner": [
+        "banenr"
+    ],
     "barbecue": [
         "barbeque"
     ],
@@ -3532,6 +3535,7 @@
         "copule"
     ],
     "coupon": [
+        "copuon",
         "copuon"
     ],
     "courier": [
@@ -7022,6 +7026,9 @@
     ],
     "intended": [
         "intented"
+    ],
+    "intensifies": [
+        "intesnifies"
     ],
     "intensity": [
         "intesity"
@@ -10633,7 +10640,8 @@
     ],
     "response": [
         "reponse",
-        "responce"
+        "responce",
+        "respnse"
     ],
     "responsibility": [
         "responnsibilty"
@@ -10935,7 +10943,8 @@
         "scrrening"
     ],
     "screenshot": [
-        "scresnshot"
+        "scresnshot",
+        "screenshhot"
     ],
     "script": [
         "scripot",

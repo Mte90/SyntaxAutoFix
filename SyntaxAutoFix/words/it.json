@@ -9,6 +9,9 @@
         "abbimo",
         "abbimo"
     ],
+    "abilitate": [
+        "abiltiate"
+    ],
     "abilitati": [
         "abiltiati"
     ],
@@ -202,8 +205,14 @@
     "appena": [
         "appean"
     ],
+    "approfittiamo": [
+        "approfitiamo"
+    ],
     "aprile": [
         "parile"
+    ],
+    "arrapano": [
+        "arrpano"
     ],
     "arrivano": [
         "arivano"
@@ -255,6 +264,7 @@
         "assolutametne"
     ],
     "attesa": [
+        "atesa",
         "atesa"
     ],
     "attimo": [
@@ -353,6 +363,9 @@
     "buono": [
         "bvuono"
     ],
+    "buttando": [
+        "buttnado"
+    ],
     "cambia": [
         "cabmia"
     ],
@@ -391,13 +404,17 @@
         "capisconmo"
     ],
     "capito": [
-        "capto"
+        "capto",
+        "cpaito"
     ],
     "cappellata": [
         "cappellatta"
     ],
     "caricamento": [
         "caricmento"
+    ],
+    "carriera": [
+        "carrira"
     ],
     "cartella": [
         "cartelal"
@@ -592,6 +609,9 @@
     "condotta": [
         "condatta"
     ],
+    "conferenze": [
+        "conferneze"
+    ],
     "confermato": [
         "conferamto"
     ],
@@ -616,7 +636,8 @@
         "consoce"
     ],
     "conoscenza": [
-        "consocenza"
+        "consocenza",
+        "cconscenza"
     ],
     "conoscenze": [
         "consocenze"
@@ -655,6 +676,9 @@
     "contattato": [
         "contattaot",
         "concattato"
+    ],
+    "contatto": [
+        "cotatto"
     ],
     "contemporanea": [
         "conemporanea"
@@ -697,7 +721,8 @@
         "coretti"
     ],
     "corretto": [
-        "correto"
+        "correto",
+        "coretto"
     ],
     "corrispondente": [
         "corrispondete"
@@ -813,7 +838,8 @@
         "direttametne",
         "direttametne",
         "diretamente",
-        "direttametne"
+        "direttametne",
+        "diretamente"
     ],
     "dirglielo": [
         "dirgielo",
@@ -917,6 +943,9 @@
     ],
     "entrambe": [
         "netrambe"
+    ],
+    "entrano": [
+        "entrnao"
     ],
     "entrare": [
         "netrare"
@@ -1319,6 +1348,9 @@
         "itneressa",
         "interess"
     ],
+    "interessano": [
+        "interessnao"
+    ],
     "interessante": [
         "itneressante"
     ],
@@ -1430,7 +1462,8 @@
         "leto"
     ],
     "libero": [
-        "lbiero"
+        "lbiero",
+        "libeor"
     ],
     "libreoffice": [
         "lbireoffice"
@@ -1830,6 +1863,9 @@
     "oscuro": [
         "oscruo"
     ],
+    "osservatorio": [
+        "osseravtorio"
+    ],
     "ottimizzazioni": [
         "ottimizzaizoni"
     ],
@@ -1872,6 +1908,9 @@
         "parecciho",
         "parechcio",
         "aprecchio"
+    ],
+    "pareri": [
+        "apreri"
     ],
     "pareti": [
         "paerti"
@@ -2033,6 +2072,9 @@
     "polemiche": [
         "poelmiche"
     ],
+    "pomeriggio": [
+        "pomerigigo"
+    ],
     "porcherie": [
         "procherie"
     ],
@@ -2177,6 +2219,9 @@
     ],
     "pronto": [
         "prontt"
+    ],
+    "propagazione": [
+        "propagaiozne"
     ],
     "proporlo": [
         "proprorlo"
@@ -2410,6 +2455,9 @@
     ],
     "rifacendo": [
         "rifancedo"
+    ],
+    "riferissi": [
+        "refrissi"
     ],
     "rifiuta": [
         "rifitua"
@@ -2763,7 +2811,8 @@
     ],
     "sinceramente": [
         "sinceramenten",
-        "siceramente"
+        "siceramente",
+        "sincerammente"
     ],
     "singola": [
         "singoal"
@@ -2899,6 +2948,9 @@
     "successivamente": [
         "sucessivamente"
     ],
+    "successo": [
+        "sucesso"
+    ],
     "sufficiente": [
         "sufficente"
     ],
@@ -2946,6 +2998,9 @@
     ],
     "tappare": [
         "tapapre"
+    ],
+    "tartaruga": [
+        "tartargua"
     ],
     "telefonarmi": [
         "telefornarmi"
@@ -2996,6 +3051,9 @@
     "tracciamento": [
         "tracciamneto"
     ],
+    "traduzione": [
+        "traduzioen"
+    ],
     "tranquillamente": [
         "tranquillametne",
         "tranquillmanete"
@@ -3008,6 +3066,9 @@
     ],
     "tratterebbe": [
         "tratterenbbe"
+    ],
+    "triste": [
+        "trsite"
     ],
     "trovare": [
         "trvare",
@@ -3067,6 +3128,9 @@
     ],
     "utenti": [
         "utneti"
+    ],
+    "utile": [
+        "tuile"
     ],
     "utilizzare": [
         "utilizzre"
@@ -3160,6 +3224,7 @@
         "volese"
     ],
     "volete": [
+        "voelte",
         "voelte"
     ],
     "volontari": [
@@ -3171,6 +3236,9 @@
     "vorranno": [
         "vorrano",
         "vrrano"
+    ],
+    "vorrebbe": [
+        "vorrebe"
     ],
     "vorrei": [
         "voreri"
