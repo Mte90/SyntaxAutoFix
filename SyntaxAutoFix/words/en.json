@@ -748,6 +748,9 @@
     "accessible": [
         "accessable"
     ],
+    "accessing": [
+        "acessing"
+    ],
     "accession": [
         "accension"
     ],
@@ -3673,6 +3676,7 @@
         "dangerious"
     ],
     "dashboard": [
+        "dashbaord",
         "dashbaord"
     ],
     "daub": [
@@ -5782,6 +5786,9 @@
     ],
     "functionally": [
         "functionaly"
+    ],
+    "functions": [
+        "fucntions"
     ],
     "fundamental": [
         "fundametal"
@@ -8850,6 +8857,7 @@
     ],
     "organization": [
         "orgnaization",
+        "orgnaization",
         "orgnaization"
     ],
     "organizations": [
@@ -9795,7 +9803,8 @@
         "progidy"
     ],
     "production": [
-        "prodcution"
+        "prodcution",
+        "produciton"
     ],
     "profession": [
         "proffesion",

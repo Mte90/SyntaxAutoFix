@@ -2,6 +2,7 @@
     "abbastanza": [
         "abastanza",
         "ababstanza",
+        "abbstanza",
         "abbstanza"
     ],
     "abbiamo": [
@@ -103,6 +104,9 @@
     ],
     "aggiunto": [
         "agignto"
+    ],
+    "aggregazione": [
+        "aggregazoine"
     ],
     "aggreghiamo": [
         "agreghiamo"
@@ -368,6 +372,9 @@
     ],
     "cambia": [
         "cabmia"
+    ],
+    "cambiano": [
+        "cabiano"
     ],
     "cambiare": [
         "canbiare"
@@ -968,6 +975,9 @@
     "esiste": [
         "essite"
     ],
+    "espande": [
+        "epsande"
+    ],
     "esperienza": [
         "espereienza",
         "epserienza"
@@ -1309,6 +1319,9 @@
     "inoltre": [
         "inolter"
     ],
+    "insalata": [
+        "inslata"
+    ],
     "inserire": [
         "isnerire"
     ],
@@ -1582,6 +1595,9 @@
     "meglio": [
         "megli",
         "melgio"
+    ],
+    "mente": [
+        "metne"
     ],
     "mercato": [
         "emrcato"
@@ -1922,7 +1938,8 @@
         "prlare",
         "paralre",
         "paralre",
-        "pralare"
+        "pralare",
+        "paralre"
     ],
     "parliamo": [
         "parliamno"
@@ -2050,6 +2067,9 @@
     "piacere": [
         "paicere"
     ],
+    "piacerebbe": [
+        "paicerebbe"
+    ],
     "piaciuto": [
         "piacuto"
     ],
@@ -2170,7 +2190,8 @@
         "pri",
         "prim",
         "priam",
-        "pria"
+        "pria",
+        "priam"
     ],
     "principalmente": [
         "principlamente"
@@ -2318,7 +2339,8 @@
     "quella": [
         "quelal",
         "ueqall",
-        "qeulla"
+        "qeulla",
+        "quelal"
     ],
     "quelli": [
         "queli"
@@ -2407,6 +2429,9 @@
     "revisionare": [
         "revisonare",
         "revisioanre"
+    ],
+    "riaccendendo": [
+        "riaccendnedo"
     ],
     "riapri": [
         "riaptri"
@@ -2722,6 +2747,9 @@
     "segnato": [
         "sengato"
     ],
+    "sembra": [
+        "smebra"
+    ],
     "semiautomatico": [
         "semiautoamtico"
     ],
@@ -2745,6 +2773,9 @@
     ],
     "sentirci": [
         "senteirci"
+    ],
+    "sentita": [
+        "sentta"
     ],
     "senza": [
         "sena",
@@ -3168,7 +3199,8 @@
         "vederi"
     ],
     "vendiamo": [
-        "nvediamo"
+        "nvediamo",
+        "vendiao"
     ],
     "veramente": [
         "verametne",
