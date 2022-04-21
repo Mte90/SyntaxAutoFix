@@ -1999,7 +1999,8 @@
         "becasue",
         "becaus",
         "becouse",
-        "buecase"
+        "buecase",
+        "becase"
     ],
     "becoming": [
         "becomming"
@@ -6055,6 +6056,9 @@
     "guitarist": [
         "guitarrist"
     ],
+    "gutenberg": [
+        "gutemberg"
+    ],
     "guttural": [
         "gutteral",
         "guttaral"
@@ -6980,7 +6984,8 @@
         "intallments"
     ],
     "instance": [
-        "instatance"
+        "instatance",
+        "istance"
     ],
     "instead": [
         "instade"
@@ -7060,7 +7065,8 @@
     ],
     "interested": [
         "itnerested",
-        "intersted"
+        "intersted",
+        "intressted"
     ],
     "interesting": [
         "itneresting"
@@ -7747,6 +7753,9 @@
     ],
     "maintainer": [
         "mantainer"
+    ],
+    "maintainers": [
+        "mantainers"
     ],
     "maintaining": [
         "maintaing"
@@ -10333,6 +10342,7 @@
         "redevelopement"
     ],
     "redirect": [
+        "reidrect",
         "reidrect"
     ],
     "redundant": [
@@ -11182,7 +11192,8 @@
     "should": [
         "shoudl",
         "sould",
-        "shoudln"
+        "shoudln",
+        "hsould"
     ],
     "shouldn't": [
         "shoudln",
@@ -11222,6 +11233,9 @@
     "significantly": [
         "signifantly",
         "significently"
+    ],
+    "silence": [
+        "sinence"
     ],
     "similar": [
         "simmilar",

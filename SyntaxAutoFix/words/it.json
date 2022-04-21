@@ -10,6 +10,9 @@
         "abbimo",
         "abbimo"
     ],
+    "abbonamento": [
+        "abonamento"
+    ],
     "abilitate": [
         "abiltiate"
     ],
@@ -34,6 +37,9 @@
     ],
     "accetta": [
         "acectta"
+    ],
+    "accettato": [
+        "acecttato"
     ],
     "accettavo": [
         "accetavo"
@@ -165,6 +171,9 @@
     "altri": [
         "altr"
     ],
+    "altrimenti": [
+        "altriemnti"
+    ],
     "altro": [
         "latro"
     ],
@@ -250,7 +259,8 @@
         "apsettando"
     ],
     "aspettare": [
-        "apsettare"
+        "apsettare",
+        "aspetare"
     ],
     "aspettavo": [
         "aspetavo"
@@ -283,6 +293,9 @@
     "attuenanti": [
         "attuentanti"
     ],
+    "automatically": [
+        "autoamticaly"
+    ],
     "automaticamente": [
         "autoamticamente"
     ],
@@ -312,6 +325,9 @@
     ],
     "avevamo": [
         "avevao"
+    ],
+    "avevi": [
+        "vevi"
     ],
     "avevo": [
         "aveo"
@@ -364,6 +380,12 @@
     "bloccarli": [
         "blocarli"
     ],
+    "blocchi": [
+        "blochci"
+    ],
+    "bordi": [
+        "borid"
+    ],
     "buono": [
         "bvuono"
     ],
@@ -397,6 +419,7 @@
         "cancelalre"
     ],
     "capire": [
+        "cpaire",
         "cpaire",
         "cpaire"
     ],
@@ -712,6 +735,9 @@
     "controllare": [
         "controlalre"
     ],
+    "conviene": [
+        "convine"
+    ],
     "convincere": [
         "convicnere"
     ],
@@ -723,6 +749,9 @@
     ],
     "correggeva": [
         "corregeva"
+    ],
+    "correttamente": [
+        "correttamnet"
     ],
     "corretti": [
         "coretti"
@@ -737,6 +766,9 @@
     "corrispondete": [
         "corrispondnte"
     ],
+    "cose": [
+        "cse"
+    ],
     "costante": [
         "costsnte"
     ],
@@ -745,6 +777,9 @@
     ],
     "creazione": [
         "creazioen"
+    ],
+    "dargli": [
+        "darlgi"
     ],
     "dashboard": [
         "dasbhoard"
@@ -756,6 +791,7 @@
         "edcidere"
     ],
     "decisamente": [
+        "decisametne",
         "decisametne",
         "decisametne"
     ],
@@ -846,7 +882,8 @@
         "direttametne",
         "diretamente",
         "direttametne",
-        "diretamente"
+        "diretamente",
+        "direttmanete"
     ],
     "dirglielo": [
         "dirgielo",
@@ -857,6 +894,9 @@
     ],
     "discussioni": [
         "discusisoni"
+    ],
+    "disistallare": [
+        "disistalalre"
     ],
     "dispiace": [
         "dispaice"
@@ -972,6 +1012,9 @@
     "esattamente": [
         "esattametne"
     ],
+    "esempio": [
+        "eempio"
+    ],
     "esiste": [
         "essite"
     ],
@@ -1014,6 +1057,9 @@
     ],
     "eventuale": [
         "envetuale"
+    ],
+    "evidentemente": [
+        "evidentemetne"
     ],
     "facciamo": [
         "faciamo"
@@ -1141,6 +1187,9 @@
     "funzione": [
         "fuznione"
     ],
+    "funzioni": [
+        "funizoni"
+    ],
     "generare": [
         "generaer"
     ],
@@ -1199,6 +1248,9 @@
     ],
     "guerra": [
         "guera"
+    ],
+    "guida": [
+        "guda"
     ],
     "hanno": [
         "hannio",
@@ -1304,6 +1356,9 @@
     "inglese": [
         "inglse"
     ],
+    "ingrandimento": [
+        "ingradimento"
+    ],
     "iniziare": [
         "inizare"
     ],
@@ -1340,6 +1395,7 @@
     "intanto": [
         "intnaot",
         "intant",
+        "intnato",
         "intnato"
     ],
     "integrazioni": [
@@ -1389,7 +1445,8 @@
     ],
     "interfaccia": [
         "interfaccai",
-        "itnerfaccia"
+        "itnerfaccia",
+        "iterfaccia"
     ],
     "internet": [
         "itnernet"
@@ -1500,6 +1557,9 @@
     ],
     "limite": [
         "limte"
+    ],
+    "linea": [
+        "liena"
     ],
     "lista": [
         "lsita"
@@ -1672,6 +1732,7 @@
         "mdofiche"
     ],
     "modulo": [
+        "moudlo",
         "moudlo"
     ],
     "molti": [
@@ -1747,6 +1808,9 @@
     "notifica": [
         "motifica"
     ],
+    "numerazione": [
+        "numeraione"
+    ],
     "nuova": [
         "nuvoa"
     ],
@@ -1756,6 +1820,9 @@
     ],
     "oblique": [
         "olbique"
+    ],
+    "officiali": [
+        "oficiali"
     ],
     "officine": [
         "officne"
@@ -1771,6 +1838,9 @@
     ],
     "oltretutto": [
         "olrtetutto"
+    ],
+    "oltreutto": [
+        "otlretutto"
     ],
     "opensource": [
         "openosurce"
@@ -1795,6 +1865,7 @@
     ],
     "ordini": [
         "rodini",
+        "oridni",
         "oridni"
     ],
     "organi": [
@@ -1889,6 +1960,7 @@
         "vounque"
     ],
     "ovviamente": [
+        "ovviametne",
         "ovviametne",
         "ovviametne",
         "ovviametne"
@@ -2068,6 +2140,7 @@
         "paicere"
     ],
     "piacerebbe": [
+        "paicerebbe",
         "paicerebbe"
     ],
     "piaciuto": [
@@ -2099,7 +2172,8 @@
         "procherie"
     ],
     "portale": [
-        "protale"
+        "protale",
+        "portlae"
     ],
     "portare": [
         "protare"
@@ -2114,6 +2188,7 @@
         "possimoa"
     ],
     "possibile": [
+        "possibiel",
         "possibiel"
     ],
     "posso": [
@@ -2282,7 +2357,11 @@
         "prosimamente"
     ],
     "prossimo": [
-        "prosismo"
+        "prosismo",
+        "rpossimo"
+    ],
+    "prototipi": [
+        "prototivi"
     ],
     "prova": [
         "rpova"
@@ -2570,13 +2649,20 @@
         "rspiondre",
         "rispodnere"
     ],
+    "rispondergli": [
+        "risponderlgi"
+    ],
     "rispondono": [
         "rispondno"
+    ],
+    "risposta": [
+        "rispota`"
     ],
     "risposte": [
         "ripsoste"
     ],
     "risposto": [
+        "rispsoto",
         "rispsoto"
     ],
     "risulta": [
@@ -2593,14 +2679,21 @@
     "ritardo": [
         "irtardo"
     ],
+    "ritrovare": [
+        "ritovare"
+    ],
     "riunione": [
-        "riunioone"
+        "riunioone",
+        "riunioen"
     ],
     "riusare": [
         "risuare"
     ],
     "riusarlo": [
         "risuarlo"
+    ],
+    "riusato": [
+        "risuato"
     ],
     "riusciamo": [
         "riousciamo"
@@ -2703,6 +2796,9 @@
     "scordato": [
         "scrodato"
     ],
+    "scorsa": [
+        "scrosa"
+    ],
     "scorte": [
         "scrote"
     ],
@@ -2732,7 +2828,8 @@
         "sen"
     ],
     "secondo": [
-        "seocndo"
+        "seocndo",
+        "secndo"
     ],
     "segnala": [
         "sengala"
@@ -2924,7 +3021,9 @@
     "spiegazione": [
         "speigazione",
         "spiegaizone",
-        "spiegazioen"
+        "spiegazioen",
+        "speigazione",
+        "speigazione"
     ],
     "spiegazioni": [
         "spiegaizoni"
@@ -3136,6 +3235,7 @@
         "u"
     ],
     "una": [
+        "uan",
         "uan"
     ],
     "universitari": [
@@ -3187,6 +3287,7 @@
     ],
     "vecchio": [
         "vechcio",
+        "vechcio",
         "vechcio"
     ],
     "vedere": [
@@ -3204,10 +3305,14 @@
     ],
     "veramente": [
         "verametne",
+        "verametne",
         "verametne"
     ],
     "verifica": [
         "varifica"
+    ],
+    "verificando": [
+        "verificano"
     ],
     "verranno": [
         "verrano"
@@ -3223,7 +3328,8 @@
         "vrsione",
         "vrsione",
         "verisone",
-        "iversone"
+        "iversone",
+        "verione"
     ],
     "versioni": [
         "verisoni",
