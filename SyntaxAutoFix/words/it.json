@@ -1,4 +1,7 @@
 {
+    "abbandonare": [
+        "abbandoare"
+    ],
     "abbastanza": [
         "abastanza",
         "ababstanza",
@@ -64,6 +67,9 @@
     ],
     "adesivi": [
         "adevisi"
+    ],
+    "affidabile": [
+        "affadabile"
     ],
     "affrontata": [
         "affrotnata"
@@ -497,7 +503,8 @@
         "chide"
     ],
     "chiedere": [
-        "chidere"
+        "chidere",
+        "cheidere"
     ],
     "chiederti": [
         "chiererti",
@@ -619,7 +626,8 @@
         "comuqnue",
         "comuinque",
         "comuhque",
-        "comnuque"
+        "comnuque",
+        "conunque"
     ],
     "con": [
         "ocn"
@@ -1295,6 +1303,9 @@
     "imparare": [
         "imaprare"
     ],
+    "impegnare": [
+        "impengare"
+    ],
     "impegni": [
         "impgni"
     ],
@@ -1531,6 +1542,9 @@
         "eltto",
         "leto"
     ],
+    "liberativo": [
+        "lbierativo"
+    ],
     "libero": [
         "lbiero",
         "libeor"
@@ -1650,6 +1664,7 @@
         "amteriale"
     ],
     "matrimonio": [
+        "amtrimonio",
         "amtrimonio"
     ],
     "meglio": [
@@ -1888,7 +1903,8 @@
     ],
     "organizzare": [
         "orgnaizzare",
-        "roganizzare"
+        "roganizzare",
+        "orgnaizzare"
     ],
     "organizzarle": [
         "orgnaizzarle"
@@ -2134,6 +2150,7 @@
     ],
     "piace": [
         "paice",
+        "paice",
         "paice"
     ],
     "piacere": [
@@ -2185,7 +2202,8 @@
         "protava"
     ],
     "possiamo": [
-        "possimoa"
+        "possimoa",
+        "possiam"
     ],
     "possibile": [
         "possibiel",
@@ -2844,6 +2862,9 @@
     "segnato": [
         "sengato"
     ],
+    "segui": [
+        "seugi"
+    ],
     "sembra": [
         "smebra"
     ],
@@ -3016,7 +3037,8 @@
     ],
     "spiegato": [
         "speigato",
-        "psiegato"
+        "psiegato",
+        "speigato"
     ],
     "spiegazione": [
         "speigazione",
