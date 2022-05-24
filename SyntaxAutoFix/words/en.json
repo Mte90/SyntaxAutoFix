@@ -2692,6 +2692,9 @@
     "christened": [
         "cristened"
     ],
+    "chrome": [
+        "crhome"
+    ],
     "chronic": [
         "chronical"
     ],
@@ -5784,7 +5787,8 @@
         "fullfill"
     ],
     "function": [
-        "funtion"
+        "funtion",
+        "funciton"
     ],
     "functionally": [
         "functionaly"
@@ -7406,7 +7410,8 @@
         "languiage"
     ],
     "languages": [
-        "laguages"
+        "laguages",
+        "alnguages"
     ],
     "languish": [
         "languise"
@@ -10345,6 +10350,9 @@
     "redirect": [
         "reidrect",
         "reidrect"
+    ],
+    "redirected": [
+        "reidrected"
     ],
     "redundant": [
         "redundent"
@@ -13641,6 +13649,7 @@
     ],
     "working": [
         "wroking",
+        "wokring",
         "wokring"
     ],
     "works": [
