@@ -6,7 +6,8 @@
         "abastanza",
         "ababstanza",
         "abbstanza",
-        "abbstanza"
+        "abbstanza",
+        "abbastanzia"
     ],
     "abbiamo": [
         "abbimoa",
@@ -86,7 +87,9 @@
         "aggioranre"
     ],
     "aggiornato": [
-        "agiornato"
+        "agiornato",
+        "agigornato",
+        "agigornato"
     ],
     "aggiorni": [
         "aggionri"
@@ -189,6 +192,9 @@
     "amministrativa": [
         "amminsitrativa"
     ],
+    "amministrazioni": [
+        "amministraizoni"
+    ],
     "analizzati": [
         "nalizzati"
     ],
@@ -199,6 +205,9 @@
     ],
     "ancora": [
         "ancoran"
+    ],
+    "andando": [
+        "anando"
     ],
     "andare": [
         "anadre"
@@ -217,6 +226,9 @@
     ],
     "antonio": [
         "antono"
+    ],
+    "anzi": [
+        "nzi"
     ],
     "aperte": [
         "paerte"
@@ -300,6 +312,7 @@
         "atrezi"
     ],
     "attualmente": [
+        "attualemnte",
         "attualemnte",
         "attualemnte"
     ],
@@ -388,6 +401,9 @@
     "bibliografia": [
         "bibligorafia"
     ],
+    "bidoni": [
+        "biodni"
+    ],
     "bisogna": [
         "bisgoan",
         "bisgona",
@@ -410,6 +426,9 @@
     ],
     "buttando": [
         "buttnado"
+    ],
+    "cacchio": [
+        "cachcio"
     ],
     "cambia": [
         "cabmia"
@@ -513,7 +532,8 @@
         "chiav"
     ],
     "chiede": [
-        "chide"
+        "chide",
+        "cheide"
     ],
     "chiedere": [
         "chidere",
@@ -543,6 +563,9 @@
     ],
     "coinvolgere": [
         "coinvoglere"
+    ],
+    "collaborazione": [
+        "collbaorazione"
     ],
     "collaborazioni": [
         "collaborzioni"
@@ -759,6 +782,7 @@
         "contirbutori"
     ],
     "controllare": [
+        "controlalre",
         "controlalre"
     ],
     "conviene": [
@@ -772,6 +796,9 @@
     ],
     "copia": [
         "copai"
+    ],
+    "coraggio": [
+        "coragio"
     ],
     "correggeva": [
         "corregeva"
@@ -917,7 +944,8 @@
         "diretamente",
         "direttmanete",
         "direttametne",
-        "direttametne"
+        "direttametne",
+        "direttametn"
     ],
     "dirglielo": [
         "dirgielo",
@@ -941,6 +969,9 @@
     "distrazioni": [
         "distraizoni"
     ],
+    "diventare": [
+        "dinvetare"
+    ],
     "diventato": [
         "dievntato",
         "diventto"
@@ -950,7 +981,8 @@
         "diveris"
     ],
     "divertente": [
-        "divertenet"
+        "divertenet",
+        "divertenete"
     ],
     "documentazione": [
         "documentaizone"
@@ -1151,6 +1183,9 @@
         "femro",
         "femro"
     ],
+    "festeggiare": [
+        "festegiare"
+    ],
     "ficcare": [
         "ficacre"
     ],
@@ -1323,6 +1358,8 @@
     "immagini": [
         "imamgini",
         "immaggini",
+        "imamgini",
+        "imamgiin",
         "imamgini"
     ],
     "immagino": [
@@ -1353,7 +1390,8 @@
     ],
     "importante": [
         "imporntate",
-        "importate"
+        "importate",
+        "importanete"
     ],
     "importare": [
         "oimportare"
@@ -1397,6 +1435,9 @@
     "informatica": [
         "inforamtica"
     ],
+    "informazione": [
+        "informazone"
+    ],
     "informazioni": [
         "informaizoni"
     ],
@@ -1426,6 +1467,9 @@
     ],
     "inserire": [
         "isnerire"
+    ],
+    "inserito": [
+        "inmserito"
     ],
     "insomma": [
         "insooma"
@@ -1615,6 +1659,9 @@
     "linea": [
         "liena"
     ],
+    "linguaggio": [
+        "linguagigo"
+    ],
     "lista": [
         "lsita"
     ],
@@ -1629,7 +1676,8 @@
     ],
     "macchina": [
         "amcchina",
-        "machcina"
+        "machcina",
+        "machina"
     ],
     "macchinetta": [
         "machcinetta"
@@ -1702,6 +1750,9 @@
         "marhcio",
         "amrchio"
     ],
+    "massimo": [
+        "masismo"
+    ],
     "materiale": [
         "amteriale",
         "amteriale"
@@ -1749,6 +1800,9 @@
     ],
     "mettevo": [
         "emttevo"
+    ],
+    "metti": [
+        "emtti"
     ],
     "mettiamo": [
         "metttiamo"
@@ -1854,6 +1908,9 @@
     "nessun": [
         "nesusn"
     ],
+    "nessuna": [
+        "nesusna"
+    ],
     "nessuno": [
         "enssuno",
         "nesusno"
@@ -1891,6 +1948,9 @@
         "nuovametne",
         "nuovametne"
     ],
+    "obbligatorie": [
+        "obbilgiatorie"
+    ],
     "oblique": [
         "olbique"
     ],
@@ -1899,6 +1959,9 @@
     ],
     "officine": [
         "officne"
+    ],
+    "oggetti": [
+        "oggeti"
     ],
     "oggetto": [
         "oggeto"
@@ -1927,6 +1990,9 @@
     "oppure": [
         "opure"
     ],
+    "opzione": [
+        "zopione"
+    ],
     "opzioni": [
         "ozpioni"
     ],
@@ -1934,7 +2000,8 @@
         "oaramai"
     ],
     "ordine": [
-        "rodine"
+        "rodine",
+        "oridne"
     ],
     "ordini": [
         "rodini",
@@ -2154,11 +2221,17 @@
     "pazzesca": [
         "pazzzesca"
     ],
+    "peggio": [
+        "pegio"
+    ],
     "peggiore": [
         "pegiore"
     ],
     "pensa": [
         "pennsa"
+    ],
+    "pensato": [
+        "pesnato"
     ],
     "pensavamo": [
         "pesanvamo"
@@ -2195,7 +2268,8 @@
         "persoan"
     ],
     "personaggio": [
-        "persoanggio"
+        "persoanggio",
+        "prsonaggio"
     ],
     "personale": [
         "eprsonale"
@@ -2286,6 +2360,9 @@
     "potente": [
         "poteten"
     ],
+    "potenzialmente": [
+        "potenizlmanete"
+    ],
     "poter": [
         "ptoer"
     ],
@@ -2320,7 +2397,8 @@
         "praticametne"
     ],
     "prendere": [
-        "predenre"
+        "predenre",
+        "prendenre"
     ],
     "prenotare": [
         "prentoare"
@@ -2341,6 +2419,9 @@
     "presentino": [
         "presnetino"
     ],
+    "pretendo": [
+        "prtendo"
+    ],
     "previsto": [
         "previsot"
     ],
@@ -2349,7 +2430,8 @@
         "prim",
         "priam",
         "pria",
-        "priam"
+        "priam",
+        "rpima"
     ],
     "principalmente": [
         "principlamente"
@@ -2382,7 +2464,8 @@
         "prgoetto"
     ],
     "programma": [
-        "programam"
+        "programam",
+        "proramma"
     ],
     "programmare": [
         "programamre"
@@ -2445,7 +2528,8 @@
     ],
     "prossimo": [
         "prosismo",
-        "rpossimo"
+        "rpossimo",
+        "possimo"
     ],
     "prototipi": [
         "prototivi"
@@ -2540,7 +2624,8 @@
         "qeusto",
         "quesot",
         "queto",
-        "uqesto"
+        "uqesto",
+        "qeusto"
     ],
     "quindi": [
         "quinid",
@@ -2693,8 +2778,15 @@
     "rimarremo": [
         "rimarrermo"
     ],
+    "rimborsate": [
+        "rimobrsate"
+    ],
     "rinnovare": [
-        "rinnvoare"
+        "rinnvoare",
+        "rinovare"
+    ],
+    "rinunciato": [
+        "rinunicnato"
     ],
     "riorganizzare": [
         "riorgnaizzare"
@@ -2740,7 +2832,8 @@
     "rispondere": [
         "rispodnere",
         "rspiondre",
-        "rispodnere"
+        "rispodnere",
+        "ripsondere"
     ],
     "rispondergli": [
         "risponderlgi"
@@ -2793,6 +2886,9 @@
     ],
     "riusciti": [
         "riusxciti"
+    ],
+    "riuscito": [
+        "riuscto"
     ],
     "riusiamo": [
         "rusiamo"
@@ -2955,6 +3051,9 @@
     "semplice": [
         "semplcie"
     ],
+    "semplicemente": [
+        "semplicemnete"
+    ],
     "semplificherebbe": [
         "semplifhcerebbe"
     ],
@@ -2975,6 +3074,9 @@
     ],
     "sentita": [
         "sentta"
+    ],
+    "sentito": [
+        "snetito"
     ],
     "senza": [
         "sena",
@@ -3164,6 +3266,9 @@
     "statistiche": [
         "staitstiche"
     ],
+    "stava": [
+        "satava"
+    ],
     "stavo": [
         "stavao"
     ],
@@ -3184,6 +3289,9 @@
     ],
     "stupendi": [
         "stupedi"
+    ],
+    "succederanno": [
+        "sucederanno"
     ],
     "successivamente": [
         "sucessivamente"
@@ -3351,6 +3459,9 @@
     ],
     "ultima": [
         "ultiam"
+    ],
+    "ultimi": [
+        "utlimi"
     ],
     "un": [
         "u"
