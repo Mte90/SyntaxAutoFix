@@ -1916,6 +1916,9 @@
         "bakc",
         "bcak"
     ],
+    "backend": [
+        "backned"
+    ],
     "background": [
         "backround"
     ],
@@ -2313,7 +2316,8 @@
         "busness",
         "buisness",
         "busineses",
-        "buisness"
+        "buisness",
+        "busniess"
     ],
     "businesses": [
         "busineses"
@@ -5535,6 +5539,7 @@
         "focuse"
     ],
     "folder": [
+        "fodler",
         "fodler"
     ],
     "folders": [
@@ -5746,6 +5751,9 @@
     ],
     "fragment": [
         "fragement"
+    ],
+    "framework": [
+        "frameowkr"
     ],
     "fraught": [
         "frought"
@@ -9003,6 +9011,9 @@
     "package": [
         "pacakge"
     ],
+    "page": [
+        "apge"
+    ],
     "paid": [
         "paide",
         "payed"
@@ -9627,7 +9638,8 @@
         "pre-existant"
     ],
     "prefer": [
-        "preffer"
+        "preffer",
+        "perfer"
     ],
     "preferable": [
         "preferrable"
@@ -10341,6 +10353,9 @@
     ],
     "recruited": [
         "recruted"
+    ],
+    "recruiter": [
+        "recuiter"
     ],
     "recuperate": [
         "recouperate"
@@ -13620,7 +13635,8 @@
         "iwth",
         "witht",
         "wtih",
-        "wiht"
+        "wiht",
+        "iwht"
     ],
     "withdraw": [
         "withdrawl"

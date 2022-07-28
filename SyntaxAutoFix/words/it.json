@@ -24,7 +24,8 @@
         "abiltiati"
     ],
     "abilitato": [
-        "abiltiato"
+        "abiltiato",
+        "abilitaot"
     ],
     "abituata": [
         "abiutata"
@@ -392,6 +393,9 @@
     "battaglia": [
         "bataglia"
     ],
+    "batteria": [
+        "batteira"
+    ],
     "bella": [
         "belal"
     ],
@@ -429,6 +433,9 @@
     ],
     "cacchio": [
         "cachcio"
+    ],
+    "caduto": [
+        "caudot"
     ],
     "cambia": [
         "cabmia"
@@ -470,6 +477,9 @@
     ],
     "capiscono": [
         "capisconmo"
+    ],
+    "capite": [
+        "caoite"
     ],
     "capito": [
         "capto",
@@ -768,6 +778,9 @@
     "continuare": [
         "continaure"
     ],
+    "continuo": [
+        "contunuo"
+    ],
     "contrappone": [
         "conrappone"
     ],
@@ -818,6 +831,9 @@
     ],
     "corrispondete": [
         "corrispondnte"
+    ],
+    "corrispondono": [
+        "cirrispondono"
     ],
     "cose": [
         "cse"
@@ -963,6 +979,9 @@
     "dispiace": [
         "dispaice"
     ],
+    "dispiaceva": [
+        "dispaiceva"
+    ],
     "disposizione": [
         "dispozione"
     ],
@@ -1101,7 +1120,8 @@
         "esperssi"
     ],
     "essere": [
-        "esere"
+        "esere",
+        "essre"
     ],
     "estensione": [
         "estnesione"
@@ -1257,7 +1277,8 @@
         "funzioanvano"
     ],
     "funzione": [
-        "fuznione"
+        "fuznione",
+        "funzioen"
     ],
     "funzioni": [
         "funizoni"
@@ -1311,6 +1332,9 @@
     ],
     "grazie": [
         "graize"
+    ],
+    "grosso": [
+        "gorsso"
     ],
     "gruppi": [
         "gurppi"
@@ -1523,6 +1547,7 @@
         "interesata"
     ],
     "interessati": [
+        "itneressati",
         "itneressati"
     ],
     "interessato": [
@@ -1612,6 +1637,9 @@
     "leggendo": [
         "elggendo",
         "leggegndo"
+    ],
+    "leggere": [
+        "legere"
     ],
     "leggermente": [
         "leggereemnte",
@@ -2104,10 +2132,14 @@
         "ovviametne",
         "ovviametne",
         "ovviametne",
-        "ovviametne"
+        "ovviametne",
+        "ovviammnete"
     ],
     "paese": [
         "apese"
+    ],
+    "pagamento": [
+        "apgamento"
     ],
     "pagare": [
         "apgare"
@@ -2189,7 +2221,8 @@
         "particoalre"
     ],
     "partiva": [
-        "parrtiva"
+        "parrtiva",
+        "aprtiva"
     ],
     "passaggio": [
         "passagio"
@@ -2244,6 +2277,7 @@
         "er",
         "epr",
         "ppe",
+        "epr",
         "epr"
     ],
     "perdendo": [
@@ -2433,6 +2467,9 @@
         "priam",
         "rpima"
     ],
+    "principale": [
+        "princiaple"
+    ],
     "principalmente": [
         "principlamente"
     ],
@@ -2571,7 +2608,8 @@
         "qualce",
         "qualhce",
         "qualceh",
-        "quacleh"
+        "quacleh",
+        "qualceh"
     ],
     "qualcosa": [
         "quaclosa"
@@ -2599,7 +2637,9 @@
         "uqello",
         "uqello",
         "quelo",
-        "quelo"
+        "quelo",
+        "qeullo",
+        "uqello"
     ],
     "questa": [
         "uqesta",
@@ -2643,6 +2683,9 @@
     ],
     "rappresentanza": [
         "rappresentaza"
+    ],
+    "realizzazione": [
+        "relaizzazione"
     ],
     "recensito": [
         "recensiot"
@@ -2821,6 +2864,7 @@
     ],
     "risponde": [
         "riscponde",
+        "rispodne",
         "rispodne"
     ],
     "rispondendo": [
@@ -3380,6 +3424,9 @@
     ],
     "terapia": [
         "tarpia"
+    ],
+    "terminale": [
+        "termianle"
     ],
     "termini": [
         "temrini"
