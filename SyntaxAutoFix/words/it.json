@@ -148,6 +148,9 @@
     "alleanza": [
         "allenaza"
     ],
+    "alleanze": [
+        "allenaze"
+    ],
     "allineamento": [
         "allineameto"
     ],
@@ -202,7 +205,8 @@
     "anche": [
         "anceh",
         "nahce",
-        "anhce"
+        "anhce",
+        "nahce"
     ],
     "ancora": [
         "ancoran"
@@ -425,6 +429,9 @@
     "bordi": [
         "borid"
     ],
+    "buongiorno": [
+        "Buongirono"
+    ],
     "buono": [
         "bvuono"
     ],
@@ -517,6 +524,9 @@
     ],
     "cerco": [
         "erco"
+    ],
+    "cestinarlo": [
+        "cestianrlo"
     ],
     "che": [
         "ceh",
@@ -640,6 +650,9 @@
     ],
     "comportamento": [
         "comprotamento"
+    ],
+    "comportare": [
+        "comprtare"
     ],
     "comportarmi": [
         "comprotarmi"
@@ -1232,6 +1245,9 @@
     ],
     "fissiamoci": [
         "fissimaoci"
+    ],
+    "flashare": [
+        "flsahre"
     ],
     "fondazione": [
         "fondaizone"
@@ -1954,7 +1970,8 @@
         "nsotra"
     ],
     "nostri": [
-        "nsotri"
+        "nsotri",
+        "snotri"
     ],
     "nostro": [
         "nostor",
@@ -2102,7 +2119,8 @@
     ],
     "organizzazione": [
         "orgnaizzazione",
-        "orgnaizzaizone"
+        "orgnaizzaizone",
+        "orgnaizzazione"
     ],
     "organizzeranno": [
         "orgnaizzeranno"
@@ -2246,6 +2264,7 @@
         "spaticci"
     ],
     "paura": [
+        "apura",
         "apura"
     ],
     "pausa": [
@@ -2465,7 +2484,8 @@
         "priam",
         "pria",
         "priam",
-        "rpima"
+        "rpima",
+        "priam"
     ],
     "principale": [
         "princiaple"
@@ -3050,6 +3070,9 @@
     "scriverlo": [
         "scrivero"
     ],
+    "scrivessero": [
+        "scirvessero"
+    ],
     "scrivilo": [
         "scrivlo"
     ],
@@ -3297,6 +3320,9 @@
     "spostare": [
         "spsotare"
     ],
+    "sprite": [
+        "spirte"
+    ],
     "sputo": [
         "psuto"
     ],
@@ -3351,6 +3377,7 @@
         "sufficenti"
     ],
     "sulla": [
+        "sulal",
         "sulal"
     ],
     "sulle": [
@@ -3496,6 +3523,7 @@
         "tutet"
     ],
     "tutti": [
+        "tutit",
         "tutit"
     ],
     "tutto": [
@@ -3609,7 +3637,8 @@
         "vrsione",
         "verisone",
         "iversone",
-        "verione"
+        "verione",
+        "verisone"
     ],
     "versioni": [
         "verisoni",
