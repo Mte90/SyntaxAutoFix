@@ -7,12 +7,14 @@
         "ababstanza",
         "abbstanza",
         "abbstanza",
-        "abbastanzia"
+        "abbastanzia",
+        "abbatsanza"
     ],
     "abbiamo": [
         "abbimoa",
         "abbimo",
-        "abbimo"
+        "abbimo",
+        "abbaimo"
     ],
     "abbonamento": [
         "abonamento"
@@ -417,6 +419,9 @@
         "bisgona",
         "bisgona"
     ],
+    "bisognerebbe": [
+        "biosgnerebbe"
+    ],
     "bisogno": [
         "bisgono"
     ],
@@ -755,6 +760,9 @@
     ],
     "conosci": [
         "consosci"
+    ],
+    "consegnano": [
+        "cosnegano"
     ],
     "considera": [
         "consdiera"
@@ -1311,6 +1319,9 @@
     "gioiello": [
         "gioello"
     ],
+    "giorni": [
+        "gionri"
+    ],
     "giovedi": [
         "givoed\u00ec"
     ],
@@ -1642,7 +1653,8 @@
     ],
     "lavoro": [
         "alvoro",
-        "alvoro"
+        "alvoro",
+        "laovro"
     ],
     "le ho detto": [
         "gli ho detto"
@@ -1723,6 +1735,9 @@
         "machcina",
         "machina"
     ],
+    "macchine": [
+        "machcine"
+    ],
     "macchinetta": [
         "machcinetta"
     ],
@@ -1783,6 +1798,9 @@
     ],
     "manteniamo": [
         " manteiamo"
+    ],
+    "mantenimento": [
+        "mantenimeto"
     ],
     "manualmente": [
         "manualemten"
@@ -1851,6 +1869,9 @@
     "mettiamo": [
         "metttiamo"
     ],
+    "mettono": [
+        "emtono"
+    ],
     "migliaio": [
         "miglialio"
     ],
@@ -1883,6 +1904,9 @@
     ],
     "mistica": [
         "miatica"
+    ],
+    "misure": [
+        "msiure"
     ],
     "mobile": [
         "modile"
@@ -1920,6 +1944,9 @@
     ],
     "muovere": [
         "muivere"
+    ],
+    "nascita": [
+        "anscita"
     ],
     "nascosta": [
         "nasconsta"
@@ -2074,6 +2101,7 @@
     "organizzare": [
         "orgnaizzare",
         "roganizzare",
+        "orgnaizzare",
         "orgnaizzare"
     ],
     "organizzarle": [
@@ -2789,6 +2817,7 @@
         "ricontrolalti"
     ],
     "riempito": [
+        "rimpeito",
         "rimpeito"
     ],
     "riesce": [
@@ -3112,6 +3141,9 @@
     "sembra": [
         "smebra"
     ],
+    "sembrava": [
+        "sebrava"
+    ],
     "semiautomatico": [
         "semiautoamtico"
     ],
@@ -3167,6 +3199,9 @@
     "servono": [
         "serovno",
         "serovno"
+    ],
+    "settembre": [
+        "setembre"
     ],
     "settimana": [
         "settimna",
@@ -3458,6 +3493,9 @@
     "termini": [
         "temrini"
     ],
+    "tienile": [
+        "tenile"
+    ],
     "timeout": [
         "timoeut"
     ],
@@ -3580,12 +3618,14 @@
         "vaod"
     ],
     "validazione": [
+        "validazioen",
         "validazioen"
     ],
     "valutare": [
         "valtuare"
     ],
     "valutazioni": [
+        "valutaizoni",
         "valutaizoni",
         "valutaizoni"
     ],
@@ -3638,7 +3678,8 @@
         "verisone",
         "iversone",
         "verione",
-        "verisone"
+        "verisone",
+        "verisoen"
     ],
     "versioni": [
         "verisoni",
