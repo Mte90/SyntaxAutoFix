@@ -89,6 +89,9 @@
         "agigornare",
         "aggioranre"
     ],
+    "aggiornata": [
+        "agigornata"
+    ],
     "aggiornato": [
         "agiornato",
         "agigornato",
@@ -195,8 +198,17 @@
     "altro": [
         "latro"
     ],
+    "ammesso": [
+        "amesso"
+    ],
+    "ammettere": [
+        "amettere"
+    ],
     "amministrativa": [
         "amminsitrativa"
+    ],
+    "amministratore": [
+        "amminsitratore"
     ],
     "amministrazioni": [
         "amministraizoni"
@@ -404,6 +416,9 @@
     ],
     "bella": [
         "belal"
+    ],
+    "benvenuta": [
+        "bnevenuta"
     ],
     "bestemmiare": [
         "bestemiare"
@@ -716,6 +731,9 @@
     "condotta": [
         "condatta"
     ],
+    "confartigianato": [
+        "confartiginato"
+    ],
     "conferenze": [
         "conferneze"
     ],
@@ -891,6 +909,9 @@
     "definitiva": [
         "definitva"
     ],
+    "definitivo": [
+        "definitvo"
+    ],
     "del": [
         "dle"
     ],
@@ -900,6 +921,9 @@
     "delle": [
         "dele",
         "delel"
+    ],
+    "democratico": [
+        "demcoratico"
     ],
     "deposito": [
         "despoito"
@@ -965,7 +989,8 @@
         "direbero"
     ],
     "direi": [
-        "dieri"
+        "dieri",
+        "idrei"
     ],
     "diretta": [
         "direta"
@@ -987,6 +1012,12 @@
     "dirglielo": [
         "dirgielo",
         "dirglelo"
+    ],
+    "disallineato": [
+        "disallienato"
+    ],
+    "disattivare": [
+        "diattivare"
     ],
     "discussione": [
         "discusisone"
@@ -1433,6 +1464,9 @@
     "impianta": [
         "impianata"
     ],
+    "implementare": [
+        "implemntare"
+    ],
     "implementato": [
         "implmentato"
     ],
@@ -1836,6 +1870,9 @@
     "mese": [
         "emse"
     ],
+    "messaggi": [
+        "messagi"
+    ],
     "messaggio": [
         "emssaggio"
     ],
@@ -1843,7 +1880,8 @@
         "meotdi"
     ],
     "metodo": [
-        "medoto"
+        "medoto",
+        "emtodo"
     ],
     "mette": [
         "emtte"
@@ -1856,6 +1894,9 @@
     ],
     "mettere": [
         "emttere"
+    ],
+    "metterli": [
+        "emtterli"
     ],
     "mettermi": [
         "emttermi"
@@ -2667,6 +2708,7 @@
     ],
     "quando": [
         "qaundo",
+        "qunado",
         "qunado"
     ],
     "quanto": [
@@ -2777,6 +2819,9 @@
     ],
     "riaccendendo": [
         "riaccendnedo"
+    ],
+    "riapprovarla": [
+        "riapporvarla"
     ],
     "riapri": [
         "riaptri"
@@ -3249,7 +3294,8 @@
         "sincerammente"
     ],
     "singola": [
-        "singoal"
+        "singoal",
+        "signola"
     ],
     "singolarmente": [
         "singolrmente"
@@ -3262,6 +3308,7 @@
         "sistamaizone"
     ],
     "sistemo": [
+        "sistmeo",
         "sistmeo"
     ],
     "situazione": [
@@ -3368,6 +3415,9 @@
         "stmapare",
         "stamapre"
     ],
+    "stanno": [
+        "stanho"
+    ],
     "statistiche": [
         "staitstiche"
     ],
@@ -3389,6 +3439,9 @@
     "storico": [
         "sotirco"
     ],
+    "strada": [
+        "sttada"
+    ],
     "studentesche": [
         "studentesce"
     ],
@@ -3400,6 +3453,9 @@
     ],
     "successivamente": [
         "sucessivamente"
+    ],
+    "successivo": [
+        "sucessivo"
     ],
     "successo": [
         "sucesso"
@@ -3533,6 +3589,9 @@
     ],
     "trasforma": [
         "trasfroma"
+    ],
+    "trastevere": [
+        "trasntevere"
     ],
     "tratterebbe": [
         "tratterenbbe"
