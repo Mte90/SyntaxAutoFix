@@ -38,6 +38,9 @@
     "accede": [
         "acede"
     ],
+    "accessi": [
+        "acessi"
+    ],
     "accesso": [
         "acecsso",
         "acesso"
@@ -196,7 +199,8 @@
         "altriemnti"
     ],
     "altro": [
-        "latro"
+        "latro",
+        "alotr"
     ],
     "ammesso": [
         "amesso"
@@ -223,7 +227,8 @@
         "nahce"
     ],
     "ancora": [
-        "ancoran"
+        "ancoran",
+        "acora"
     ],
     "andando": [
         "anando"
@@ -346,6 +351,9 @@
     ],
     "automaticamente": [
         "autoamticamente"
+    ],
+    "automatici": [
+        "autoamtici"
     ],
     "automatico": [
         "autoamtico",
@@ -749,6 +757,9 @@
     "configurati": [
         "connfigurati"
     ],
+    "configurato": [
+        "confogirato"
+    ],
     "configurazione": [
         "configurazioen",
         "configuarazione",
@@ -905,6 +916,9 @@
     ],
     "declinare": [
         "declianre"
+    ],
+    "definire": [
+        "defnire"
     ],
     "definitiva": [
         "definitva"
@@ -1778,6 +1792,9 @@
     "madonna": [
         "madonan"
     ],
+    "magagne": [
+        "amgagne"
+    ],
     "magari": [
         "mfgari"
     ],
@@ -1856,6 +1873,9 @@
     "matrimonio": [
         "amtrimonio",
         "amtrimonio"
+    ],
+    "mattina": [
+        "mattian"
     ],
     "meglio": [
         "megli",
@@ -2409,7 +2429,8 @@
         "paice"
     ],
     "piacere": [
-        "paicere"
+        "paicere",
+        "piacree"
     ],
     "piacerebbe": [
         "paicerebbe",
@@ -2562,6 +2583,9 @@
     "principalmente": [
         "principlamente"
     ],
+    "privato": [
+        "prvato"
+    ],
     "probabilmente": [
         "probabilmetne"
     ],
@@ -2702,6 +2726,9 @@
     ],
     "qualcosa": [
         "quaclosa"
+    ],
+    "qualcuno": [
+        "qulaucno"
     ],
     "qualsiasi": [
         "quasliasi"
@@ -2998,7 +3025,8 @@
     ],
     "risultati": [
         "irsultati",
-        "rislutati"
+        "rislutati",
+        "rsiultati"
     ],
     "ritardo": [
         "irtardo"
@@ -3096,6 +3124,9 @@
     "scelta": [
         "scleta"
     ],
+    "scelto": [
+        "scleto"
+    ],
     "scheda": [
         "scehda"
     ],
@@ -3137,6 +3168,9 @@
     ],
     "scritto": [
         "scrito"
+    ],
+    "scrivendolo": [
+        "scirvendolo"
     ],
     "scrivergli": [
         "scrviergli"
@@ -3460,12 +3494,18 @@
     "successo": [
         "sucesso"
     ],
+    "sufficente": [
+        "sufficinte"
+    ],
     "sufficiente": [
         "sufficente"
     ],
     "sufficienti": [
         "sufficenti",
         "sufficenti"
+    ],
+    "suggerimenti": [
+        "suggeriemnti"
     ],
     "sulla": [
         "sulal",
@@ -3514,6 +3554,10 @@
     ],
     "tastiera": [
         "tasteira"
+    ],
+    "telefonare": [
+        "telefoanre",
+        "telefoanre"
     ],
     "telefonarmi": [
         "telefornarmi"
@@ -3575,7 +3619,8 @@
         "tracciamneto"
     ],
     "traduzione": [
-        "traduzioen"
+        "traduzioen",
+        "tradzuione"
     ],
     "tranquillamente": [
         "tranquillametne",
@@ -3633,7 +3678,8 @@
         "ultiam"
     ],
     "ultimi": [
-        "utlimi"
+        "utlimi",
+        "lutimi"
     ],
     "un": [
         "u"
@@ -3713,7 +3759,8 @@
     "veramente": [
         "verametne",
         "verametne",
-        "verametne"
+        "verametne",
+        "vermente"
     ],
     "verifica": [
         "varifica"
@@ -3804,5 +3851,8 @@
     ],
     "vulnerabilit\u00e1": [
         "vulenrabilit\u00e1"
+    ],
+    "webinar": [
+        "webianr"
     ]
 }
