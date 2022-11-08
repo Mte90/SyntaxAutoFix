@@ -1311,6 +1311,9 @@
     "formato": [
         "formatoo"
     ],
+    "fornitore": [
+        "frornitore"
+    ],
     "forse": [
         "frose"
     ],
@@ -1551,6 +1554,9 @@
     ],
     "innalzati": [
         "inalzati"
+    ],
+    "innanzitutto": [
+        "innazitutto"
     ],
     "innestate": [
         "inestate"
@@ -2627,7 +2633,8 @@
         "prgrammatore"
     ],
     "programmatori": [
-        "programamtori"
+        "programamtori",
+        "progeammatori"
     ],
     "proiettore": [
         "proeittore"
