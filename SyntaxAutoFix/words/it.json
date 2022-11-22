@@ -212,6 +212,7 @@
         "amminsitrativa"
     ],
     "amministratore": [
+        "amminsitratore",
         "amminsitratore"
     ],
     "amministrazioni": [
@@ -265,6 +266,9 @@
     ],
     "appena": [
         "appean"
+    ],
+    "approfittare": [
+        "appforittare"
     ],
     "approfittiamo": [
         "approfitiamo"
@@ -763,7 +767,9 @@
     "configurazione": [
         "configurazioen",
         "configuarazione",
-        "condigurazione"
+        "condigurazione",
+        "confgiurazione",
+        "confgiurazione"
     ],
     "confusione": [
         "confusioen"
@@ -1109,6 +1115,9 @@
     "dovreste": [
         "drovreste"
     ],
+    "dovuto": [
+        "duvot"
+    ],
     "due": [
         "deu"
     ],
@@ -1368,7 +1377,8 @@
         "gioello"
     ],
     "giorni": [
-        "gionri"
+        "gionri",
+        "grioni"
     ],
     "giovedi": [
         "givoed\u00ec"
@@ -1609,6 +1619,9 @@
     "interattivi": [
         "interativi"
     ],
+    "interazioni": [
+        "interaizoni"
+    ],
     "interessa": [
         "itneressa",
         "interess"
@@ -1691,6 +1704,9 @@
     ],
     "lascio": [
         "alscio"
+    ],
+    "lavatrice": [
+        "lvatrice"
     ],
     "lavora": [
         "alvora"
@@ -1838,6 +1854,9 @@
     "mandato": [
         "manato"
     ],
+    "mandavano": [
+        "mandavno"
+    ],
     "mando": [
         "amndo"
     ],
@@ -1871,6 +1890,9 @@
     ],
     "massimo": [
         "masismo"
+    ],
+    "materassi": [
+        "amterassi"
     ],
     "materiale": [
         "amteriale",
@@ -2299,6 +2321,9 @@
         "pralare",
         "paralre"
     ],
+    "parlato": [
+        "aprlato"
+    ],
     "parliamo": [
         "parliamno",
         "parlaimo"
@@ -2639,6 +2664,9 @@
     "proiettore": [
         "proeittore"
     ],
+    "prontissime": [
+        "prosntissime"
+    ],
     "pronto": [
         "prontt"
     ],
@@ -2877,7 +2905,8 @@
         "richeidere"
     ],
     "richiesta": [
-        "richeista"
+        "richeista",
+        "irchiesta"
     ],
     "richieste": [
         "recheiste",
